@@ -1,0 +1,1983 @@
+{
+  "name": "Qure-Style-SVG",
+  "icon": "https://avatars.githubusercontent.com/u/149130188?v=4",
+  "description": "Qure 风格 SVG 图标集，包含通用图标与地区、组织旗帜。作者：aaANDkk。",
+  "icons": [
+    {
+      "name": "5iTV.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/5iTV.svg"
+    },
+    {
+      "name": "AbemaTV.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AbemaTV.svg"
+    },
+    {
+      "name": "AdBlock.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AdBlock.svg"
+    },
+    {
+      "name": "Advertising.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Advertising.svg"
+    },
+    {
+      "name": "AdWhite.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AdWhite.svg"
+    },
+    {
+      "name": "Africa_Map.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Africa_Map.svg"
+    },
+    {
+      "name": "Airport.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Airport.svg"
+    },
+    {
+      "name": "Amazon.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Amazon.svg"
+    },
+    {
+      "name": "Anime.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Anime.svg"
+    },
+    {
+      "name": "Apple.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Apple.svg"
+    },
+    {
+      "name": "Apple_Fitness+.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Apple_Fitness%2B.svg"
+    },
+    {
+      "name": "Apple_Music.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Apple_Music.svg"
+    },
+    {
+      "name": "Apple_Update.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Apple_Update.svg"
+    },
+    {
+      "name": "Area.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Area.svg"
+    },
+    {
+      "name": "Asia_Map.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Asia_Map.svg"
+    },
+    {
+      "name": "Auto.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Auto.svg"
+    },
+    {
+      "name": "Available(1).svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Available%281%29.svg"
+    },
+    {
+      "name": "Available.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Available.svg"
+    },
+    {
+      "name": "Bahamut.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Bahamut.svg"
+    },
+    {
+      "name": "Baidu.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Baidu.svg"
+    },
+    {
+      "name": "Bamboo.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Bamboo.svg"
+    },
+    {
+      "name": "Bangumi.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Bangumi.svg"
+    },
+    {
+      "name": "Bettbox.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Bettbox.svg"
+    },
+    {
+      "name": "BGP.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BGP.svg"
+    },
+    {
+      "name": "bilibili.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/bilibili.svg"
+    },
+    {
+      "name": "Binance.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Binance.svg"
+    },
+    {
+      "name": "Blackhole.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Blackhole.svg"
+    },
+    {
+      "name": "Blinkload.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Blinkload.svg"
+    },
+    {
+      "name": "Bookpedia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Bookpedia.svg"
+    },
+    {
+      "name": "BosLife.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BosLife.svg"
+    },
+    {
+      "name": "Bot.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Bot.svg"
+    },
+    {
+      "name": "Brave.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Brave.svg"
+    },
+    {
+      "name": "Browser.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Browser.svg"
+    },
+    {
+      "name": "Bypass.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Bypass.svg"
+    },
+    {
+      "name": "Cat.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Cat.svg"
+    },
+    {
+      "name": "CC.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/CC.svg"
+    },
+    {
+      "name": "Cellular.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Cellular.svg"
+    },
+    {
+      "name": "ChatGPT.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ChatGPT.svg"
+    },
+    {
+      "name": "CherryStudio.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/CherryStudio.svg"
+    },
+    {
+      "name": "China_Map.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/China_Map.svg"
+    },
+    {
+      "name": "Civitai.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Civitai.svg"
+    },
+    {
+      "name": "Claude.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Claude.svg"
+    },
+    {
+      "name": "Claude_Code.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Claude_Code.svg"
+    },
+    {
+      "name": "Cline.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Cline.svg"
+    },
+    {
+      "name": "Cloudflare.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Cloudflare.svg"
+    },
+    {
+      "name": "ComfyUI.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ComfyUI.svg"
+    },
+    {
+      "name": "Coze.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Coze.svg"
+    },
+    {
+      "name": "crypto.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/crypto.svg"
+    },
+    {
+      "name": "Cryptocurrency.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Cryptocurrency.svg"
+    },
+    {
+      "name": "Cursor.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Cursor.svg"
+    },
+    {
+      "name": "Daily.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Daily.svg"
+    },
+    {
+      "name": "DeepL.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/DeepL.svg"
+    },
+    {
+      "name": "DeepSeek.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/DeepSeek.svg"
+    },
+    {
+      "name": "Dify.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Dify.svg"
+    },
+    {
+      "name": "Dinosaur.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Dinosaur.svg"
+    },
+    {
+      "name": "Direct.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Direct.svg"
+    },
+    {
+      "name": "Discord.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Discord.svg"
+    },
+    {
+      "name": "Disney.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Disney.svg"
+    },
+    {
+      "name": "Docker.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Docker.svg"
+    },
+    {
+      "name": "Domestic.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Domestic.svg"
+    },
+    {
+      "name": "Doubao.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Doubao.svg"
+    },
+    {
+      "name": "Download.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Download.svg"
+    },
+    {
+      "name": "Drill.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Drill.svg"
+    },
+    {
+      "name": "eBay.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/eBay.svg"
+    },
+    {
+      "name": "EHentai.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/EHentai.svg"
+    },
+    {
+      "name": "ElevenLabs.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ElevenLabs.svg"
+    },
+    {
+      "name": "Emby.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Emby.svg"
+    },
+    {
+      "name": "Epic_Games.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Epic_Games.svg"
+    },
+    {
+      "name": "ESPN+.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ESPN%2B.svg"
+    },
+    {
+      "name": "Europe_Map.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Europe_Map.svg"
+    },
+    {
+      "name": "Facebook.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Facebook.svg"
+    },
+    {
+      "name": "FCM.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FCM.svg"
+    },
+    {
+      "name": "Figma.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Figma.svg"
+    },
+    {
+      "name": "Filter.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Filter.svg"
+    },
+    {
+      "name": "Final.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Final.svg"
+    },
+    {
+      "name": "FireworksAI.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FireworksAI.svg"
+    },
+    {
+      "name": "FishAudio.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FishAudio.svg"
+    },
+    {
+      "name": "FlClash.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FlClash.svg"
+    },
+    {
+      "name": "friDay.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/friDay.svg"
+    },
+    {
+      "name": "Fries.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Fries.svg"
+    },
+    {
+      "name": "Frog.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Frog.svg"
+    },
+    {
+      "name": "fuboTV.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/fuboTV.svg"
+    },
+    {
+      "name": "Game.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Game.svg"
+    },
+    {
+      "name": "Gemini.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Gemini.svg"
+    },
+    {
+      "name": "GIA.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/GIA.svg"
+    },
+    {
+      "name": "GitHub.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/GitHub.svg"
+    },
+    {
+      "name": "Gitlab.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Gitlab.svg"
+    },
+    {
+      "name": "GLM.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/GLM.svg"
+    },
+    {
+      "name": "Global.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Global.svg"
+    },
+    {
+      "name": "Google.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Google.svg"
+    },
+    {
+      "name": "Google_Opinion_Rewards.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Google_Opinion_Rewards.svg"
+    },
+    {
+      "name": "Grok(1).svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Grok%281%29.svg"
+    },
+    {
+      "name": "Grok.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Grok.svg"
+    },
+    {
+      "name": "Groq.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Groq.svg"
+    },
+    {
+      "name": "HBO(1).svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/HBO%281%29.svg"
+    },
+    {
+      "name": "HBO.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/HBO.svg"
+    },
+    {
+      "name": "Heart.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Heart.svg"
+    },
+    {
+      "name": "Hijacking.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Hijacking.svg"
+    },
+    {
+      "name": "Home(1).svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Home%281%29.svg"
+    },
+    {
+      "name": "Home.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Home.svg"
+    },
+    {
+      "name": "Huawei.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Huawei.svg"
+    },
+    {
+      "name": "HuggingFace.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/HuggingFace.svg"
+    },
+    {
+      "name": "Hulu.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Hulu.svg"
+    },
+    {
+      "name": "Huobi.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Huobi.svg"
+    },
+    {
+      "name": "iCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/iCloud.svg"
+    },
+    {
+      "name": "Ideogram.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Ideogram.svg"
+    },
+    {
+      "name": "IEPL.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/IEPL.svg"
+    },
+    {
+      "name": "Infuse.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Infuse.svg"
+    },
+    {
+      "name": "Ingress.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Ingress.svg"
+    },
+    {
+      "name": "Instagram.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Instagram.svg"
+    },
+    {
+      "name": "IPLC.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/IPLC.svg"
+    },
+    {
+      "name": "iQIYI.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/iQIYI.svg"
+    },
+    {
+      "name": "ITV.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ITV.svg"
+    },
+    {
+      "name": "KiloCode.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/KiloCode.svg"
+    },
+    {
+      "name": "Kimi.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Kimi.svg"
+    },
+    {
+      "name": "Kling.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Kling.svg"
+    },
+    {
+      "name": "Kraken.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Kraken.svg"
+    },
+    {
+      "name": "LA_Map.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LA_Map.svg"
+    },
+    {
+      "name": "Lab.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Lab.svg"
+    },
+    {
+      "name": "LangChain.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LangChain.svg"
+    },
+    {
+      "name": "Langfuse.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Langfuse.svg"
+    },
+    {
+      "name": "Line.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Line.svg"
+    },
+    {
+      "name": "LineTV.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LineTV.svg"
+    },
+    {
+      "name": "Linkedin.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Linkedin.svg"
+    },
+    {
+      "name": "LiTV.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LiTV.svg"
+    },
+    {
+      "name": "LlamaIndex.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LlamaIndex.svg"
+    },
+    {
+      "name": "LMStudio.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LMStudio.svg"
+    },
+    {
+      "name": "Lock.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Lock.svg"
+    },
+    {
+      "name": "Loop.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Loop.svg"
+    },
+    {
+      "name": "Magic.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Magic.svg"
+    },
+    {
+      "name": "Media.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Media.svg"
+    },
+    {
+      "name": "Messenger.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Messenger.svg"
+    },
+    {
+      "name": "Meta.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Meta.svg"
+    },
+    {
+      "name": "Mickey.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Mickey.svg"
+    },
+    {
+      "name": "Microsoft.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Microsoft.svg"
+    },
+    {
+      "name": "Midjourney.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Midjourney.svg"
+    },
+    {
+      "name": "MiniMax.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/MiniMax.svg"
+    },
+    {
+      "name": "MissAV.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/MissAV.svg"
+    },
+    {
+      "name": "Mistral.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Mistral.svg"
+    },
+    {
+      "name": "ModelScope.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ModelScope.svg"
+    },
+    {
+      "name": "n8n.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/n8n.svg"
+    },
+    {
+      "name": "NBA.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NBA.svg"
+    },
+    {
+      "name": "NBC.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NBC.svg"
+    },
+    {
+      "name": "Netflix.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Netflix.svg"
+    },
+    {
+      "name": "Nfcloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Nfcloud.svg"
+    },
+    {
+      "name": "NicoNico.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NicoNico.svg"
+    },
+    {
+      "name": "Ninja.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Ninja.svg"
+    },
+    {
+      "name": "Nintendo.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Nintendo.svg"
+    },
+    {
+      "name": "Notion.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Notion.svg"
+    },
+    {
+      "name": "NVIDIA.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NVIDIA.svg"
+    },
+    {
+      "name": "Obsidian.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Obsidian.svg"
+    },
+    {
+      "name": "Oceania_Map.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Oceania_Map.svg"
+    },
+    {
+      "name": "Ollama.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Ollama.svg"
+    },
+    {
+      "name": "OpenCode.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/OpenCode.svg"
+    },
+    {
+      "name": "OpenRouter.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/OpenRouter.svg"
+    },
+    {
+      "name": "OpenWebUI.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/OpenWebUI.svg"
+    },
+    {
+      "name": "Ox.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Ox.svg"
+    },
+    {
+      "name": "Panda.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Panda.svg"
+    },
+    {
+      "name": "Paramount.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Paramount.svg"
+    },
+    {
+      "name": "PayPal.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/PayPal.svg"
+    },
+    {
+      "name": "PBS.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/PBS.svg"
+    },
+    {
+      "name": "Perplexity.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Perplexity.svg"
+    },
+    {
+      "name": "Pig.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Pig.svg"
+    },
+    {
+      "name": "Pika.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Pika.svg"
+    },
+    {
+      "name": "Pixiv.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Pixiv.svg"
+    },
+    {
+      "name": "PixVerse.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/PixVerse.svg"
+    },
+    {
+      "name": "Pornhub.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Pornhub.svg"
+    },
+    {
+      "name": "Prime_Video.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Prime_Video.svg"
+    },
+    {
+      "name": "Proxy.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Proxy.svg"
+    },
+    {
+      "name": "Puzzle.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Puzzle.svg"
+    },
+    {
+      "name": "Quic.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Quic.svg"
+    },
+    {
+      "name": "Qwen.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Qwen.svg"
+    },
+    {
+      "name": "Rainbow.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Rainbow.svg"
+    },
+    {
+      "name": "Recraft.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Recraft.svg"
+    },
+    {
+      "name": "Reddit.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Reddit.svg"
+    },
+    {
+      "name": "Reject.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Reject.svg"
+    },
+    {
+      "name": "Replicate.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Replicate.svg"
+    },
+    {
+      "name": "Ring.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Ring.svg"
+    },
+    {
+      "name": "Riot_Games.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Riot_Games.svg"
+    },
+    {
+      "name": "Rocket.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Rocket.svg"
+    },
+    {
+      "name": "RooCode.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/RooCode.svg"
+    },
+    {
+      "name": "Round_Robin.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Round_Robin.svg"
+    },
+    {
+      "name": "Runway.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Runway.svg"
+    },
+    {
+      "name": "Scholar.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Scholar.svg"
+    },
+    {
+      "name": "Server.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Server.svg"
+    },
+    {
+      "name": "Shopee.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Shopee.svg"
+    },
+    {
+      "name": "SiliconFlow.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/SiliconFlow.svg"
+    },
+    {
+      "name": "Spark.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Spark.svg"
+    },
+    {
+      "name": "Speedtest.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Speedtest.svg"
+    },
+    {
+      "name": "Spotify.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Spotify.svg"
+    },
+    {
+      "name": "SSID.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/SSID.svg"
+    },
+    {
+      "name": "SSL.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/SSL.svg"
+    },
+    {
+      "name": "StabilityAI.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/StabilityAI.svg"
+    },
+    {
+      "name": "Stack.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Stack.svg"
+    },
+    {
+      "name": "Star.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Star.svg"
+    },
+    {
+      "name": "Static(1).svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Static%281%29.svg"
+    },
+    {
+      "name": "Static.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Static.svg"
+    },
+    {
+      "name": "Steam.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Steam.svg"
+    },
+    {
+      "name": "Streaming.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Streaming.svg"
+    },
+    {
+      "name": "Suno.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Suno.svg"
+    },
+    {
+      "name": "Telegram.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Telegram.svg"
+    },
+    {
+      "name": "Tencent.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Tencent.svg"
+    },
+    {
+      "name": "Threads.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Threads.svg"
+    },
+    {
+      "name": "TikTok.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/TikTok.svg"
+    },
+    {
+      "name": "TogetherAI.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/TogetherAI.svg"
+    },
+    {
+      "name": "Trae.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Trae.svg"
+    },
+    {
+      "name": "TVB.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/TVB.svg"
+    },
+    {
+      "name": "Twitch.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Twitch.svg"
+    },
+    {
+      "name": "Twitter.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Twitter.svg"
+    },
+    {
+      "name": "Udio.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Udio.svg"
+    },
+    {
+      "name": "ULB.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ULB.svg"
+    },
+    {
+      "name": "United_States_Map.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/United_States_Map.svg"
+    },
+    {
+      "name": "Unlock.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Unlock.svg"
+    },
+    {
+      "name": "V2EX.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/V2EX.svg"
+    },
+    {
+      "name": "Vercel.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Vercel.svg"
+    },
+    {
+      "name": "Vimeo.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Vimeo.svg"
+    },
+    {
+      "name": "WebRTC.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/WebRTC.svg"
+    },
+    {
+      "name": "WiFi.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/WiFi.svg"
+    },
+    {
+      "name": "Windsurf.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Windsurf.svg"
+    },
+    {
+      "name": "Wise.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Wise.svg"
+    },
+    {
+      "name": "World_Map.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/World_Map.svg"
+    },
+    {
+      "name": "Xbox.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Xbox.svg"
+    },
+    {
+      "name": "Yahoo.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Yahoo.svg"
+    },
+    {
+      "name": "YouTube.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YouTube.svg"
+    },
+    {
+      "name": "Afghanistan.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Afghanistan.svg"
+    },
+    {
+      "name": "Aland_Islands.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Aland_Islands.svg"
+    },
+    {
+      "name": "Albania.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Albania.svg"
+    },
+    {
+      "name": "Algeria.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Algeria.svg"
+    },
+    {
+      "name": "American_Samoa.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/American_Samoa.svg"
+    },
+    {
+      "name": "Andorra.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Andorra.svg"
+    },
+    {
+      "name": "Angola.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Angola.svg"
+    },
+    {
+      "name": "Anguilla.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Anguilla.svg"
+    },
+    {
+      "name": "Antarctica.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Antarctica.svg"
+    },
+    {
+      "name": "Antigua_and_Barbuda.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Antigua_and_Barbuda.svg"
+    },
+    {
+      "name": "Argentina.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Argentina.svg"
+    },
+    {
+      "name": "Armenia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Armenia.svg"
+    },
+    {
+      "name": "Aruba.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Aruba.svg"
+    },
+    {
+      "name": "Ascension_Island.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Ascension_Island.svg"
+    },
+    {
+      "name": "Association_of_Southeast_Asian_Nations.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Association_of_Southeast_Asian_Nations.svg"
+    },
+    {
+      "name": "Australia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Australia.svg"
+    },
+    {
+      "name": "Austria.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Austria.svg"
+    },
+    {
+      "name": "Azerbaijan.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Azerbaijan.svg"
+    },
+    {
+      "name": "Bahamas.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Bahamas.svg"
+    },
+    {
+      "name": "Bahrain.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Bahrain.svg"
+    },
+    {
+      "name": "Bangladesh.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Bangladesh.svg"
+    },
+    {
+      "name": "Barbados.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Barbados.svg"
+    },
+    {
+      "name": "Basque_Country.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Basque_Country.svg"
+    },
+    {
+      "name": "Belarus.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Belarus.svg"
+    },
+    {
+      "name": "Belgium.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Belgium.svg"
+    },
+    {
+      "name": "Belize.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Belize.svg"
+    },
+    {
+      "name": "Benin.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Benin.svg"
+    },
+    {
+      "name": "Bermuda.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Bermuda.svg"
+    },
+    {
+      "name": "Bhutan.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Bhutan.svg"
+    },
+    {
+      "name": "Bolivia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Bolivia.svg"
+    },
+    {
+      "name": "Bonaire_Sint_Eustatius_and_Saba.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Bonaire_Sint_Eustatius_and_Saba.svg"
+    },
+    {
+      "name": "Bosnia_and_Herzegovina.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Bosnia_and_Herzegovina.svg"
+    },
+    {
+      "name": "Botswana.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Botswana.svg"
+    },
+    {
+      "name": "Bouvet_Island.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Bouvet_Island.svg"
+    },
+    {
+      "name": "Brazil.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Brazil.svg"
+    },
+    {
+      "name": "British_Indian_Ocean_Territory.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/British_Indian_Ocean_Territory.svg"
+    },
+    {
+      "name": "Brunei_Darussalam.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Brunei_Darussalam.svg"
+    },
+    {
+      "name": "Bulgaria.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Bulgaria.svg"
+    },
+    {
+      "name": "Burkina_Faso.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Burkina_Faso.svg"
+    },
+    {
+      "name": "Burundi.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Burundi.svg"
+    },
+    {
+      "name": "C_te_d_Ivoire.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/C_te_d_Ivoire.svg"
+    },
+    {
+      "name": "Cabo_Verde.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Cabo_Verde.svg"
+    },
+    {
+      "name": "Cambodia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Cambodia.svg"
+    },
+    {
+      "name": "Cameroon.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Cameroon.svg"
+    },
+    {
+      "name": "Canada.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Canada.svg"
+    },
+    {
+      "name": "Canary_Islands.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Canary_Islands.svg"
+    },
+    {
+      "name": "Catalonia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Catalonia.svg"
+    },
+    {
+      "name": "Cayman_Islands.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Cayman_Islands.svg"
+    },
+    {
+      "name": "Central_African_Republic.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Central_African_Republic.svg"
+    },
+    {
+      "name": "Central_European_Free_Trade_Agreement.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Central_European_Free_Trade_Agreement.svg"
+    },
+    {
+      "name": "Chad.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Chad.svg"
+    },
+    {
+      "name": "Chile.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Chile.svg"
+    },
+    {
+      "name": "China.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/China.svg"
+    },
+    {
+      "name": "China_Taiwan.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/China_Taiwan.svg"
+    },
+    {
+      "name": "Christmas_Island.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Christmas_Island.svg"
+    },
+    {
+      "name": "Clipperton_Island.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Clipperton_Island.svg"
+    },
+    {
+      "name": "Cocos_Keeling_Islands.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Cocos_Keeling_Islands.svg"
+    },
+    {
+      "name": "Colombia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Colombia.svg"
+    },
+    {
+      "name": "Comoros.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Comoros.svg"
+    },
+    {
+      "name": "Cook_Islands.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Cook_Islands.svg"
+    },
+    {
+      "name": "Costa_Rica.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Costa_Rica.svg"
+    },
+    {
+      "name": "Croatia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Croatia.svg"
+    },
+    {
+      "name": "Cuba.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Cuba.svg"
+    },
+    {
+      "name": "Cura_ao.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Cura_ao.svg"
+    },
+    {
+      "name": "Cyprus.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Cyprus.svg"
+    },
+    {
+      "name": "Czechia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Czechia.svg"
+    },
+    {
+      "name": "Democratic_Republic_of_the_Congo.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Democratic_Republic_of_the_Congo.svg"
+    },
+    {
+      "name": "Denmark.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Denmark.svg"
+    },
+    {
+      "name": "Diego_Garcia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Diego_Garcia.svg"
+    },
+    {
+      "name": "Djibouti.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Djibouti.svg"
+    },
+    {
+      "name": "Dominica.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Dominica.svg"
+    },
+    {
+      "name": "Dominican_Republic.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Dominican_Republic.svg"
+    },
+    {
+      "name": "East_African_Community.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/East_African_Community.svg"
+    },
+    {
+      "name": "Ecuador.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Ecuador.svg"
+    },
+    {
+      "name": "Egypt.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Egypt.svg"
+    },
+    {
+      "name": "El_Salvador.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/El_Salvador.svg"
+    },
+    {
+      "name": "England.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/England.svg"
+    },
+    {
+      "name": "Equatorial_Guinea.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Equatorial_Guinea.svg"
+    },
+    {
+      "name": "Eritrea.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Eritrea.svg"
+    },
+    {
+      "name": "Estonia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Estonia.svg"
+    },
+    {
+      "name": "Eswatini.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Eswatini.svg"
+    },
+    {
+      "name": "Ethiopia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Ethiopia.svg"
+    },
+    {
+      "name": "European_Union.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/European_Union.svg"
+    },
+    {
+      "name": "Falkland_Islands.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Falkland_Islands.svg"
+    },
+    {
+      "name": "Faroe_Islands.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Faroe_Islands.svg"
+    },
+    {
+      "name": "Federated_States_of_Micronesia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Federated_States_of_Micronesia.svg"
+    },
+    {
+      "name": "Fiji.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Fiji.svg"
+    },
+    {
+      "name": "Finland.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Finland.svg"
+    },
+    {
+      "name": "France.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/France.svg"
+    },
+    {
+      "name": "French_Guiana.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/French_Guiana.svg"
+    },
+    {
+      "name": "French_Polynesia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/French_Polynesia.svg"
+    },
+    {
+      "name": "French_Southern_Territories.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/French_Southern_Territories.svg"
+    },
+    {
+      "name": "Gabon.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Gabon.svg"
+    },
+    {
+      "name": "Galicia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Galicia.svg"
+    },
+    {
+      "name": "Gambia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Gambia.svg"
+    },
+    {
+      "name": "Georgia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Georgia.svg"
+    },
+    {
+      "name": "Germany.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Germany.svg"
+    },
+    {
+      "name": "Ghana.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Ghana.svg"
+    },
+    {
+      "name": "Gibraltar.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Gibraltar.svg"
+    },
+    {
+      "name": "Greece.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Greece.svg"
+    },
+    {
+      "name": "Greenland.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Greenland.svg"
+    },
+    {
+      "name": "Grenada.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Grenada.svg"
+    },
+    {
+      "name": "Guadeloupe.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Guadeloupe.svg"
+    },
+    {
+      "name": "Guam.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Guam.svg"
+    },
+    {
+      "name": "Guatemala.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Guatemala.svg"
+    },
+    {
+      "name": "Guernsey.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Guernsey.svg"
+    },
+    {
+      "name": "Guinea.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Guinea.svg"
+    },
+    {
+      "name": "Guinea_Bissau.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Guinea_Bissau.svg"
+    },
+    {
+      "name": "Guyana.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Guyana.svg"
+    },
+    {
+      "name": "Haiti.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Haiti.svg"
+    },
+    {
+      "name": "Heard_Island_and_McDonald_Islands.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Heard_Island_and_McDonald_Islands.svg"
+    },
+    {
+      "name": "Holy_See.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Holy_See.svg"
+    },
+    {
+      "name": "Honduras.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Honduras.svg"
+    },
+    {
+      "name": "Hong_Kong.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Hong_Kong.svg"
+    },
+    {
+      "name": "Hungary.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Hungary.svg"
+    },
+    {
+      "name": "Iceland.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Iceland.svg"
+    },
+    {
+      "name": "India.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/India.svg"
+    },
+    {
+      "name": "Indonesia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Indonesia.svg"
+    },
+    {
+      "name": "Iran.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Iran.svg"
+    },
+    {
+      "name": "Iraq.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Iraq.svg"
+    },
+    {
+      "name": "Ireland.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Ireland.svg"
+    },
+    {
+      "name": "Isle_of_Man.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Isle_of_Man.svg"
+    },
+    {
+      "name": "Israel.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Israel.svg"
+    },
+    {
+      "name": "Italy.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Italy.svg"
+    },
+    {
+      "name": "Jamaica.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Jamaica.svg"
+    },
+    {
+      "name": "Japan.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Japan.svg"
+    },
+    {
+      "name": "Jersey.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Jersey.svg"
+    },
+    {
+      "name": "Jordan.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Jordan.svg"
+    },
+    {
+      "name": "Kazakhstan.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Kazakhstan.svg"
+    },
+    {
+      "name": "Kenya.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Kenya.svg"
+    },
+    {
+      "name": "Kiribati.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Kiribati.svg"
+    },
+    {
+      "name": "Kosovo.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Kosovo.svg"
+    },
+    {
+      "name": "Kuwait.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Kuwait.svg"
+    },
+    {
+      "name": "Kyrgyzstan.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Kyrgyzstan.svg"
+    },
+    {
+      "name": "Laos.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Laos.svg"
+    },
+    {
+      "name": "Latvia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Latvia.svg"
+    },
+    {
+      "name": "League_of_Arab_States.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/League_of_Arab_States.svg"
+    },
+    {
+      "name": "Lebanon.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Lebanon.svg"
+    },
+    {
+      "name": "Lesotho.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Lesotho.svg"
+    },
+    {
+      "name": "Liberia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Liberia.svg"
+    },
+    {
+      "name": "Libya.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Libya.svg"
+    },
+    {
+      "name": "Liechtenstein.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Liechtenstein.svg"
+    },
+    {
+      "name": "Lithuania.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Lithuania.svg"
+    },
+    {
+      "name": "Luxembourg.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Luxembourg.svg"
+    },
+    {
+      "name": "Macau.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Macau.svg"
+    },
+    {
+      "name": "Madagascar.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Madagascar.svg"
+    },
+    {
+      "name": "Malawi.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Malawi.svg"
+    },
+    {
+      "name": "Malaysia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Malaysia.svg"
+    },
+    {
+      "name": "Maldives.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Maldives.svg"
+    },
+    {
+      "name": "Mali.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Mali.svg"
+    },
+    {
+      "name": "Malta.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Malta.svg"
+    },
+    {
+      "name": "Marshall_Islands.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Marshall_Islands.svg"
+    },
+    {
+      "name": "Martinique.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Martinique.svg"
+    },
+    {
+      "name": "Mauritania.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Mauritania.svg"
+    },
+    {
+      "name": "Mauritius.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Mauritius.svg"
+    },
+    {
+      "name": "Mayotte.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Mayotte.svg"
+    },
+    {
+      "name": "Mexico.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Mexico.svg"
+    },
+    {
+      "name": "Moldova.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Moldova.svg"
+    },
+    {
+      "name": "Monaco.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Monaco.svg"
+    },
+    {
+      "name": "Mongolia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Mongolia.svg"
+    },
+    {
+      "name": "Montenegro.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Montenegro.svg"
+    },
+    {
+      "name": "Montserrat.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Montserrat.svg"
+    },
+    {
+      "name": "Morocco.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Morocco.svg"
+    },
+    {
+      "name": "Mozambique.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Mozambique.svg"
+    },
+    {
+      "name": "Myanmar.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Myanmar.svg"
+    },
+    {
+      "name": "Namibia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Namibia.svg"
+    },
+    {
+      "name": "Nauru.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Nauru.svg"
+    },
+    {
+      "name": "Nepal.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Nepal.svg"
+    },
+    {
+      "name": "Netherlands.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Netherlands.svg"
+    },
+    {
+      "name": "New_Caledonia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/New_Caledonia.svg"
+    },
+    {
+      "name": "New_Zealand.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/New_Zealand.svg"
+    },
+    {
+      "name": "Nicaragua.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Nicaragua.svg"
+    },
+    {
+      "name": "Niger.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Niger.svg"
+    },
+    {
+      "name": "Nigeria.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Nigeria.svg"
+    },
+    {
+      "name": "Niue.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Niue.svg"
+    },
+    {
+      "name": "Norfolk_Island.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Norfolk_Island.svg"
+    },
+    {
+      "name": "North_Korea.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/North_Korea.svg"
+    },
+    {
+      "name": "North_Macedonia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/North_Macedonia.svg"
+    },
+    {
+      "name": "Northern_Ireland.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Northern_Ireland.svg"
+    },
+    {
+      "name": "Northern_Mariana_Islands.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Northern_Mariana_Islands.svg"
+    },
+    {
+      "name": "Norway.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Norway.svg"
+    },
+    {
+      "name": "Oman.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Oman.svg"
+    },
+    {
+      "name": "Pacific_Community.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Pacific_Community.svg"
+    },
+    {
+      "name": "Pakistan.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Pakistan.svg"
+    },
+    {
+      "name": "Palau.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Palau.svg"
+    },
+    {
+      "name": "Panama.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Panama.svg"
+    },
+    {
+      "name": "Papua_New_Guinea.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Papua_New_Guinea.svg"
+    },
+    {
+      "name": "Paraguay.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Paraguay.svg"
+    },
+    {
+      "name": "Peru.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Peru.svg"
+    },
+    {
+      "name": "Philippines.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Philippines.svg"
+    },
+    {
+      "name": "Pitcairn.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Pitcairn.svg"
+    },
+    {
+      "name": "Poland.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Poland.svg"
+    },
+    {
+      "name": "Portugal.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Portugal.svg"
+    },
+    {
+      "name": "Puerto_Rico.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Puerto_Rico.svg"
+    },
+    {
+      "name": "Qatar.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Qatar.svg"
+    },
+    {
+      "name": "R_union.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/R_union.svg"
+    },
+    {
+      "name": "Republic_of_the_Congo.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Republic_of_the_Congo.svg"
+    },
+    {
+      "name": "Romania.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Romania.svg"
+    },
+    {
+      "name": "Russia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Russia.svg"
+    },
+    {
+      "name": "Rwanda.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Rwanda.svg"
+    },
+    {
+      "name": "Saint_Barth_lemy.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Saint_Barth_lemy.svg"
+    },
+    {
+      "name": "Saint_Helena.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Saint_Helena.svg"
+    },
+    {
+      "name": "Saint_Helena_Ascension_and_Tristan_da_Cunha.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Saint_Helena_Ascension_and_Tristan_da_Cunha.svg"
+    },
+    {
+      "name": "Saint_Kitts_and_Nevis.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Saint_Kitts_and_Nevis.svg"
+    },
+    {
+      "name": "Saint_Lucia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Saint_Lucia.svg"
+    },
+    {
+      "name": "Saint_Martin.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Saint_Martin.svg"
+    },
+    {
+      "name": "Saint_Pierre_and_Miquelon.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Saint_Pierre_and_Miquelon.svg"
+    },
+    {
+      "name": "Saint_Vincent_and_the_Grenadines.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Saint_Vincent_and_the_Grenadines.svg"
+    },
+    {
+      "name": "Samoa.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Samoa.svg"
+    },
+    {
+      "name": "San_Marino.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/San_Marino.svg"
+    },
+    {
+      "name": "Sao_Tome_and_Principe.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Sao_Tome_and_Principe.svg"
+    },
+    {
+      "name": "Saudi_Arabia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Saudi_Arabia.svg"
+    },
+    {
+      "name": "Scotland.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Scotland.svg"
+    },
+    {
+      "name": "Senegal.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Senegal.svg"
+    },
+    {
+      "name": "Serbia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Serbia.svg"
+    },
+    {
+      "name": "Seychelles.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Seychelles.svg"
+    },
+    {
+      "name": "Sierra_Leone.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Sierra_Leone.svg"
+    },
+    {
+      "name": "Singapore.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Singapore.svg"
+    },
+    {
+      "name": "Sint_Maarten.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Sint_Maarten.svg"
+    },
+    {
+      "name": "Slovakia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Slovakia.svg"
+    },
+    {
+      "name": "Slovenia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Slovenia.svg"
+    },
+    {
+      "name": "Solomon_Islands.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Solomon_Islands.svg"
+    },
+    {
+      "name": "Somalia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Somalia.svg"
+    },
+    {
+      "name": "South_Africa.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/South_Africa.svg"
+    },
+    {
+      "name": "South_Georgia_and_the_South_Sandwich_Islands.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/South_Georgia_and_the_South_Sandwich_Islands.svg"
+    },
+    {
+      "name": "South_Korea.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/South_Korea.svg"
+    },
+    {
+      "name": "South_Sudan.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/South_Sudan.svg"
+    },
+    {
+      "name": "Spain.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Spain.svg"
+    },
+    {
+      "name": "Sri_Lanka.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Sri_Lanka.svg"
+    },
+    {
+      "name": "State_of_Palestine.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/State_of_Palestine.svg"
+    },
+    {
+      "name": "Sudan.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Sudan.svg"
+    },
+    {
+      "name": "Suriname.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Suriname.svg"
+    },
+    {
+      "name": "Svalbard_and_Jan_Mayen.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Svalbard_and_Jan_Mayen.svg"
+    },
+    {
+      "name": "Sweden.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Sweden.svg"
+    },
+    {
+      "name": "Switzerland.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Switzerland.svg"
+    },
+    {
+      "name": "Syria.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Syria.svg"
+    },
+    {
+      "name": "Tajikistan.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Tajikistan.svg"
+    },
+    {
+      "name": "Tanzania.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Tanzania.svg"
+    },
+    {
+      "name": "Thailand.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Thailand.svg"
+    },
+    {
+      "name": "Timor_Leste.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Timor_Leste.svg"
+    },
+    {
+      "name": "Togo.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Togo.svg"
+    },
+    {
+      "name": "Tokelau.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Tokelau.svg"
+    },
+    {
+      "name": "Tonga.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Tonga.svg"
+    },
+    {
+      "name": "Trinidad_and_Tobago.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Trinidad_and_Tobago.svg"
+    },
+    {
+      "name": "Tristan_da_Cunha.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Tristan_da_Cunha.svg"
+    },
+    {
+      "name": "Tunisia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Tunisia.svg"
+    },
+    {
+      "name": "Turkey.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Turkey.svg"
+    },
+    {
+      "name": "Turkmenistan.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Turkmenistan.svg"
+    },
+    {
+      "name": "Turks_and_Caicos_Islands.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Turks_and_Caicos_Islands.svg"
+    },
+    {
+      "name": "Tuvalu.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Tuvalu.svg"
+    },
+    {
+      "name": "Uganda.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Uganda.svg"
+    },
+    {
+      "name": "Ukraine.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Ukraine.svg"
+    },
+    {
+      "name": "United_Arab_Emirates.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/United_Arab_Emirates.svg"
+    },
+    {
+      "name": "United_Kingdom.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/United_Kingdom.svg"
+    },
+    {
+      "name": "United_Nations.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/United_Nations.svg"
+    },
+    {
+      "name": "United_States.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/United_States.svg"
+    },
+    {
+      "name": "United_States_Minor_Outlying_Islands.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/United_States_Minor_Outlying_Islands.svg"
+    },
+    {
+      "name": "Uruguay.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Uruguay.svg"
+    },
+    {
+      "name": "Uzbekistan.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Uzbekistan.svg"
+    },
+    {
+      "name": "Vanuatu.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Vanuatu.svg"
+    },
+    {
+      "name": "Venezuela.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Venezuela.svg"
+    },
+    {
+      "name": "Vietnam.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Vietnam.svg"
+    },
+    {
+      "name": "Virgin_Islands_British.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Virgin_Islands_British.svg"
+    },
+    {
+      "name": "Virgin_Islands_U_S.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Virgin_Islands_U_S.svg"
+    },
+    {
+      "name": "Wales.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Wales.svg"
+    },
+    {
+      "name": "Wallis_and_Futuna.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Wallis_and_Futuna.svg"
+    },
+    {
+      "name": "Western_Sahara.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Western_Sahara.svg"
+    },
+    {
+      "name": "Yemen.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Yemen.svg"
+    },
+    {
+      "name": "Zambia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Zambia.svg"
+    },
+    {
+      "name": "Zimbabwe.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Zimbabwe.svg"
+    }
+  ]
+}
