@@ -6,7 +6,7 @@ Qure 风格的 SVG 图标集，包含 **1764 个 SVG**：**1494 个通用图标*
 
 ---
 
-## 📦 图标包订阅
+## 🔮 图标包订阅
 
 <img src="https://avatars.githubusercontent.com/u/149130188?v=4" width="60" height="60" alt="aaANDkk 的 GitHub 头像" style="border-radius: 80%;">
 
@@ -79,7 +79,7 @@ https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/Other/Qure-Style-S
 
 ---
 
-## 🤝 鸣谢与使用说明
+## 💕 鸣谢与使用说明
 
 - [Koolson / Qure](https://github.com/Koolson/Qure)：图标风格与部分图标重绘参考。
 - [flag-icons](https://github.com/lipis/flag-icons)、[LobeHub Icons](https://github.com/lobehub/lobe-icons)、[Bettbox](https://github.com/appshubcc/Bettbox)、[Simple Icons](https://github.com/simple-icons/simple-icons) 等：部分几何轮廓与品牌素材来源。
