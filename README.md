@@ -82,7 +82,6 @@ https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/Other/Qure-Style-S
 ## 🤝 鸣谢与使用说明
 
 - [Koolson / Qure](https://github.com/Koolson/Qure)：图标风格与部分图标重绘参考。
-- [ClashConfig](https://github.com/aaANDkk/ClashConfig)：本图标集的原配置仓库。
 - [flag-icons](https://github.com/lipis/flag-icons)、[LobeHub Icons](https://github.com/lobehub/lobe-icons)、[Bettbox](https://github.com/appshubcc/Bettbox)、[Simple Icons](https://github.com/simple-icons/simple-icons) 等：部分几何轮廓与品牌素材来源。
 
 本项目为非官方整理与风格化 SVG 图标集，与 Qure 官方项目无隶属关系。品牌名称与标志归各自权利人所有；相关素材请遵循其原有许可及使用要求。Qure 参考与重绘部分保留原作者署名，按原项目要求用于学习交流，不用于商业盈利。详细来源和许可见 [第三方说明](THIRD_PARTY_NOTICES.md)。
