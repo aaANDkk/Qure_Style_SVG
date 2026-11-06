@@ -1124,6 +1124,14 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Clarivate.svg"
     },
     {
+      "name": "Clash.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Clash.svg"
+    },
+    {
+      "name": "ClashVergeRev.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ClashVergeRev.svg"
+    },
+    {
       "name": "Claude.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Claude.svg"
     },
@@ -5086,6 +5094,10 @@
     {
       "name": "Surfshark.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Surfshark.svg"
+    },
+    {
+      "name": "Surge.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Surge.svg"
     },
     {
       "name": "SurrealDB.svg",
