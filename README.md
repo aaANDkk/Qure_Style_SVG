@@ -2,23 +2,28 @@
 
 Qure 风格的 SVG 图标集，从个人配置仓库 [ClashConfig](https://github.com/aaANDkk/ClashConfig) 独立整理。包含 **1762 个 SVG**：**1492 个通用图标**、**270 个地区与组织旗帜**，统一为 **144 × 144** 画布。
 
-[通用图标索引](icon/svg/common/README.md) · [旗帜图标索引](icon/svg/flag/README.md) · [图标包 JSON](Other/Qure-Style-SVG.json)
+[通用图标索引](icon/svg/common/README.md) · [旗帜图标索引](icon/svg/flag/README.md) · [图标包 JSON](Other/Qure-Style-SVG.json) · [第三方说明](THIRD_PARTY_NOTICES.md)
 
-## 图标包
+---
 
-<img src="https://avatars.githubusercontent.com/u/149130188?v=4" width="64" height="64" alt="aaANDkk 的 GitHub 头像">
+## 📦 图标包订阅
+
+<img src="https://avatars.githubusercontent.com/u/149130188?v=4" width="56" height="56" alt="aaANDkk 的 GitHub 头像" style="border-radius: 50%;">
 
 **Qure-Style-SVG** · 1762 个图标 · 作者：[aaANDkk](https://github.com/aaANDkk)
 
-复制下方链接，添加到支持此类 JSON 图标集和 SVG 图片的客户端：
+复制下方订阅链接，添加到支持 JSON 图标集和 SVG 图片的客户端（如 FlClash、Clash Verge 等）：
 
 ```text
 https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/Other/Qure-Style-SVG.json
 ```
 
-> 清单中的图片为 SVG；客户端需同时支持 JSON 图标集和 SVG 格式。仅支持 PNG 的客户端不能直接使用此图标包。
+> [!NOTE]
+> 清单中的图片为 SVG 矢量格式；客户端需同时支持 JSON 图标集和 SVG 格式。仅支持 PNG 的客户端不能直接使用此图标包。
 
-## 图标预览
+---
+
+## 🎨 图标预览
 
 ### 通用图标 · 1492 个
 
@@ -36,41 +41,45 @@ https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/Other/Qure-Style-S
 
 [![270 个地区与组织旗帜](docs/assets/flags-overview.png)](docs/assets/flags-overview.png)
 
-## 单个图标使用
+---
 
-在图标索引中找到文件名，然后使用对应的原始文件链接。文件名区分大小写。
+## 🔗 单个图标使用
 
-通用图标示例：
+在图标索引中找到文件名，使用对应的原始文件链接（文件名区分大小写）：
 
-```text
-https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ChatGPT.svg
-```
+- **通用图标示例**：
+  ```text
+  https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ChatGPT.svg
+  ```
 
-旗帜图标示例：
+- **旗帜图标示例**：
+  ```text
+  https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Japan.svg
+  ```
 
-```text
-https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Japan.svg
-```
+- **Mihomo / Clash 配置示例**：
+  ```yaml
+  icon: "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Japan.svg"
+  ```
 
-Mihomo / Clash 配置示例：
+---
 
-```yaml
-icon: "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/flag/Japan.svg"
-```
+## 📁 目录结构
 
-## 目录
+| 目录 / 文件 | 说明 |
+| :--- | :--- |
+| [`icon/svg/common/`](icon/svg/common/) | 通用 SVG 图标与逐项索引 |
+| [`icon/svg/flag/`](icon/svg/flag/) | 地区与组织旗帜及逐项索引 |
+| [`docs/assets/`](docs/assets/) | SVG / PNG 总览展示图 |
+| [`Other/Qure-Style-SVG.json`](Other/Qure-Style-SVG.json) | 图标包清单 |
+| [`licenses/`](licenses/) | 第三方许可文本 |
 
-```text
-icon/svg/common/            通用 SVG 图标与逐项索引
-icon/svg/flag/              地区与组织旗帜及逐项索引
-docs/assets/               SVG / PNG 总览展示图
-Other/Qure-Style-SVG.json   图标包清单
-licenses/                  第三方许可文本
-```
+> [!TIP]
+> PNG 文件仅用于总览展示，所有图标源文件统一使用 SVG 格式。
 
-PNG 文件仅用于总览展示。图标源文件统一使用 SVG。
+---
 
-## 鸣谢与使用说明
+## 🤝 鸣谢与使用说明
 
 - [Koolson / Qure](https://github.com/Koolson/Qure)：图标风格与部分图标重绘参考。
 - [ClashConfig](https://github.com/aaANDkk/ClashConfig)：本图标集的原配置仓库。
