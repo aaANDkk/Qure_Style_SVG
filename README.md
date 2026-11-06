@@ -1,6 +1,6 @@
 # Qure-Style-SVG
 
-Qure 风格的 SVG 图标集，从个人配置仓库 [ClashConfig](https://github.com/aaANDkk/ClashConfig) 独立整理。包含 **1764 个 SVG**：**1494 个通用图标**、**270 个地区与组织旗帜**，统一为 **144 × 144** 画布。若有缺失图标，按 icon 设计规范提交 **PR** 即可。 
+Qure 风格的 SVG 图标集，从个人配置仓库 [ClashConfig](https://github.com/aaANDkk/ClashConfig) 独立整理。包含 **1764 个 SVG**：**1494 个通用图标**、**270 个地区与组织旗帜**，统一为 **144 × 144** 画布，其中旗帜 SVG 均采用**贝塞尔丝滑曲率绘制圆角**。若有缺失图标，按 icon 设计规范提交 **PR** 即可。 
 
 [通用图标索引](icon/svg/common/README.md) · [旗帜图标索引](icon/svg/flag/README.md) · [图标包 JSON](Other/Qure-Style-SVG.json)
 
