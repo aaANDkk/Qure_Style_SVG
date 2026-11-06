@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/Other/Qure-Style-S
 ```
 
 > [!NOTE]
-> 清单中的图片为 SVG 矢量格式；客户端需同时支持 JSON 图标集和 SVG 格式。仅支持 PNG 的客户端不能直接使用此图标包。客户端如 **Bettbox** 已内置此图标包
+> 清单中的图片为 SVG 矢量格式；客户端需同时支持 JSON 图标集和 SVG 格式。仅支持 PNG 的客户端不能直接使用此图标包。客户端如 **Bettbox** 已内置此图标包。
 
 ---
 
