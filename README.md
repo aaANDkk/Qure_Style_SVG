@@ -12,7 +12,7 @@ Qure 风格的 SVG 图标集，从个人配置仓库 [ClashConfig](https://githu
 
 **Qure-Style-SVG** · 1761 个图标 · 作者：[aaANDkk](https://github.com/aaANDkk)
 
-复制下方订阅链接，添加到支持 JSON 图标集和 SVG 图片的客户端（如 FlClash、Clash Verge 等）：
+复制下方订阅链接，添加到支持 JSON 图标集和 SVG 图片的客户端（如 FlClash ）：
 
 ```text
 https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/Other/Qure-Style-SVG.json
