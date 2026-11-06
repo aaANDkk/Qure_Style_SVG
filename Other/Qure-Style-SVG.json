@@ -44,12 +44,12 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AdBlock.svg"
     },
     {
-      "name": "Adblock_site.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Adblock_site.svg"
-    },
-    {
       "name": "AdblockPlus.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AdblockPlus.svg"
+    },
+    {
+      "name": "AdblockSite.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AdblockSite.svg"
     },
     {
       "name": "AdGuard.svg",
@@ -92,8 +92,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AfreecaTV.svg"
     },
     {
-      "name": "Africa_Map.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Africa_Map.svg"
+      "name": "AfricaMap.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AfricaMap.svg"
     },
     {
       "name": "AGA.svg",
@@ -196,8 +196,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AMD.svg"
     },
     {
-      "name": "America_Map.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/America_Map.svg"
+      "name": "AmericaMap.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AmericaMap.svg"
     },
     {
       "name": "Anaconda.svg",
@@ -352,10 +352,6 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ApolloGraphQL.svg"
     },
     {
-      "name": "App_Store.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/App_Store.svg"
-    },
-    {
       "name": "AppGallery.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AppGallery.svg"
     },
@@ -372,24 +368,20 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Apple.svg"
     },
     {
-      "name": "Apple_Fitness+.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Apple_Fitness%2B.svg"
-    },
-    {
-      "name": "Apple_Music.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Apple_Music.svg"
-    },
-    {
-      "name": "Apple_News.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Apple_News.svg"
-    },
-    {
-      "name": "Apple_Update.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Apple_Update.svg"
-    },
-    {
       "name": "AppleArcade.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AppleArcade.svg"
+    },
+    {
+      "name": "AppleFitness+.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AppleFitness%2B.svg"
+    },
+    {
+      "name": "AppleMusic.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AppleMusic.svg"
+    },
+    {
+      "name": "AppleNews.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AppleNews.svg"
     },
     {
       "name": "ApplePay.svg",
@@ -402,6 +394,14 @@
     {
       "name": "AppleTV.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AppleTV.svg"
+    },
+    {
+      "name": "AppleUpdate.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AppleUpdate.svg"
+    },
+    {
+      "name": "AppStore.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AppStore.svg"
     },
     {
       "name": "AppVeyor.svg",
@@ -460,8 +460,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Asana.svg"
     },
     {
-      "name": "Asia_Map.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Asia_Map.svg"
+      "name": "AsiaMap.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AsiaMap.svg"
     },
     {
       "name": "Astro.svg",
@@ -644,8 +644,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BBC.svg"
     },
     {
-      "name": "BBC_iPlayer.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BBC_iPlayer.svg"
+      "name": "BBCiPlayer.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BBCiPlayer.svg"
     },
     {
       "name": "Beats.svg",
@@ -684,8 +684,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BigBlueButton.svg"
     },
     {
-      "name": "bilibili.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/bilibili.svg"
+      "name": "Bilibili.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Bilibili.svg"
     },
     {
       "name": "Binance.svg",
@@ -1052,12 +1052,12 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Chery.svg"
     },
     {
-      "name": "China_Map.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/China_Map.svg"
-    },
-    {
       "name": "ChinaEasternAirlines.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ChinaEasternAirlines.svg"
+    },
+    {
+      "name": "ChinaMap.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ChinaMap.svg"
     },
     {
       "name": "ChinaMobile.svg",
@@ -1128,8 +1128,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Claude.svg"
     },
     {
-      "name": "Claude_Code.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Claude_Code.svg"
+      "name": "ClaudeCode.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ClaudeCode.svg"
     },
     {
       "name": "CleverCloud.svg",
@@ -1368,12 +1368,12 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Crunchyroll.svg"
     },
     {
-      "name": "Crypto(1).svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Crypto%281%29.svg"
+      "name": "Crypto.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Crypto.svg"
     },
     {
-      "name": "crypto.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/crypto.svg"
+      "name": "CryptoCom.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/CryptoCom.svg"
     },
     {
       "name": "Cryptocurrency.svg",
@@ -1556,8 +1556,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Discourse.svg"
     },
     {
-      "name": "discovery+.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/discovery%2B.svg"
+      "name": "Discovery+.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Discovery%2B.svg"
     },
     {
       "name": "Disney.svg",
@@ -1784,8 +1784,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/EnvoyProxy.svg"
     },
     {
-      "name": "Epic_Games.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Epic_Games.svg"
+      "name": "EpicGames.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/EpicGames.svg"
     },
     {
       "name": "Erlang.svg",
@@ -1828,8 +1828,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Ethers.svg"
     },
     {
-      "name": "Europe_Map.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Europe_Map.svg"
+      "name": "EuropeMap.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/EuropeMap.svg"
     },
     {
       "name": "Evernote.svg",
@@ -1960,8 +1960,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Final.svg"
     },
     {
-      "name": "Find_My.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Find_My.svg"
+      "name": "FindMy.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FindMy.svg"
     },
     {
       "name": "Firebase.svg",
@@ -2316,10 +2316,6 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Google.svg"
     },
     {
-      "name": "Google_Opinion_Rewards.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Google_Opinion_Rewards.svg"
-    },
-    {
       "name": "GoogleAuthenticator.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/GoogleAuthenticator.svg"
     },
@@ -2350,6 +2346,10 @@
     {
       "name": "GoogleMessages.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/GoogleMessages.svg"
+    },
+    {
+      "name": "GoogleOpinionRewards.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/GoogleOpinionRewards.svg"
     },
     {
       "name": "GooglePay.svg",
@@ -3052,12 +3052,12 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Kugou.svg"
     },
     {
-      "name": "LA_Map.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LA_Map.svg"
-    },
-    {
       "name": "Lab.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Lab.svg"
+    },
+    {
+      "name": "LAMap.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LAMap.svg"
     },
     {
       "name": "Lambda.svg",
@@ -3092,8 +3092,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Launchpad.svg"
     },
     {
-      "name": "League_of_Legends.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/League_of_Legends.svg"
+      "name": "LeagueOfLegends.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LeagueOfLegends.svg"
     },
     {
       "name": "Ledger.svg",
@@ -3520,8 +3520,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Mumble.svg"
     },
     {
-      "name": "Music_Enhance.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Music_Enhance.svg"
+      "name": "MusicEnhance.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/MusicEnhance.svg"
     },
     {
       "name": "My5.svg",
@@ -3536,8 +3536,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/MySQL.svg"
     },
     {
-      "name": "myTV_SUPER.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/myTV_SUPER.svg"
+      "name": "MyTVSUPER.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/MyTVSUPER.svg"
     },
     {
       "name": "N26.svg",
@@ -3608,8 +3608,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Netdisk115.svg"
     },
     {
-      "name": "Netease_Music.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Netease_Music.svg"
+      "name": "NeteaseMusic.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NeteaseMusic.svg"
     },
     {
       "name": "Netflix.svg",
@@ -3704,10 +3704,6 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NocoBase.svg"
     },
     {
-      "name": "NodeDotJs.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NodeDotJs.svg"
-    },
-    {
       "name": "NodeJs.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NodeJs.svg"
     },
@@ -3744,8 +3740,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Now.svg"
     },
     {
-      "name": "nowe.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/nowe.svg"
+      "name": "NowE.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NowE.svg"
     },
     {
       "name": "NPM.svg",
@@ -3764,8 +3760,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NuGet.svg"
     },
     {
-      "name": "Null_Nation.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Null_Nation.svg"
+      "name": "NullNation.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NullNation.svg"
     },
     {
       "name": "NumPy.svg",
@@ -3800,8 +3796,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/OceanBase.svg"
     },
     {
-      "name": "Oceania_Map.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Oceania_Map.svg"
+      "name": "OceaniaMap.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/OceaniaMap.svg"
     },
     {
       "name": "OctoPrint.svg",
@@ -4280,12 +4276,12 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Prettier.svg"
     },
     {
-      "name": "Prime_Video.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Prime_Video.svg"
-    },
-    {
       "name": "PrimeReact.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/PrimeReact.svg"
+    },
+    {
+      "name": "PrimeVideo.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/PrimeVideo.svg"
     },
     {
       "name": "PrimeVue.svg",
@@ -4420,8 +4416,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Qualcomm.svg"
     },
     {
-      "name": "Quantumult_X.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Quantumult_X.svg"
+      "name": "QuantumultX.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/QuantumultX.svg"
     },
     {
       "name": "Quic.svg",
@@ -4552,8 +4548,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Ring.svg"
     },
     {
-      "name": "Riot_Games.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Riot_Games.svg"
+      "name": "RiotGames.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/RiotGames.svg"
     },
     {
       "name": "Ripple.svg",
@@ -4608,8 +4604,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/RooCode.svg"
     },
     {
-      "name": "Round_Robin.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Round_Robin.svg"
+      "name": "RoundRobin.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/RoundRobin.svg"
     },
     {
       "name": "RTHK.svg",
@@ -4804,8 +4800,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Slideshare.svg"
     },
     {
-      "name": "Sling_TV.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Sling_TV.svg"
+      "name": "SlingTV.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/SlingTV.svg"
     },
     {
       "name": "SmartThings.svg",
@@ -4932,8 +4928,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/SSL.svg"
     },
     {
-      "name": "ssLinks.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ssLinks.svg"
+      "name": "SSLinks.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/SSLinks.svg"
     },
     {
       "name": "StabilityAI.svg",
@@ -5180,8 +5176,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Telegram.svg"
     },
     {
-      "name": "Telegram_X.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Telegram_X.svg"
+      "name": "TelegramX.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/TelegramX.svg"
     },
     {
       "name": "Tencent.svg",
@@ -5456,8 +5452,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Unisoc.svg"
     },
     {
-      "name": "United_States_Map.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/United_States_Map.svg"
+      "name": "UnitedStatesMap.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/UnitedStatesMap.svg"
     },
     {
       "name": "Unity.svg",
@@ -5644,8 +5640,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Wanfang.svg"
     },
     {
-      "name": "Want_Want.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Want_Want.svg"
+      "name": "WantWant.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/WantWant.svg"
     },
     {
       "name": "Wasabi.svg",
@@ -5772,8 +5768,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/WordPress.svg"
     },
     {
-      "name": "World_Map.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/World_Map.svg"
+      "name": "WorldMap.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/WorldMap.svg"
     },
     {
       "name": "WPS.svg",
@@ -5868,8 +5864,8 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YouTube.svg"
     },
     {
-      "name": "YouTube_Music.svg",
-      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YouTube_Music.svg"
+      "name": "YouTubeMusic.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YouTubeMusic.svg"
     },
     {
       "name": "YTO.svg",
