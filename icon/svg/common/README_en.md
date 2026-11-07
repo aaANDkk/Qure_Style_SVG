@@ -2,9 +2,9 @@
 
 [English](README_en.md) · [简体中文](README.md)
 
-A total of **1747** SVGs, standardized to **144×144**. Sorted alphabetically by filename. Click icons or filenames to view source files.
+A total of **1743** SVGs, standardized to **144×144**. Sorted alphabetically by filename. Click icons or filenames to view source files.
 
-[Back to Project README](../../../README_en.md) · [PNG Overview](../../../docs/assets/common-overview.png?v=696bee56ceb3) · [Scalable SVG Overview](../../../docs/assets/common-overview.svg?v=503b4bd14331)
+[Back to Project README](../../../README_en.md) · [PNG Overview](../../../docs/assets/common-overview.png?v=78c9fe500971) · [Scalable SVG Overview](../../../docs/assets/common-overview.svg?v=385fb4a0886c)
 
 | Preview | Icon Name | SVG File |
 | :---: | :--- | :--- |
@@ -1031,7 +1031,6 @@ A total of **1747** SVGs, standardized to **144×144**. Sorted alphabetically by
 | [<img src="Monica.svg" width="56" height="56" alt="Monica">](Monica.svg) | Monica | [Monica.svg](Monica.svg) |
 | [<img src="MonoGame.svg" width="56" height="56" alt="MonoGame">](MonoGame.svg) | MonoGame | [MonoGame.svg](MonoGame.svg) |
 | [<img src="Monzo.svg" width="56" height="56" alt="Monzo">](Monzo.svg) | Monzo | [Monzo.svg](Monzo.svg) |
-| [<img src="Moonshot.svg" width="56" height="56" alt="Moonshot">](Moonshot.svg) | Moonshot | [Moonshot.svg](Moonshot.svg) |
 | [<img src="MoonshotAI.svg" width="56" height="56" alt="MoonshotAI">](MoonshotAI.svg) | MoonshotAI | [MoonshotAI.svg](MoonshotAI.svg) |
 | [<img src="Morph.svg" width="56" height="56" alt="Morph">](Morph.svg) | Morph | [Morph.svg](Morph.svg) |
 | [<img src="Motorola.svg" width="56" height="56" alt="Motorola">](Motorola.svg) | Motorola | [Motorola.svg](Motorola.svg) |
@@ -1398,7 +1397,6 @@ A total of **1747** SVGs, standardized to **144×144**. Sorted alphabetically by
 | [<img src="Shopify.svg" width="56" height="56" alt="Shopify">](Shopify.svg) | Shopify | [Shopify.svg](Shopify.svg) |
 | [<img src="Shopline.svg" width="56" height="56" alt="Shopline">](Shopline.svg) | Shopline | [Shopline.svg](Shopline.svg) |
 | [<img src="Signal.svg" width="56" height="56" alt="Signal">](Signal.svg) | Signal | [Signal.svg](Signal.svg) |
-| [<img src="SiliconCloud.svg" width="56" height="56" alt="SiliconCloud">](SiliconCloud.svg) | SiliconCloud | [SiliconCloud.svg](SiliconCloud.svg) |
 | [<img src="SiliconFlow.svg" width="56" height="56" alt="SiliconFlow">](SiliconFlow.svg) | SiliconFlow | [SiliconFlow.svg](SiliconFlow.svg) |
 | [<img src="SillyTavern.svg" width="56" height="56" alt="SillyTavern">](SillyTavern.svg) | SillyTavern | [SillyTavern.svg](SillyTavern.svg) |
 | [<img src="Singbox.svg" width="56" height="56" alt="Sing-box">](Singbox.svg) | Sing-box | [Singbox.svg](Singbox.svg) |
@@ -1448,7 +1446,6 @@ A total of **1747** SVGs, standardized to **144×144**. Sorted alphabetically by
 | [<img src="SSID.svg" width="56" height="56" alt="SSID">](SSID.svg) | SSID | [SSID.svg](SSID.svg) |
 | [<img src="SSL.svg" width="56" height="56" alt="SSL">](SSL.svg) | SSL | [SSL.svg](SSL.svg) |
 | [<img src="SSLinks.svg" width="56" height="56" alt="SSLinks">](SSLinks.svg) | SSLinks | [SSLinks.svg](SSLinks.svg) |
-| [<img src="Stability.svg" width="56" height="56" alt="Stability">](Stability.svg) | Stability | [Stability.svg](Stability.svg) |
 | [<img src="StabilityAI.svg" width="56" height="56" alt="StabilityAI">](StabilityAI.svg) | StabilityAI | [StabilityAI.svg](StabilityAI.svg) |
 | [<img src="StableDiffusion.svg" width="56" height="56" alt="StableDiffusion">](StableDiffusion.svg) | StableDiffusion | [StableDiffusion.svg](StableDiffusion.svg) |
 | [<img src="Stack.svg" width="56" height="56" alt="Stack">](Stack.svg) | Stack | [Stack.svg](Stack.svg) |
@@ -1545,7 +1542,6 @@ A total of **1747** SVGs, standardized to **144×144**. Sorted alphabetically by
 | [<img src="TimescaleDB.svg" width="56" height="56" alt="TimescaleDB">](TimescaleDB.svg) | TimescaleDB | [TimescaleDB.svg](TimescaleDB.svg) |
 | [<img src="Tmall.svg" width="56" height="56" alt="Tmall">](Tmall.svg) | Tmall | [Tmall.svg](Tmall.svg) |
 | [<img src="Todoist.svg" width="56" height="56" alt="Todoist">](Todoist.svg) | Todoist | [Todoist.svg](Todoist.svg) |
-| [<img src="Together.svg" width="56" height="56" alt="Together">](Together.svg) | Together | [Together.svg](Together.svg) |
 | [<img src="TogetherAI.svg" width="56" height="56" alt="TogetherAI">](TogetherAI.svg) | TogetherAI | [TogetherAI.svg](TogetherAI.svg) |
 | [<img src="TomTom.svg" width="56" height="56" alt="TomTom">](TomTom.svg) | TomTom | [TomTom.svg](TomTom.svg) |
 | [<img src="TON.svg" width="56" height="56" alt="TON">](TON.svg) | TON | [TON.svg](TON.svg) |
