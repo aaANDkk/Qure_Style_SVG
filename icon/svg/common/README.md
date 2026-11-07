@@ -1,5 +1,7 @@
 # Qure 风格通用图标素材索引
 
+[English](README_en.md) · [简体中文](README.md)
+
 共 **1504** 个 SVG，统一为 **144×144**。按英文文件名排序，点击图标或文件名可查看原始素材。
 
 [返回项目说明](../../../README.md) · [PNG 总览](../../../docs/assets/common-overview.png?v=9e35237d9ab8) · [可缩放 SVG 总览](../../../docs/assets/common-overview.svg?v=68bf30e838e7)

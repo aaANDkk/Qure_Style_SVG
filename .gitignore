@@ -2,6 +2,7 @@
 /*
 !/.gitignore
 !/README.md
+!/README_en.md
 !/THIRD_PARTY_NOTICES.md
 !/icon/
 !/docs/
@@ -16,9 +17,11 @@
 /icon/svg/common/*
 !/icon/svg/common/*.svg
 !/icon/svg/common/README.md
+!/icon/svg/common/README_en.md
 /icon/svg/flag/*
 !/icon/svg/flag/*.svg
 !/icon/svg/flag/README.md
+!/icon/svg/flag/README_en.md
 
 /docs/*
 !/docs/assets/
