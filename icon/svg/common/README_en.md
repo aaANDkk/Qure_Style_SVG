@@ -2,9 +2,9 @@
 
 [English](README_en.md) · [简体中文](README.md)
 
-A total of **1743** SVGs, standardized to **144×144**. Sorted alphabetically by filename. Click icons or filenames to view source files.
+A total of **1742** SVGs, standardized to **144×144**. Sorted alphabetically by filename. Click icons or filenames to view source files.
 
-[Back to Project README](../../../README_en.md) · [PNG Overview](../../../docs/assets/common-overview.png?v=78c9fe500971) · [Scalable SVG Overview](../../../docs/assets/common-overview.svg?v=385fb4a0886c)
+[Back to Project README](../../../README_en.md) · [PNG Overview](../../../docs/assets/common-overview.png?v=09835e704127) · [Scalable SVG Overview](../../../docs/assets/common-overview.svg?v=6e5787d7aa67)
 
 | Preview | Icon Name | SVG File |
 | :---: | :--- | :--- |
@@ -588,7 +588,6 @@ A total of **1743** SVGs, standardized to **144×144**. Sorted alphabetically by
 | [<img src="Firefox.svg" width="56" height="56" alt="Firefox">](Firefox.svg) | Firefox | [Firefox.svg](Firefox.svg) |
 | [<img src="Firefox(1).svg" width="56" height="56" alt="Firefox(1)">](Firefox(1).svg) | Firefox(1) | [Firefox(1).svg](Firefox(1).svg) |
 | [<img src="Firewalla.svg" width="56" height="56" alt="Firewalla">](Firewalla.svg) | Firewalla | [Firewalla.svg](Firewalla.svg) |
-| [<img src="Fireworks.svg" width="56" height="56" alt="Fireworks">](Fireworks.svg) | Fireworks | [Fireworks.svg](Fireworks.svg) |
 | [<img src="FireworksAI.svg" width="56" height="56" alt="FireworksAI">](FireworksAI.svg) | FireworksAI | [FireworksAI.svg](FireworksAI.svg) |
 | [<img src="FishAudio.svg" width="56" height="56" alt="FishAudio">](FishAudio.svg) | FishAudio | [FishAudio.svg](FishAudio.svg) |
 | [<img src="Fitbit.svg" width="56" height="56" alt="Fitbit">](Fitbit.svg) | Fitbit | [Fitbit.svg](Fitbit.svg) |
