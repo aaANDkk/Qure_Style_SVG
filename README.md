@@ -1,6 +1,6 @@
 # Qure-Style-SVG
 
-Qure 风格的 SVG 图标集，包含 **1772 个 SVG**：**1502 个通用图标**、**270 个地区与组织旗帜**，统一为 **144 × 144** 画布，其中旗帜 SVG 均采用**贝塞尔丝滑曲率绘制圆角**。可按 icon 设计规范提交 **PR** 补全缺失图标。
+Qure 风格的 SVG 图标集，包含 **1774 个 SVG**：**1504 个通用图标**、**270 个地区与组织旗帜**，统一为 **144 × 144** 画布，其中旗帜 SVG 均采用**贝塞尔丝滑曲率绘制圆角**。可按 icon 设计规范提交 **PR** 补全缺失图标。
 
 [通用图标索引](icon/svg/common/README.md) · [旗帜图标索引](icon/svg/flag/README.md) · [图标包 JSON](Other/Qure-Style-SVG.json)
 
@@ -10,7 +10,7 @@ Qure 风格的 SVG 图标集，包含 **1772 个 SVG**：**1502 个通用图标*
 
 <img src="https://avatars.githubusercontent.com/u/149130188?v=4" width="60" height="60" alt="aaANDkk 的 GitHub 头像" style="border-radius: 80%;">
 
-**Qure-Style-SVG** · 1772 个图标 · 作者：[aaANDkk](https://github.com/aaANDkk)
+**Qure-Style-SVG** · 1774 个图标 · 作者：[aaANDkk](https://github.com/aaANDkk)
 
 复制下方订阅链接，添加到支持 JSON 图标集和 SVG 图片的客户端（如 FlClash ）：
 
@@ -25,13 +25,13 @@ https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/Other/Qure-Style-S
 
 ## 🎨 图标预览
 
-### 通用图标 · 1502 个
+### 通用图标 · 1504 个
 
 业务分流、品牌服务、流媒体、AI、网络工具与策略图标。
 
 [逐项浏览与下载](icon/svg/common/README.md) · [可缩放 SVG 总览](docs/assets/common-overview.svg) · [PNG 大图](docs/assets/common-overview.png)
 
-[![1502 个 Qure 风格通用图标](docs/assets/common-overview.png)](docs/assets/common-overview.png)
+[![1504 个 Qure 风格通用图标](docs/assets/common-overview.png)](docs/assets/common-overview.png)
 
 ### 地区与组织旗帜 · 270 个
 
