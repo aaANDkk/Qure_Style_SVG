@@ -14,7 +14,7 @@ Qure 风格的 SVG 图标集，包含 **2012 个 SVG**：**1742 个通用图标*
 
 **Qure-Style-SVG** · 2012 个图标 · 作者：[aaANDkk](https://github.com/aaANDkk)
 
-复制下方订阅链接，添加到支持 JSON 图标集和 SVG 图片的客户端（如 FlClash ）：
+复制下方订阅链接，添加到支持 JSON 图标集和 SVG 图片的客户端（如 FlClash 和 Bettbox ）：
 
 ```text
 https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/Other/Qure-Style-SVG.json
