@@ -39,9 +39,9 @@ https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/Other/Qure-Style-S
 
 按英文文件名排序，索引附中文名称。
 
-[逐项浏览与下载](icon/svg/flag/README.md) · [可缩放 SVG 总览](docs/assets/flags-overview.svg?v=0fee5ed4a31c) · [PNG 大图](docs/assets/flags-overview.png?v=53d6ed1e39bb)
+[逐项浏览与下载](icon/svg/flag/README.md) · [可缩放 SVG 总览](docs/assets/flags-overview.svg?v=0f27d396151f) · [PNG 大图](docs/assets/flags-overview.png?v=99924417346d)
 
-[![270 个地区与组织旗帜](docs/assets/flags-overview.png?v=53d6ed1e39bb)](docs/assets/flags-overview.png?v=53d6ed1e39bb)
+[![270 个地区与组织旗帜](docs/assets/flags-overview.png?v=99924417346d)](docs/assets/flags-overview.png?v=99924417346d)
 
 ---
 
