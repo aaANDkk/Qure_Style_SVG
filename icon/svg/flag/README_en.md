@@ -4,7 +4,7 @@
 
 A total of **270** SVGs, standardized to **144×144**. Sorted alphabetically by filename. Click icons or filenames to view source files.
 
-[Back to Project README](../../../README_en.md) · [PNG Overview](../../../docs/assets/flags-overview.png?v=1947f41b943f) · [Scalable SVG Overview](../../../docs/assets/flags-overview.svg?v=a99353ff4965)
+[Back to Project README](../../../README_en.md) · [PNG Overview](../../../docs/assets/flags-overview.png?v=e49748e9fa05) · [Scalable SVG Overview](../../../docs/assets/flags-overview.svg?v=75cb71c371df)
 
 This index displays all regional and organizational flags.
 

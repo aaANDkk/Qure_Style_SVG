@@ -39,9 +39,9 @@ Traffic routing, brand services, streaming media, AI, network tools, and proxy p
 
 Sorted alphabetically by English filename, with index showing region/country names.
 
-[Browse & Download](icon/svg/flag/README_en.md) · [Scalable SVG Overview](docs/assets/flags-overview.svg?v=a99353ff4965) · [Full-size PNG](docs/assets/flags-overview.png?v=1947f41b943f)
+[Browse & Download](icon/svg/flag/README_en.md) · [Scalable SVG Overview](docs/assets/flags-overview.svg?v=75cb71c371df) · [Full-size PNG](docs/assets/flags-overview.png?v=e49748e9fa05)
 
-[![270 Regional & Organization Flags](docs/assets/flags-overview.png?v=1947f41b943f)](docs/assets/flags-overview.png?v=1947f41b943f)
+[![270 Regional & Organization Flags](docs/assets/flags-overview.png?v=e49748e9fa05)](docs/assets/flags-overview.png?v=e49748e9fa05)
 
 ---
 
