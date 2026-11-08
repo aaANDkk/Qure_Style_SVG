@@ -6,6 +6,7 @@
 | --- | --- | --- |
 | [Koolson/Qure](https://github.com/Koolson/Qure) | 视觉风格及部分图标参考、矢量重绘；保留 Koolson 署名，学习交流，不用于商业盈利 | [原始来源记录](licenses/geometry-and-qure.txt) |
 | [lipis/flag-icons](https://github.com/lipis/flag-icons) | 部分旗帜几何轮廓，MIT | [来源与许可](licenses/geometry-and-qure.txt) |
+| [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags) | 部分地区旗帜图案与图形素材，MIT | [MIT](licenses/CircleFlags-MIT.txt) |
 | [phamfoo/figma-squircle](https://github.com/phamfoo/figma-squircle) | 连续圆角几何参考，MIT | [来源与许可](licenses/geometry-and-qure.txt) |
 | [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) | 部分 AI 与品牌图标轮廓，MIT | [MIT](licenses/LobeIcons-MIT.txt) |
 | [appshubcc/Bettbox](https://github.com/appshubcc/Bettbox) | 部分品牌内置 SVG 几何，如 Kraken、EHentai、V2EX 等，GPL-3.0 | [GPL-3.0](licenses/Bettbox-GPL-3.0.txt) |

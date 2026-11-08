@@ -84,6 +84,6 @@ Find the filename in the icon index, then use the corresponding raw file URL (fi
 ## 💕 Acknowledgements & Usage Notes
 
 - [Koolson / Qure](https://github.com/Koolson/Qure): Icon style and vector redraw references for parts of icons.
-- [flag-icons](https://github.com/lipis/flag-icons), [LobeHub Icons](https://github.com/lobehub/lobe-icons), [Bettbox](https://github.com/appshubcc/Bettbox), [Simple Icons](https://github.com/simple-icons/simple-icons), etc.: Sources for certain geometric silhouettes and brand materials.
+- [flag-icons](https://github.com/lipis/flag-icons), [circle-flags](https://github.com/HatScripts/circle-flags), [LobeHub Icons](https://github.com/lobehub/lobe-icons), [Bettbox](https://github.com/appshubcc/Bettbox), [Simple Icons](https://github.com/simple-icons/simple-icons), etc.: Sources for certain geometric silhouettes and brand materials.
 
 This project is an unofficial curated and stylized SVG icon set and is not affiliated with the official Qure project. Brand names and logos belong to their respective owners; please follow their original licenses and usage requirements. The Qure reference and redrawn portions retain the original author's attribution and are intended for study and exchange as requested by the original project, not for commercial profit. For detailed sources and licenses, see [Third-Party Notices](THIRD_PARTY_NOTICES.md).
