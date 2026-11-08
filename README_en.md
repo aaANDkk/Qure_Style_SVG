@@ -14,7 +14,7 @@ A Qure-style SVG icon pack containing **2,012 SVGs**: **1,742 common icons** and
 
 **Qure-Style-SVG** · 2,012 icons · Author: [aaANDkk](https://github.com/aaANDkk)
 
-Copy the subscription link below and add it to clients supporting JSON icon collections and SVG images (such as FlClash):
+Copy the subscription link below and add it to clients supporting JSON icon collections and SVG images (such as FlClash and Bettbox):
 
 ```text
 https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/Other/Qure-Style-SVG.json
