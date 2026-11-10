@@ -2,7 +2,7 @@
 
 [English](README_en.md) · [简体中文](README.md)
 
-A Qure-style SVG icon pack containing **2,012 SVGs**: **1,742 common icons** and **270 regional & organization flags**, standardized to a **144 × 144** canvas. All flag SVGs feature **continuous Bézier curvature rounded corners**. Pull requests (**PRs**) following the icon design specifications are welcome to add missing icons.
+A Qure-style SVG icon pack containing **2,060 SVGs**: **1,790 common icons** and **270 regional & organization flags**, standardized to a **144 × 144** canvas. All flag SVGs feature **continuous Bézier curvature rounded corners**. Pull requests (**PRs**) following the icon design specifications are welcome to add missing icons.
 
 [Common Icons Index](icon/svg/common/README_en.md) · [Flag Icons Index](icon/svg/flag/README_en.md) · [Icon Pack JSON](Other/Qure-Style-SVG.json)
 
@@ -12,7 +12,7 @@ A Qure-style SVG icon pack containing **2,012 SVGs**: **1,742 common icons** and
 
 <img src="https://avatars.githubusercontent.com/u/149130188?v=4" width="60" height="60" alt="aaANDkk's GitHub Avatar" style="border-radius: 80%;">
 
-**Qure-Style-SVG** · 2,012 icons · Author: [aaANDkk](https://github.com/aaANDkk)
+**Qure-Style-SVG** · 2,060 icons · Author: [aaANDkk](https://github.com/aaANDkk)
 
 Copy the subscription link below and add it to clients supporting JSON icon collections and SVG images (such as FlClash and Bettbox):
 
@@ -27,13 +27,13 @@ https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/Other/Qure-Style-S
 
 ## 🎨 Icon Preview
 
-### Common Icons · 1,742 Icons
+### Common Icons · 1,790 Icons
 
 Traffic routing, brand services, streaming media, AI, network tools, and proxy policy icons.
 
 [Browse & Download](icon/svg/common/README_en.md) · [Scalable SVG Overview](docs/assets/common-overview.svg) · [Full-size PNG](docs/assets/common-overview.png)
 
-[![1,742 Qure-style Common Icons](docs/assets/common-overview.png)](docs/assets/common-overview.png)
+[![1,790 Qure-style Common Icons](docs/assets/common-overview.png)](docs/assets/common-overview.png)
 
 ### Regional & Organization Flags · 270 Flags
 
