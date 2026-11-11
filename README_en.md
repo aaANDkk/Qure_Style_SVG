@@ -4,7 +4,7 @@
 
 A Qure-style SVG icon pack containing **2,269 SVGs**: **1,999 common icons** and **270 regional & organization flags**, standardized to a **144 × 144** canvas. All flag SVGs feature **continuous Bézier curvature rounded corners**. Pull requests (**PRs**) following the icon design specifications are welcome to add missing icons.
 
-**[Browse the icon website →](https://aaandkk.github.io/)** · [Icon Pack JSON](Other/Qure-Style-SVG.json)
+**[Browse the icon website →](https://aaandkk.github.io/)** 
 
 Search, preview, download, and copy icon links on the website.
 
