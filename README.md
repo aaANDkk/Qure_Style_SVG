@@ -4,7 +4,9 @@
 
 Qure 风格的 SVG 图标集，包含 **2269 个 SVG**：**1999 个通用图标**、**270 个地区与组织旗帜**，统一为 **144 × 144** 画布，其中旗帜 SVG 均采用**贝塞尔丝滑曲率绘制圆角**。可按 icon 设计规范提交 **PR** 补全缺失图标。
 
-[通用图标索引](icon/svg/common/README.md) · [旗帜图标索引](icon/svg/flag/README.md) · [图标包 JSON](Other/Qure-Style-SVG.json)
+**[前往图标官网 →](https://aaandkk.github.io/)** · [图标包 JSON](Other/Qure-Style-SVG.json)
+
+搜索、预览、下载图标及复制链接，请访问官网。
 
 ---
 
@@ -27,27 +29,23 @@ https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/Other/Qure-Style-S
 
 ## 🎨 图标预览
 
-### 通用图标 · 1999 个
+### 通用图标 · 精选 60 个
 
-业务分流、品牌服务、流媒体、AI、网络工具与策略图标。
+代理策略、广告拦截、AI、流媒体、社交与常用服务。完整图标请前往[官网](https://aaandkk.github.io/)查看。
 
-[逐项浏览与下载](icon/svg/common/README.md) · [可缩放 SVG 总览](docs/assets/common-overview.svg) · [PNG 大图](docs/assets/common-overview.png)
+[![60 个精选 Qure 风格通用 SVG 图标](docs/assets/common-preview.svg)](https://aaandkk.github.io/)
 
-[![1999 个 Qure 风格通用图标](docs/assets/common-overview.png)](docs/assets/common-overview.png)
+### 地区旗帜 · 精选 30 个
 
-### 地区与组织旗帜 · 270 个
+常用地区的旗帜预览。完整图标请前往[官网](https://aaandkk.github.io/)查看。
 
-按英文文件名排序，索引附中文名称。
-
-[逐项浏览与下载](icon/svg/flag/README.md) · [可缩放 SVG 总览](docs/assets/flags-overview.svg?v=75cb71c371df) · [PNG 大图](docs/assets/flags-overview.png?v=e49748e9fa05)
-
-[![270 个地区与组织旗帜](docs/assets/flags-overview.png?v=e49748e9fa05)](docs/assets/flags-overview.png?v=e49748e9fa05)
+[![30 个精选 Qure 风格旗帜 SVG 图标](docs/assets/flags-preview.svg)](https://aaandkk.github.io/)
 
 ---
 
 ## 🔗 单个图标使用
 
-在图标索引中找到文件名，使用对应的原始文件链接（文件名区分大小写）：
+在[官网](https://aaandkk.github.io/)搜索图标并复制链接，也可使用以下原始文件链接（文件名区分大小写）：
 
 - **通用图标示例**：
   ```text
@@ -70,14 +68,14 @@ https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/Other/Qure-Style-S
 
 | 目录 / 文件 | 说明 |
 | :--- | :--- |
-| [`icon/svg/common/`](icon/svg/common/) | 通用 SVG 图标与逐项索引 |
-| [`icon/svg/flag/`](icon/svg/flag/) | 地区与组织旗帜及逐项索引 |
-| [`docs/assets/`](docs/assets/) | SVG / PNG 总览展示图 |
+| [`icon/svg/common/`](icon/svg/common/) | 通用 SVG 图标源文件 |
+| [`icon/svg/flag/`](icon/svg/flag/) | 地区与组织旗帜 SVG 源文件 |
+| [`docs/assets/`](docs/assets/) | 精选 SVG 预览图 |
 | [`Other/Qure-Style-SVG.json`](Other/Qure-Style-SVG.json) | 图标包清单 |
 | [`licenses/`](licenses/) | 第三方许可文本 |
 
 > [!TIP]
-> PNG 文件仅用于总览展示，所有图标源文件统一使用 SVG 格式。
+> 所有图标源文件均为 SVG 格式，完整图标库请前往[官网](https://aaandkk.github.io/)查看。
 
 ---
 

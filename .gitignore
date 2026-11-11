@@ -28,6 +28,7 @@
 /docs/assets/*
 !/docs/assets/*-overview.svg
 !/docs/assets/*-overview.png
+!/docs/assets/*-preview.svg
 /Other/*
 !/Other/Qure-Style-SVG.json
 __pycache__/

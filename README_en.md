@@ -4,7 +4,9 @@
 
 A Qure-style SVG icon pack containing **2,269 SVGs**: **1,999 common icons** and **270 regional & organization flags**, standardized to a **144 × 144** canvas. All flag SVGs feature **continuous Bézier curvature rounded corners**. Pull requests (**PRs**) following the icon design specifications are welcome to add missing icons.
 
-[Common Icons Index](icon/svg/common/README_en.md) · [Flag Icons Index](icon/svg/flag/README_en.md) · [Icon Pack JSON](Other/Qure-Style-SVG.json)
+**[Browse the icon website →](https://aaandkk.github.io/)** · [Icon Pack JSON](Other/Qure-Style-SVG.json)
+
+Search, preview, download, and copy icon links on the website.
 
 ---
 
@@ -27,27 +29,23 @@ https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/Other/Qure-Style-S
 
 ## 🎨 Icon Preview
 
-### Common Icons · 1,999 Icons
+### Common Icons · 60 Selected Icons
 
-Traffic routing, brand services, streaming media, AI, network tools, and proxy policy icons.
+Proxy policies, ad blocking, AI, streaming, social platforms, and everyday services. Browse the full collection on the [website](https://aaandkk.github.io/).
 
-[Browse & Download](icon/svg/common/README_en.md) · [Scalable SVG Overview](docs/assets/common-overview.svg) · [Full-size PNG](docs/assets/common-overview.png)
+[![60 selected Qure-style common SVG icons](docs/assets/common-preview.svg)](https://aaandkk.github.io/)
 
-[![1,999 Qure-style Common Icons](docs/assets/common-overview.png)](docs/assets/common-overview.png)
+### Regional Flags · 30 Selected Flags
 
-### Regional & Organization Flags · 270 Flags
+A preview of commonly used regions. Browse the full collection on the [website](https://aaandkk.github.io/).
 
-Sorted alphabetically by English filename, with index showing region/country names.
-
-[Browse & Download](icon/svg/flag/README_en.md) · [Scalable SVG Overview](docs/assets/flags-overview.svg?v=75cb71c371df) · [Full-size PNG](docs/assets/flags-overview.png?v=e49748e9fa05)
-
-[![270 Regional & Organization Flags](docs/assets/flags-overview.png?v=e49748e9fa05)](docs/assets/flags-overview.png?v=e49748e9fa05)
+[![30 selected Qure-style flag SVG icons](docs/assets/flags-preview.svg)](https://aaandkk.github.io/)
 
 ---
 
 ## 🔗 Using Individual Icons
 
-Find the filename in the icon index, then use the corresponding raw file URL (filenames are case-sensitive):
+Find an icon on the [website](https://aaandkk.github.io/) and copy its URL, or use the raw file URLs below (filenames are case-sensitive):
 
 - **Common Icon Example**:
   ```text
@@ -70,14 +68,14 @@ Find the filename in the icon index, then use the corresponding raw file URL (fi
 
 | Directory / File | Description |
 | :--- | :--- |
-| [`icon/svg/common/`](icon/svg/common/) | Common SVG icons and item-by-item index |
-| [`icon/svg/flag/`](icon/svg/flag/) | Regional & organization flags and item-by-item index |
-| [`docs/assets/`](docs/assets/) | SVG / PNG overview images |
+| [`icon/svg/common/`](icon/svg/common/) | Common SVG source files |
+| [`icon/svg/flag/`](icon/svg/flag/) | Regional & organization flag SVG source files |
+| [`docs/assets/`](docs/assets/) | Selected SVG preview images |
 | [`Other/Qure-Style-SVG.json`](Other/Qure-Style-SVG.json) | Icon pack manifest |
 | [`licenses/`](licenses/) | Third-party license texts |
 
 > [!TIP]
-> PNG files are only used for overview display; all icon source files are standardized in SVG format.
+> All icon source files use SVG. Visit the [website](https://aaandkk.github.io/) for the complete collection.
 
 ---
 
