@@ -4,6 +4,10 @@
   "description": "Qure 风格 SVG 图标集，包含通用图标与地区、组织旗帜。作者：aaANDkk。",
   "icons": [
     {
+      "name": "1YunTi.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/1YunTi.svg"
+    },
+    {
       "name": "36Kr.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/36Kr.svg"
     },
@@ -14,6 +18,22 @@
     {
       "name": "666Clouds.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/666Clouds.svg"
+    },
+    {
+      "name": "69Yun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/69Yun.svg"
+    },
+    {
+      "name": "7Jia.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/7Jia.svg"
+    },
+    {
+      "name": "98k.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/98k.svg"
+    },
+    {
+      "name": "99Ba.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/99Ba.svg"
     },
     {
       "name": "AaITR.svg",
@@ -116,6 +136,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AGA.svg"
     },
     {
+      "name": "AgentNEO.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AgentNEO.svg"
+    },
+    {
       "name": "AgentVoice.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AgentVoice.svg"
     },
@@ -188,8 +212,16 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AirJelly.svg"
     },
     {
+      "name": "AirPiPi.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AirPiPi.svg"
+    },
+    {
       "name": "Airport.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Airport.svg"
+    },
+    {
+      "name": "AirrailNetworks.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AirrailNetworks.svg"
     },
     {
       "name": "Airtable.svg",
@@ -218,6 +250,10 @@
     {
       "name": "AkkoCloud.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AkkoCloud.svg"
+    },
+    {
+      "name": "AladdinNetworkOptimizer.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AladdinNetworkOptimizer.svg"
     },
     {
       "name": "AlephAlpha.svg",
@@ -290,6 +326,10 @@
     {
       "name": "Amp.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Amp.svg"
+    },
+    {
+      "name": "AmyTelecom.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/AmyTelecom.svg"
     },
     {
       "name": "Anaconda.svg",
@@ -516,6 +556,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Appwrite.svg"
     },
     {
+      "name": "APTCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/APTCloud.svg"
+    },
+    {
       "name": "Arbitrum.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Arbitrum.svg"
     },
@@ -552,6 +596,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ArgoCD.svg"
     },
     {
+      "name": "Arisaka.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Arisaka.svg"
+    },
+    {
       "name": "Arm.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Arm.svg"
     },
@@ -570,6 +618,10 @@
     {
       "name": "Asana.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Asana.svg"
+    },
+    {
+      "name": "ASH.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ASH.svg"
     },
     {
       "name": "AsiaMap.svg",
@@ -696,6 +748,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Aya.svg"
     },
     {
+      "name": "Ayanami.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Ayanami.svg"
+    },
+    {
       "name": "Azure.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Azure.svg"
     },
@@ -724,6 +780,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Bahamut.svg"
     },
     {
+      "name": "BaiBianXiaoYing.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BaiBianXiaoYing.svg"
+    },
+    {
       "name": "Baichuan.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Baichuan.svg"
     },
@@ -742,6 +802,10 @@
     {
       "name": "Bailian.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Bailian.svg"
+    },
+    {
+      "name": "BaiYueGuangJiChang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BaiYueGuangJiChang.svg"
     },
     {
       "name": "Bamboo.svg",
@@ -808,6 +872,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BeekeeperStudio.svg"
     },
     {
+      "name": "BeiHaiWangLuo.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BeiHaiWangLuo.svg"
+    },
+    {
       "name": "BeijingSubway.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BeijingSubway.svg"
     },
@@ -828,6 +896,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BetterAuth.svg"
     },
     {
+      "name": "BFG.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BFG.svg"
+    },
+    {
       "name": "Bfl.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Bfl.svg"
     },
@@ -836,8 +908,24 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BGP.svg"
     },
     {
+      "name": "BianJieYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BianJieYun.svg"
+    },
+    {
+      "name": "BianYuanJieDian.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BianYuanJieDian.svg"
+    },
+    {
+      "name": "BiaoGeYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BiaoGeYun.svg"
+    },
+    {
       "name": "BigBlueButton.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BigBlueButton.svg"
+    },
+    {
+      "name": "BigME.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BigME.svg"
     },
     {
       "name": "Bilibili.svg",
@@ -886,6 +974,10 @@
     {
       "name": "Bitwarden.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Bitwarden.svg"
+    },
+    {
+      "name": "BitzNet.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BitzNet.svg"
     },
     {
       "name": "Blackhole.svg",
@@ -1008,6 +1100,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BriaAI.svg"
     },
     {
+      "name": "BridgeTheWise.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/BridgeTheWise.svg"
+    },
+    {
       "name": "Broadcom.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Broadcom.svg"
     },
@@ -1072,12 +1168,24 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ByteDance.svg"
     },
     {
+      "name": "ByteDog.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ByteDog.svg"
+    },
+    {
       "name": "ByteVirt.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ByteVirt.svg"
     },
     {
+      "name": "ByWave.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ByWave.svg"
+    },
+    {
       "name": "Caddy.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Caddy.svg"
+    },
+    {
+      "name": "CaiHongYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/CaiHongYun.svg"
     },
     {
       "name": "Cainiao.svg",
@@ -1188,6 +1296,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Cerebras.svg"
     },
     {
+      "name": "CeryCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/CeryCloud.svg"
+    },
+    {
       "name": "Chai.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Chai.svg"
     },
@@ -1202,6 +1314,10 @@
     {
       "name": "ChakraUI.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ChakraUI.svg"
+    },
+    {
+      "name": "ChaoShiHuiJiChang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ChaoShiHuiJiChang.svg"
     },
     {
       "name": "Charles.svg",
@@ -1222,6 +1338,10 @@
     {
       "name": "Chatwoot.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Chatwoot.svg"
+    },
+    {
+      "name": "ChaYiYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ChaYiYun.svg"
     },
     {
       "name": "CheaperInference.svg",
@@ -1246,6 +1366,10 @@
     {
       "name": "CherryStudio.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/CherryStudio.svg"
+    },
+    {
+      "name": "CherryVPN.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/CherryVPN.svg"
     },
     {
       "name": "Chery.svg",
@@ -1288,12 +1412,24 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Chocolatey.svg"
     },
     {
+      "name": "ChongShangYunXiao.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ChongShangYunXiao.svg"
+    },
+    {
       "name": "Chroma.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Chroma.svg"
     },
     {
       "name": "Chrome.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Chrome.svg"
+    },
+    {
+      "name": "ChuiXueYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ChuiXueYun.svg"
+    },
+    {
+      "name": "ChuMenJiaSu.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ChuMenJiaSu.svg"
     },
     {
       "name": "Chutes.svg",
@@ -1328,6 +1464,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Civitai.svg"
     },
     {
+      "name": "CiYuanLianJie.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/CiYuanLianJie.svg"
+    },
+    {
       "name": "Clarivate.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Clarivate.svg"
     },
@@ -1338,6 +1478,10 @@
     {
       "name": "ClashVergeRev.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ClashVergeRev.svg"
+    },
+    {
+      "name": "ClashxApp.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ClashxApp.svg"
     },
     {
       "name": "Claude.svg",
@@ -1432,6 +1576,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/CNET.svg"
     },
     {
+      "name": "CNHuoJian.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/CNHuoJian.svg"
+    },
+    {
       "name": "CNN.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/CNN.svg"
     },
@@ -1442,6 +1590,10 @@
     {
       "name": "CocoaPods.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/CocoaPods.svg"
+    },
+    {
+      "name": "CoCoDuck.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/CoCoDuck.svg"
     },
     {
       "name": "Coda.svg",
@@ -1636,6 +1788,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/CrewAI.svg"
     },
     {
+      "name": "CrossWall.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/CrossWall.svg"
+    },
+    {
       "name": "CrowdStrike.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/CrowdStrike.svg"
     },
@@ -1696,12 +1852,24 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/CyberCut.svg"
     },
     {
+      "name": "CyberGuard.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/CyberGuard.svg"
+    },
+    {
       "name": "Cydia.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Cydia.svg"
     },
     {
       "name": "Cypress.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Cypress.svg"
+    },
+    {
+      "name": "DaFeiYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/DaFeiYun.svg"
+    },
+    {
+      "name": "DaGeYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/DaGeYun.svg"
     },
     {
       "name": "Daily.svg",
@@ -1718,6 +1886,14 @@
     {
       "name": "Dalle.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Dalle.svg"
+    },
+    {
+      "name": "DaNiuJiChang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/DaNiuJiChang.svg"
+    },
+    {
+      "name": "DankeCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/DankeCloud.svg"
     },
     {
       "name": "DarkReader.svg",
@@ -1802,6 +1978,10 @@
     {
       "name": "Deluge.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Deluge.svg"
+    },
+    {
+      "name": "DengTaJiaSuQi.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/DengTaJiaSuQi.svg"
     },
     {
       "name": "Deno.svg",
@@ -2016,12 +2196,24 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Drupal.svg"
     },
     {
+      "name": "Dsocks.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Dsocks.svg"
+    },
+    {
+      "name": "DualNet.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/DualNet.svg"
+    },
+    {
       "name": "DuckDB.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/DuckDB.svg"
     },
     {
       "name": "DuckDuckGo.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/DuckDuckGo.svg"
+    },
+    {
+      "name": "DuoLaAMengVPN.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/DuoLaAMengVPN.svg"
     },
     {
       "name": "Duolingo.svg",
@@ -2036,12 +2228,20 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/EA.svg"
     },
     {
+      "name": "EasyCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/EasyCloud.svg"
+    },
+    {
       "name": "EasyEDA.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/EasyEDA.svg"
     },
     {
       "name": "eBay.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/eBay.svg"
+    },
+    {
+      "name": "EchoNetwork.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/EchoNetwork.svg"
     },
     {
       "name": "EclipseMosquitto.svg",
@@ -2060,6 +2260,14 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Edge.svg"
     },
     {
+      "name": "EdgeX.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/EdgeX.svg"
+    },
+    {
+      "name": "EdNovas.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/EdNovas.svg"
+    },
+    {
       "name": "Edx.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Edx.svg"
     },
@@ -2074,6 +2282,10 @@
     {
       "name": "EHentai.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/EHentai.svg"
+    },
+    {
+      "name": "EIX.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/EIX.svg"
     },
     {
       "name": "Elasticsearch.svg",
@@ -2144,6 +2356,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/encoreTVB.svg"
     },
     {
+      "name": "ENET.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ENET.svg"
+    },
+    {
       "name": "Enpass.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Enpass.svg"
     },
@@ -2158,6 +2374,10 @@
     {
       "name": "Erlang.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Erlang.svg"
+    },
+    {
+      "name": "ErWanYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ErWanYun.svg"
     },
     {
       "name": "Esbuild.svg",
@@ -2198,6 +2418,14 @@
     {
       "name": "Ethers.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Ethers.svg"
+    },
+    {
+      "name": "ETON.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ETON.svg"
+    },
+    {
+      "name": "Eueu.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Eueu.svg"
     },
     {
       "name": "EuropeMap.svg",
@@ -2256,12 +2484,20 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Faceit.svg"
     },
     {
+      "name": "FacMata.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FacMata.svg"
+    },
+    {
       "name": "Fal.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Fal.svg"
     },
     {
       "name": "FamPay.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FamPay.svg"
+    },
+    {
+      "name": "FancyNetwork.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FancyNetwork.svg"
     },
     {
       "name": "Fandango.svg",
@@ -2296,6 +2532,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Fastly.svg"
     },
     {
+      "name": "Fastnode.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Fastnode.svg"
+    },
+    {
       "name": "FCM.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FCM.svg"
     },
@@ -2320,6 +2560,22 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Feishu.svg"
     },
     {
+      "name": "FeiTianZhu.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FeiTianZhu.svg"
+    },
+    {
+      "name": "FeiTuYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FeiTuYun.svg"
+    },
+    {
+      "name": "FengDanHangKong.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FengDanHangKong.svg"
+    },
+    {
+      "name": "FengWoYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FengWoYun.svg"
+    },
+    {
       "name": "FFmpeg.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FFmpeg.svg"
     },
@@ -2338,6 +2594,10 @@
     {
       "name": "FileZilla.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FileZilla.svg"
+    },
+    {
+      "name": "FilmCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FilmCloud.svg"
     },
     {
       "name": "Filter.svg",
@@ -2420,6 +2680,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Flora.svg"
     },
     {
+      "name": "FlowerCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FlowerCloud.svg"
+    },
+    {
       "name": "Flowise.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Flowise.svg"
     },
@@ -2442,6 +2706,14 @@
     {
       "name": "FluxCD.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FluxCD.svg"
+    },
+    {
+      "name": "FluxCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FluxCloud.svg"
+    },
+    {
+      "name": "FlyBit.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FlyBit.svg"
     },
     {
       "name": "FlyDotIo.svg",
@@ -2470,6 +2742,10 @@
     {
       "name": "ForeignMedia.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ForeignMedia.svg"
+    },
+    {
+      "name": "ForestVPN.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ForestVPN.svg"
     },
     {
       "name": "Forgejo.svg",
@@ -2526,6 +2802,10 @@
     {
       "name": "Frog.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Frog.svg"
+    },
+    {
+      "name": "FSCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/FSCloud.svg"
     },
     {
       "name": "fuboTV.svg",
@@ -2592,6 +2872,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Garmin.svg"
     },
     {
+      "name": "Gatern.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Gatern.svg"
+    },
+    {
       "name": "Gatling.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Gatling.svg"
     },
@@ -2634,6 +2918,10 @@
     {
       "name": "GIA.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/GIA.svg"
+    },
+    {
+      "name": "GieGieCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/GieGieCloud.svg"
     },
     {
       "name": "Gigabyte.svg",
@@ -2686,6 +2974,10 @@
     {
       "name": "Gitlab.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Gitlab.svg"
+    },
+    {
+      "name": "GLaDOS.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/GLaDOS.svg"
     },
     {
       "name": "Glama.svg",
@@ -2904,6 +3196,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/GStreamer.svg"
     },
     {
+      "name": "GuangNianTi.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/GuangNianTi.svg"
+    },
+    {
       "name": "GuangzhouMetro.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/GuangzhouMetro.svg"
     },
@@ -2914,6 +3210,10 @@
     {
       "name": "Guokr.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Guokr.svg"
+    },
+    {
+      "name": "GuoLiCheng.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/GuoLiCheng.svg"
     },
     {
       "name": "GWM.svg",
@@ -3104,6 +3404,18 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Homebridge.svg"
     },
     {
+      "name": "HongAnJiaSu.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/HongAnJiaSu.svg"
+    },
+    {
+      "name": "HongXingChuQiang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/HongXingChuQiang.svg"
+    },
+    {
+      "name": "HongXingYunJiChang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/HongXingYunJiChang.svg"
+    },
+    {
       "name": "Honor.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Honor.svg"
     },
@@ -3130,6 +3442,10 @@
     {
       "name": "HTC.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/HTC.svg"
+    },
+    {
+      "name": "HuanYuYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/HuanYuYun.svg"
     },
     {
       "name": "Huawei.svg",
@@ -3162,6 +3478,10 @@
     {
       "name": "Huobi.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Huobi.svg"
+    },
+    {
+      "name": "HuoShaoYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/HuoShaoYun.svg"
     },
     {
       "name": "Huya.svg",
@@ -3248,6 +3568,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Imgur.svg"
     },
     {
+      "name": "ImmTelecom.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ImmTelecom.svg"
+    },
+    {
       "name": "Inception.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Inception.svg"
     },
@@ -3258,6 +3582,10 @@
     {
       "name": "IndieHackers.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/IndieHackers.svg"
+    },
+    {
+      "name": "INetS.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/INetS.svg"
     },
     {
       "name": "Inference.svg",
@@ -3420,12 +3748,24 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Jianying.svg"
     },
     {
+      "name": "JiaoJuZhe.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/JiaoJuZhe.svg"
+    },
+    {
+      "name": "JiasuLa.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/JiasuLa.svg"
+    },
+    {
       "name": "Jimeng.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Jimeng.svg"
     },
     {
       "name": "Jina.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Jina.svg"
+    },
+    {
+      "name": "JiSuYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/JiSuYun.svg"
     },
     {
       "name": "Jitsi.svg",
@@ -3454,6 +3794,10 @@
     {
       "name": "Juejin.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Juejin.svg"
+    },
+    {
+      "name": "JuLangYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/JuLangYun.svg"
     },
     {
       "name": "Julia.svg",
@@ -3516,6 +3860,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/KeePassXC.svg"
     },
     {
+      "name": "KenDeJi.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/KenDeJi.svg"
+    },
+    {
       "name": "Keras.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Keras.svg"
     },
@@ -3554,6 +3902,10 @@
     {
       "name": "Kimi.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Kimi.svg"
+    },
+    {
+      "name": "King.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/King.svg"
     },
     {
       "name": "KingstonTechnology.svg",
@@ -3612,6 +3964,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Konami.svg"
     },
     {
+      "name": "KooDog.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/KooDog.svg"
+    },
+    {
       "name": "Kotlin.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Kotlin.svg"
     },
@@ -3628,6 +3984,22 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Krita.svg"
     },
     {
+      "name": "Kscloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Kscloud.svg"
+    },
+    {
+      "name": "KTMCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/KTMCloud.svg"
+    },
+    {
+      "name": "KuaiChongYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/KuaiChongYun.svg"
+    },
+    {
+      "name": "KuaiLeiGO.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/KuaiLeiGO.svg"
+    },
+    {
       "name": "Kuaishou.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Kuaishou.svg"
     },
@@ -3642,6 +4014,18 @@
     {
       "name": "Kugou.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Kugou.svg"
+    },
+    {
+      "name": "KuKeYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/KuKeYun.svg"
+    },
+    {
+      "name": "KuKuYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/KuKuYun.svg"
+    },
+    {
+      "name": "Kuromis.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Kuromis.svg"
     },
     {
       "name": "KwaiKAT.svg",
@@ -3680,12 +4064,28 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LangSmith.svg"
     },
     {
+      "name": "LanMeiQiao.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LanMeiQiao.svg"
+    },
+    {
+      "name": "LanMeiSuDi.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LanMeiSuDi.svg"
+    },
+    {
+      "name": "LanXingYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LanXingYun.svg"
+    },
+    {
       "name": "LastDotFm.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LastDotFm.svg"
     },
     {
       "name": "LastPass.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LastPass.svg"
+    },
+    {
+      "name": "LatteCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LatteCloud.svg"
     },
     {
       "name": "Launchpad.svg",
@@ -3702,6 +4102,10 @@
     {
       "name": "LeetCode.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LeetCode.svg"
+    },
+    {
+      "name": "LeflyCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LeflyCloud.svg"
     },
     {
       "name": "LegacyGames.svg",
@@ -3730,6 +4134,10 @@
     {
       "name": "LG.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LG.svg"
+    },
+    {
+      "name": "LiangXinYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LiangXinYun.svg"
     },
     {
       "name": "LiAuto.svg",
@@ -3768,6 +4176,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Ling.svg"
     },
     {
+      "name": "LingSpeed.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LingSpeed.svg"
+    },
+    {
       "name": "LiNing.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LiNing.svg"
     },
@@ -3802,6 +4214,10 @@
     {
       "name": "LiTV.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LiTV.svg"
+    },
+    {
+      "name": "LiuXingVPN.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LiuXingVPN.svg"
     },
     {
       "name": "LiveChat.svg",
@@ -3886,6 +4302,10 @@
     {
       "name": "LucidMotors.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/LucidMotors.svg"
+    },
+    {
+      "name": "Luckin.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Luckin.svg"
     },
     {
       "name": "Luffy.svg",
@@ -4048,12 +4468,20 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Memos.svg"
     },
     {
+      "name": "MengWuYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/MengWuYun.svg"
+    },
+    {
       "name": "Menlo.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Menlo.svg"
     },
     {
       "name": "Meshy.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Meshy.svg"
+    },
+    {
+      "name": "MESLCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/MESLCloud.svg"
     },
     {
       "name": "Messenger.svg",
@@ -4088,6 +4516,14 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/MGTV.svg"
     },
     {
+      "name": "MiaoLianYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/MiaoLianYun.svg"
+    },
+    {
+      "name": "MiaoSuYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/MiaoSuYun.svg"
+    },
+    {
       "name": "Mickey.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Mickey.svg"
     },
@@ -4112,8 +4548,16 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/MikroTik.svg"
     },
     {
+      "name": "MilkCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/MilkCloud.svg"
+    },
+    {
       "name": "Milvus.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Milvus.svg"
+    },
+    {
+      "name": "MiMengYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/MiMengYun.svg"
     },
     {
       "name": "Miniflux.svg",
@@ -4144,6 +4588,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Mistral.svg"
     },
     {
+      "name": "Mitce.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Mitce.svg"
+    },
+    {
       "name": "MLflow.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/MLflow.svg"
     },
@@ -4162,6 +4610,10 @@
     {
       "name": "Modrinth.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Modrinth.svg"
+    },
+    {
+      "name": "MoJieJiChang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/MoJieJiChang.svg"
     },
     {
       "name": "Mojo.svg",
@@ -4228,6 +4680,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Mubi.svg"
     },
     {
+      "name": "MuGuaYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/MuGuaYun.svg"
+    },
+    {
       "name": "MUI.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/MUI.svg"
     },
@@ -4238,6 +4694,10 @@
     {
       "name": "Mumble.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Mumble.svg"
+    },
+    {
+      "name": "Murss.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Murss.svg"
     },
     {
       "name": "Muse.svg",
@@ -4280,12 +4740,20 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Naiko.svg"
     },
     {
+      "name": "NaiSiYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NaiSiYun.svg"
+    },
+    {
       "name": "Namecheap.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Namecheap.svg"
     },
     {
       "name": "NanoBanana.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NanoBanana.svg"
+    },
+    {
+      "name": "NanoCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NanoCloud.svg"
     },
     {
       "name": "NativeScript.svg",
@@ -4380,6 +4848,14 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NewRelic.svg"
     },
     {
+      "name": "NEX.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NEX.svg"
+    },
+    {
+      "name": "Nexitally.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Nexitally.svg"
+    },
+    {
       "name": "Nexon.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Nexon.svg"
     },
@@ -4416,6 +4892,18 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Ngrok.svg"
     },
     {
+      "name": "NianYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NianYun.svg"
+    },
+    {
+      "name": "Nice.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Nice.svg"
+    },
+    {
+      "name": "NiceH.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NiceH.svg"
+    },
+    {
       "name": "NicoNico.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NicoNico.svg"
     },
@@ -4444,8 +4932,28 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NIO.svg"
     },
     {
+      "name": "NiuBiJiChang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NiuBiJiChang.svg"
+    },
+    {
+      "name": "NiuNiuLiuYuanJiChang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NiuNiuLiuYuanJiChang.svg"
+    },
+    {
+      "name": "NIVANetwork.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NIVANetwork.svg"
+    },
+    {
       "name": "NixOS.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NixOS.svg"
+    },
+    {
+      "name": "NMY.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NMY.svg"
+    },
+    {
+      "name": "NO626.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NO626.svg"
     },
     {
       "name": "NocoBase.svg",
@@ -4520,6 +5028,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NowE.svg"
     },
     {
+      "name": "Nowhere.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Nowhere.svg"
+    },
+    {
       "name": "NPLCloud.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NPLCloud.svg"
     },
@@ -4558,6 +5070,10 @@
     {
       "name": "NXP.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/NXP.svg"
+    },
+    {
+      "name": "Nyxen.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Nyxen.svg"
     },
     {
       "name": "Obsidian.svg",
@@ -4764,6 +5280,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Osu.svg"
     },
     {
+      "name": "OuONetwork.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/OuONetwork.svg"
+    },
+    {
       "name": "OVHcloud.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/OVHcloud.svg"
     },
@@ -4828,6 +5348,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/PanstarCloud.svg"
     },
     {
+      "name": "PaoPaoGou.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/PaoPaoGou.svg"
+    },
+    {
       "name": "Paramount.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Paramount.svg"
     },
@@ -4884,12 +5408,20 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/PeerTube.svg"
     },
     {
+      "name": "PeiQianJiChang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/PeiQianJiChang.svg"
+    },
+    {
       "name": "Penpot.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Penpot.svg"
     },
     {
       "name": "Perceptron.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Perceptron.svg"
+    },
+    {
+      "name": "PerfectLink.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/PerfectLink.svg"
     },
     {
       "name": "Perl.svg",
@@ -4978,6 +5510,10 @@
     {
       "name": "Pingdom.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Pingdom.svg"
+    },
+    {
+      "name": "PinHaoLian.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/PinHaoLian.svg"
     },
     {
       "name": "Pinterest.svg",
@@ -5096,6 +5632,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Pornhub.svg"
     },
     {
+      "name": "Poros.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Poros.svg"
+    },
+    {
       "name": "Portainer.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Portainer.svg"
     },
@@ -5118,6 +5658,10 @@
     {
       "name": "PPIO.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/PPIO.svg"
+    },
+    {
+      "name": "PPJiChang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/PPJiChang.svg"
     },
     {
       "name": "PQS.svg",
@@ -5248,8 +5792,24 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/QEMU.svg"
     },
     {
+      "name": "QiangQiangJuLeBu.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/QiangQiangJuLeBu.svg"
+    },
+    {
+      "name": "QianSuMiao.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/QianSuMiao.svg"
+    },
+    {
+      "name": "QingNingJuZhongZhuanZhan.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/QingNingJuZhongZhuanZhan.svg"
+    },
+    {
       "name": "Qingyan.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Qingyan.svg"
+    },
+    {
+      "name": "QingYunTi.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/QingYunTi.svg"
     },
     {
       "name": "Qiniu.svg",
@@ -5372,6 +5932,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ReadTheDocs.svg"
     },
     {
+      "name": "RecMata.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/RecMata.svg"
+    },
+    {
       "name": "Recraft.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Recraft.svg"
     },
@@ -5414,6 +5978,10 @@
     {
       "name": "Renzhe.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Renzhe.svg"
+    },
+    {
+      "name": "RenZheYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/RenZheYun.svg"
     },
     {
       "name": "Replicate.svg",
@@ -5520,6 +6088,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/RTHK.svg"
     },
     {
+      "name": "RuanJianYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/RuanJianYun.svg"
+    },
+    {
       "name": "Ruby.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Ruby.svg"
     },
@@ -5538,6 +6110,10 @@
     {
       "name": "Rumble.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Rumble.svg"
+    },
+    {
+      "name": "RunLianJiaSu.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/RunLianJiaSu.svg"
     },
     {
       "name": "Runway.svg",
@@ -5562,6 +6138,10 @@
     {
       "name": "Sakura.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Sakura.svg"
+    },
+    {
+      "name": "SakuraCat.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/SakuraCat.svg"
     },
     {
       "name": "SaltyFish.svg",
@@ -5632,6 +6212,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Selenium.svg"
     },
     {
+      "name": "SeLongYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/SeLongYun.svg"
+    },
+    {
       "name": "SemanticUI.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/SemanticUI.svg"
     },
@@ -5676,12 +6260,20 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ShadcnUI.svg"
     },
     {
+      "name": "ShanDianJiChang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ShanDianJiChang.svg"
+    },
+    {
       "name": "ShanghaiMetro.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ShanghaiMetro.svg"
     },
     {
       "name": "Shazam.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Shazam.svg"
+    },
+    {
+      "name": "ShellNet.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ShellNet.svg"
     },
     {
       "name": "Shelly.svg",
@@ -5702,6 +6294,18 @@
     {
       "name": "Shopline.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Shopline.svg"
+    },
+    {
+      "name": "ShouHouWangLuo.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ShouHouWangLuo.svg"
+    },
+    {
+      "name": "ShouSiYunVPN.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ShouSiYunVPN.svg"
+    },
+    {
+      "name": "ShunYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ShunYun.svg"
     },
     {
       "name": "Signal.svg",
@@ -5734,6 +6338,10 @@
     {
       "name": "Sky.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Sky.svg"
+    },
+    {
+      "name": "SkyLinX.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/SkyLinX.svg"
     },
     {
       "name": "Skywork.svg",
@@ -5908,6 +6516,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/SSLinks.svg"
     },
     {
+      "name": "SSONE.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/SSONE.svg"
+    },
+    {
       "name": "StabilityAI.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/StabilityAI.svg"
     },
@@ -6076,6 +6688,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Supabase.svg"
     },
     {
+      "name": "Superbiu.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Superbiu.svg"
+    },
+    {
       "name": "Supercell.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Supercell.svg"
     },
@@ -6090,6 +6706,10 @@
     {
       "name": "SurrealDB.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/SurrealDB.svg"
+    },
+    {
+      "name": "SuYing.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/SuYing.svg"
     },
     {
       "name": "Svelte.svg",
@@ -6140,6 +6760,14 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/TailwindCSS.svg"
     },
     {
+      "name": "TaiShanNet.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/TaiShanNet.svg"
+    },
+    {
+      "name": "TangGuoYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/TangGuoYun.svg"
+    },
+    {
       "name": "Taobao.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Taobao.svg"
     },
@@ -6188,6 +6816,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/TED.svg"
     },
     {
+      "name": "TeLangPuYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/TeLangPuYun.svg"
+    },
+    {
       "name": "Telegram.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Telegram.svg"
     },
@@ -6206,6 +6838,10 @@
     {
       "name": "TencentMap.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/TencentMap.svg"
+    },
+    {
+      "name": "TenCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/TenCloud.svg"
     },
     {
       "name": "TensorFlow.svg",
@@ -6264,6 +6900,14 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Tiangong.svg"
     },
     {
+      "name": "TianHang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/TianHang.svg"
+    },
+    {
+      "name": "TianTianYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/TianTianYun.svg"
+    },
+    {
       "name": "Tianyancha.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Tianyancha.svg"
     },
@@ -6288,12 +6932,20 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/TimescaleDB.svg"
     },
     {
+      "name": "TIRN.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/TIRN.svg"
+    },
+    {
       "name": "Tmall.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Tmall.svg"
     },
     {
       "name": "TmhHost.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/TmhHost.svg"
+    },
+    {
+      "name": "TNTCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/TNTCloud.svg"
     },
     {
       "name": "Todoist.svg",
@@ -6346,6 +6998,10 @@
     {
       "name": "Trakt.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Trakt.svg"
+    },
+    {
+      "name": "Translink.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Translink.svg"
     },
     {
       "name": "Transmission.svg",
@@ -6540,6 +7196,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Unstructured.svg"
     },
     {
+      "name": "UOCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/UOCloud.svg"
+    },
+    {
       "name": "Upstage.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Upstage.svg"
     },
@@ -6576,6 +7236,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/V2EX.svg"
     },
     {
+      "name": "V2PAW.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/V2PAW.svg"
+    },
+    {
       "name": "V8.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/V8.svg"
     },
@@ -6586,6 +7250,10 @@
     {
       "name": "Vault.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Vault.svg"
+    },
+    {
+      "name": "VDNET.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/VDNET.svg"
     },
     {
       "name": "VectorizerAI.svg",
@@ -6618,6 +7286,10 @@
     {
       "name": "Viggle.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Viggle.svg"
+    },
+    {
+      "name": "VikingLinks.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/VikingLinks.svg"
     },
     {
       "name": "Vim.svg",
@@ -6728,6 +7400,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Vultr.svg"
     },
     {
+      "name": "Vvcloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Vvcloud.svg"
+    },
+    {
       "name": "W3Schools.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/W3Schools.svg"
     },
@@ -6738,6 +7414,10 @@
     {
       "name": "Wafer.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Wafer.svg"
+    },
+    {
+      "name": "WanDaYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/WanDaYun.svg"
     },
     {
       "name": "Wandb.svg",
@@ -6754,6 +7434,10 @@
     {
       "name": "Wasabi.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Wasabi.svg"
+    },
+    {
+      "name": "WaveNebula.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/WaveNebula.svg"
     },
     {
       "name": "WaveSpeed.svg",
@@ -6824,12 +7508,20 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/WePC.svg"
     },
     {
+      "name": "WestData.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/WestData.svg"
+    },
+    {
       "name": "WesternDigital.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/WesternDigital.svg"
     },
     {
       "name": "WeTV.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/WeTV.svg"
+    },
+    {
+      "name": "WgetCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/WgetCloud.svg"
     },
     {
       "name": "WhatsApp.svg",
@@ -6908,8 +7600,16 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/WSJ.svg"
     },
     {
+      "name": "WuKongYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/WuKongYun.svg"
+    },
+    {
       "name": "WWE.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/WWE.svg"
+    },
+    {
+      "name": "WYCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/WYCloud.svg"
     },
     {
       "name": "X.svg",
@@ -6920,12 +7620,28 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/XAI.svg"
     },
     {
+      "name": "XAir.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/XAir.svg"
+    },
+    {
       "name": "Xbox.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Xbox.svg"
     },
     {
       "name": "Xcode.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Xcode.svg"
+    },
+    {
+      "name": "XianLuWanJiaSu.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/XianLuWanJiaSu.svg"
+    },
+    {
+      "name": "XianZheYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/XianZheYun.svg"
+    },
+    {
+      "name": "XiaoFeiXiangJiChang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/XiaoFeiXiangJiChang.svg"
     },
     {
       "name": "Xiaoheihe.svg",
@@ -6940,8 +7656,24 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Xiaomi.svg"
     },
     {
+      "name": "XiaoMiFengJiChang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/XiaoMiFengJiChang.svg"
+    },
+    {
       "name": "XiaomiMiMo.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/XiaomiMiMo.svg"
+    },
+    {
+      "name": "XiaoNiuYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/XiaoNiuYun.svg"
+    },
+    {
+      "name": "XiaoNiuZhiLian.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/XiaoNiuZhiLian.svg"
+    },
+    {
+      "name": "XiaoXuanFengJiChang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/XiaoXuanFengJiChang.svg"
     },
     {
       "name": "Xiaoyuzhou.svg",
@@ -6960,8 +7692,32 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Xinference.svg"
     },
     {
+      "name": "XingLian.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/XingLian.svg"
+    },
+    {
+      "name": "XingLianJiChang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/XingLianJiChang.svg"
+    },
+    {
+      "name": "XingWang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/XingWang.svg"
+    },
+    {
+      "name": "XLMCloud.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/XLMCloud.svg"
+    },
+    {
       "name": "Xpay.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Xpay.svg"
+    },
+    {
+      "name": "XSUS.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/XSUS.svg"
+    },
+    {
+      "name": "XSWL.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/XSWL.svg"
     },
     {
       "name": "xTom.svg",
@@ -6976,8 +7732,16 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Xueqiu.svg"
     },
     {
+      "name": "XueShanJiChang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/XueShanJiChang.svg"
+    },
+    {
       "name": "Xunlei.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Xunlei.svg"
+    },
+    {
+      "name": "XXAI.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/XXAI.svg"
     },
     {
       "name": "Yaak.svg",
@@ -6996,6 +7760,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YandexCloud.svg"
     },
     {
+      "name": "YangFanYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YangFanYun.svg"
+    },
+    {
       "name": "Yarn.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Yarn.svg"
     },
@@ -7004,8 +7772,32 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YCombinator.svg"
     },
     {
+      "name": "YeYuYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YeYuYun.svg"
+    },
+    {
       "name": "Yi.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Yi.svg"
+    },
+    {
+      "name": "YiFenJiChang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YiFenJiChang.svg"
+    },
+    {
+      "name": "YingZiWangLuo.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YingZiWangLuo.svg"
+    },
+    {
+      "name": "YinSu.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YinSu.svg"
+    },
+    {
+      "name": "YiYuanJiChang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YiYuanJiChang.svg"
+    },
+    {
+      "name": "YiYuanYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YiYuanYun.svg"
     },
     {
       "name": "Youku.svg",
@@ -7024,6 +7816,14 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YouTubeMusic.svg"
     },
     {
+      "name": "YouZiJiang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YouZiJiang.svg"
+    },
+    {
+      "name": "YoYoo.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YoYoo.svg"
+    },
+    {
       "name": "YTO.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YTO.svg"
     },
@@ -7040,12 +7840,32 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YugabyteDB.svg"
     },
     {
+      "name": "Yukihasu.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Yukihasu.svg"
+    },
+    {
+      "name": "YunAnYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YunAnYun.svg"
+    },
+    {
       "name": "Yunda.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Yunda.svg"
     },
     {
+      "name": "YunHaiHuLian.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YunHaiHuLian.svg"
+    },
+    {
+      "name": "YunShangYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YunShangYun.svg"
+    },
+    {
       "name": "Yuque.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Yuque.svg"
+    },
+    {
+      "name": "YuYunJiChang.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/YuYunJiChang.svg"
     },
     {
       "name": "ZAI.svg",
@@ -7108,6 +7928,10 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ZgoCloud.svg"
     },
     {
+      "name": "ZhangZhongShiJie.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ZhangZhongShiJie.svg"
+    },
+    {
       "name": "Zhihu.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Zhihu.svg"
     },
@@ -7118,6 +7942,10 @@
     {
       "name": "Zhipu.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Zhipu.svg"
+    },
+    {
+      "name": "ZiCaiYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ZiCaiYun.svg"
     },
     {
       "name": "Zig.svg",
@@ -7156,8 +7984,16 @@
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ZTO.svg"
     },
     {
+      "name": "ZuiMengDeYun.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ZuiMengDeYun.svg"
+    },
+    {
       "name": "Zulip.svg",
       "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/Zulip.svg"
+    },
+    {
+      "name": "ZuoAn.svg",
+      "url": "https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/icon/svg/common/ZuoAn.svg"
     },
     {
       "name": "Zuoyebang.svg",
