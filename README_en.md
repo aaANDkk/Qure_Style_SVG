@@ -4,9 +4,9 @@
 
 A Qure-style SVG icon pack containing **2,269 SVGs**: **1,999 common icons** and **270 regional & organization flags**, standardized to a **144 × 144** canvas. All flag SVGs feature **continuous Bézier curvature rounded corners**. Pull requests (**PRs**) following the icon design specifications are welcome to add missing icons.
 
-**[Browse the icon website →](https://aaandkk.github.io/)** 
+**[Open the Icon Preview Site →](https://aaandkk.github.io/qure/)**
 
-Search, preview, download, and copy icon links on the website.
+Search, preview, download, and copy icon links on the preview site.
 
 ---
 
@@ -31,21 +31,21 @@ https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/Other/Qure-Style-S
 
 ### Common Icons · 60 Selected Icons
 
-Proxy policies, ad blocking, AI, streaming, social platforms, and everyday services. Browse the full collection on the [website](https://aaandkk.github.io/).
+Proxy policies, ad blocking, AI, streaming, social platforms, and everyday services. Browse the full collection on the [preview site](https://aaandkk.github.io/qure/).
 
-[![60 selected Qure-style common SVG icons](docs/assets/common-preview.svg)](https://aaandkk.github.io/)
+[![60 selected Qure-style common SVG icons](docs/assets/common-preview.svg)](https://aaandkk.github.io/qure/)
 
 ### Regional Flags · 30 Selected Flags
 
-A preview of commonly used regions. Browse the full collection on the [website](https://aaandkk.github.io/).
+A preview of commonly used regions. Browse the full collection on the [preview site](https://aaandkk.github.io/qure/).
 
-[![30 selected Qure-style flag SVG icons](docs/assets/flags-preview.svg)](https://aaandkk.github.io/)
+[![30 selected Qure-style flag SVG icons](docs/assets/flags-preview.svg)](https://aaandkk.github.io/qure/)
 
 ---
 
 ## 🔗 Using Individual Icons
 
-Find an icon on the [website](https://aaandkk.github.io/) and copy its URL, or use the raw file URLs below (filenames are case-sensitive):
+Find an icon on the [preview site](https://aaandkk.github.io/qure/) and copy its URL, or use the raw file URLs below (filenames are case-sensitive):
 
 - **Common Icon Example**:
   ```text
@@ -75,7 +75,7 @@ Find an icon on the [website](https://aaandkk.github.io/) and copy its URL, or u
 | [`licenses/`](licenses/) | Third-party license texts |
 
 > [!TIP]
-> All icon source files use SVG. Visit the [website](https://aaandkk.github.io/) for the complete collection.
+> All icon source files use SVG. Visit the [preview site](https://aaandkk.github.io/qure/) for the complete collection.
 
 ---
 

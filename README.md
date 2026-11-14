@@ -4,9 +4,9 @@
 
 Qure 风格的 SVG 图标集，包含 **2269 个 SVG**：**1999 个通用图标**、**270 个地区与组织旗帜**，统一为 **144 × 144** 画布，其中旗帜 SVG 均采用**贝塞尔丝滑曲率绘制圆角**。可按 icon 设计规范提交 **PR** 补全缺失图标。
 
-**[前往图标官网 →](https://aaandkk.github.io/)** 
+**[前往图标预览站 →](https://aaandkk.github.io/qure/)**
 
-搜索、预览、下载图标及复制链接，请访问官网。
+搜索、预览、下载图标及复制链接，请访问预览网站。
 
 ---
 
@@ -31,21 +31,21 @@ https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/Other/Qure-Style-S
 
 ### 通用图标 · 精选 60 个
 
-代理策略、广告拦截、AI、流媒体、社交与常用服务。完整图标请前往[官网](https://aaandkk.github.io/)查看。
+代理策略、广告拦截、AI、流媒体、社交与常用服务。完整图标请前往[图标预览站](https://aaandkk.github.io/qure/)查看。
 
-[![60 个精选 Qure 风格通用 SVG 图标](docs/assets/common-preview.svg)](https://aaandkk.github.io/)
+[![60 个精选 Qure 风格通用 SVG 图标](docs/assets/common-preview.svg)](https://aaandkk.github.io/qure/)
 
 ### 地区旗帜 · 精选 30 个
 
-常用地区的旗帜预览。完整图标请前往[官网](https://aaandkk.github.io/)查看。
+常用地区的旗帜预览。完整图标请前往[图标预览站](https://aaandkk.github.io/qure/)查看。
 
-[![30 个精选 Qure 风格旗帜 SVG 图标](docs/assets/flags-preview.svg)](https://aaandkk.github.io/)
+[![30 个精选 Qure 风格旗帜 SVG 图标](docs/assets/flags-preview.svg)](https://aaandkk.github.io/qure/)
 
 ---
 
 ## 🔗 单个图标使用
 
-在[官网](https://aaandkk.github.io/)搜索图标并复制链接，也可使用以下原始文件链接（文件名区分大小写）：
+在[图标预览站](https://aaandkk.github.io/qure/)搜索图标并复制链接，也可使用以下原始文件链接（文件名区分大小写）：
 
 - **通用图标示例**：
   ```text
@@ -75,7 +75,7 @@ https://raw.githubusercontent.com/aaANDkk/Qure_Style_SVG/main/Other/Qure-Style-S
 | [`licenses/`](licenses/) | 第三方许可文本 |
 
 > [!TIP]
-> 所有图标源文件均为 SVG 格式，完整图标库请前往[官网](https://aaandkk.github.io/)查看。
+> 所有图标源文件均为 SVG 格式，完整图标库请前往[图标预览站](https://aaandkk.github.io/qure/)查看。
 
 ---
 
