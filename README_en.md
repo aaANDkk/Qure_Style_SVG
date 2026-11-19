@@ -2,7 +2,7 @@
 
 [English](README_en.md) · [简体中文](README.md)
 
-A Qure-style SVG icon pack containing **2,269 SVGs**: **1,999 common icons** and **270 regional & organization flags**, standardized to a **144 × 144** canvas. All flag SVGs feature **continuous Bézier curvature rounded corners**. Pull requests (**PRs**) following the icon design specifications are welcome to add missing icons.
+A Qure-style SVG icon pack containing **2,370 SVGs**: **2,100 common icons** and **270 regional & organization flags**, standardized to a **144 × 144** canvas. All flag SVGs feature **continuous Bézier curvature rounded corners**. Pull requests (**PRs**) following the icon design specifications are welcome to add missing icons.
 
 **[Open the Icon Preview Site →](https://aaandkk.github.io/qure/)**
 
@@ -14,7 +14,7 @@ Search, preview, download, and copy icon links on the preview site.
 
 <img src="https://avatars.githubusercontent.com/u/149130188?v=4" width="60" height="60" alt="aaANDkk's GitHub Avatar" style="border-radius: 80%;">
 
-**Qure-Style-SVG** · 2,269 icons · Author: [aaANDkk](https://github.com/aaANDkk)
+**Qure-Style-SVG** · 2,370 icons · Author: [aaANDkk](https://github.com/aaANDkk)
 
 Copy the subscription link below and add it to clients supporting JSON icon collections and SVG images (such as FlClash and Bettbox):
 
