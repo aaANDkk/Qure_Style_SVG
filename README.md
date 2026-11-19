@@ -2,7 +2,7 @@
 
 [English](README_en.md) · [简体中文](README.md)
 
-Qure 风格的 SVG 图标集，包含 **2269 个 SVG**：**1999 个通用图标**、**270 个地区与组织旗帜**，统一为 **144 × 144** 画布，其中旗帜 SVG 均采用**贝塞尔丝滑曲率绘制圆角**。可按 icon 设计规范提交 **PR** 补全缺失图标。
+Qure 风格的 SVG 图标集，包含 **2370 个 SVG**：**2100 个通用图标**、**270 个地区与组织旗帜**，统一为 **144 × 144** 画布，其中旗帜 SVG 均采用**贝塞尔丝滑曲率绘制圆角**。可按 icon 设计规范提交 **PR** 补全缺失图标。
 
 **[前往图标预览站 →](https://aaandkk.github.io/qure/)**
 
@@ -14,7 +14,7 @@ Qure 风格的 SVG 图标集，包含 **2269 个 SVG**：**1999 个通用图标*
 
 <img src="https://avatars.githubusercontent.com/u/149130188?v=4" width="60" height="60" alt="aaANDkk 的 GitHub 头像" style="border-radius: 80%;">
 
-**Qure-Style-SVG** · 2269 个图标 · 作者：[aaANDkk](https://github.com/aaANDkk)
+**Qure-Style-SVG** · 2370 个图标 · 作者：[aaANDkk](https://github.com/aaANDkk)
 
 复制下方订阅链接，添加到支持 JSON 图标集和 SVG 图片的客户端（如 FlClash 和 Bettbox ）：
 
