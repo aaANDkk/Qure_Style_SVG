@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.014493 0 0 1.014493 -1.043478 -1.043478)">
+  <title>Pokemon</title>
+  <desc>Qure-style Pokemon Pokeball icon with bold proportions and glossy vertical gradients.</desc>
+  <defs>
+    <linearGradient id="pk-red" gradientUnits="userSpaceOnUse" x1="72" y1="6" x2="72" y2="74">
+      <stop offset="0.0" stop-color="#FF5959"/>
+      <stop offset="0.55" stop-color="#EE1920"/>
+      <stop offset="1.0" stop-color="#C40D18"/>
+    </linearGradient>
+    <linearGradient id="pk-white" gradientUnits="userSpaceOnUse" x1="72" y1="70" x2="72" y2="138">
+      <stop offset="0.0" stop-color="#FFFFFF"/>
+      <stop offset="0.6" stop-color="#F1F5FA"/>
+      <stop offset="1.0" stop-color="#D7E0EC"/>
+    </linearGradient>
+    <linearGradient id="pk-dark" gradientUnits="userSpaceOnUse" x1="72" y1="6" x2="72" y2="138">
+      <stop offset="0.0" stop-color="#3C424D"/>
+      <stop offset="0.5" stop-color="#23272F"/>
+      <stop offset="1.0" stop-color="#13161B"/>
+    </linearGradient>
+    <linearGradient id="pk-btn" gradientUnits="userSpaceOnUse" x1="72" y1="57" x2="72" y2="87">
+      <stop offset="0.0" stop-color="#FFFFFF"/>
+      <stop offset="1.0" stop-color="#DFE7F2"/>
+    </linearGradient>
+    <clipPath id="pk-clip"><circle cx="72" cy="72" r="65"/></clipPath>
+  </defs>
+  <g clip-path="url(#pk-clip)">
+    <rect x="0" y="0" width="144" height="72" fill="url(#pk-red)"/>
+    <rect x="0" y="72" width="144" height="72" fill="url(#pk-white)"/>
+    <path d="M 27,48 C 34,28 53,18 76,18 C 60,24 44,34 36,52 Z" fill="#FFFFFF" fill-opacity="0.24"/>
+    <rect x="0" y="63.5" width="144" height="17" fill="url(#pk-dark)"/>
+  </g>
+  <circle cx="72" cy="72" r="65" fill="none" stroke="url(#pk-dark)" stroke-width="7.5"/>
+  <circle cx="72" cy="72" r="23" fill="url(#pk-dark)"/>
+  <circle cx="72" cy="72" r="14.5" fill="url(#pk-btn)"/>
+  <circle cx="72" cy="72" r="8.2" fill="none" stroke="#B6C4D8" stroke-width="2.4"/>
+</g></svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.102362 0 0 1.102362 -2.409449 -7.92126)">
+  <title>Mixue</title>
+  <desc>Qure-style Mixue (蜜雪冰城) Snow King icon with crown, snowman head, crimson cape, and ice cream cone.</desc>
+  <defs>
+    <linearGradient id="mx-red" gradientUnits="userSpaceOnUse" x1="72" y1="68" x2="72" y2="132">
+      <stop offset="0.0" stop-color="#FF3B44"/>
+      <stop offset="1.0" stop-color="#C80C18"/>
+    </linearGradient>
+    <linearGradient id="mx-white" gradientUnits="userSpaceOnUse" x1="72" y1="24" x2="72" y2="136">
+      <stop offset="0.0" stop-color="#FFFFFF"/>
+      <stop offset="1.0" stop-color="#ECF2F8"/>
+    </linearGradient>
+    <linearGradient id="mx-gold" gradientUnits="userSpaceOnUse" x1="20" y1="40" x2="40" y2="126">
+      <stop offset="0.0" stop-color="#FFE052"/>
+      <stop offset="1.0" stop-color="#E69A10"/>
+    </linearGradient>
+  </defs>
+  <path d="M 48,78 C 36,92 34,114 40,128 H 116 C 122,114 118,92 104,78 Z" fill="url(#mx-red)" stroke="#231D1B" stroke-width="5.5" stroke-linejoin="round"/>
+  <ellipse cx="78" cy="106" rx="34" ry="27" fill="url(#mx-white)" stroke="#231D1B" stroke-width="5.5"/>
+  <path d="M 52,79 Q 78,93 104,79 L 98,88 Q 78,97 58,88 Z" fill="url(#mx-red)"/>
+  <circle cx="78" cy="56" r="28" fill="url(#mx-white)" stroke="#231D1B" stroke-width="5.5"/>
+  <path d="M 62,32 L 58,15 L 71,23 L 78,12 L 85,23 L 98,15 L 94,32 Z" fill="url(#mx-white)" stroke="#231D1B" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="78" cy="24" r="3" fill="url(#mx-red)"/>
+  <circle cx="68" cy="53" r="4.2" fill="#231D1B"/>
+  <circle cx="88" cy="53" r="4.2" fill="#231D1B"/>
+  <circle cx="78" cy="60" r="5" fill="#FF7216"/>
+  <path d="M 69,67 Q 78,74 87,67" fill="none" stroke="#231D1B" stroke-width="4" stroke-linecap="round"/>
+  <line x1="28" y1="68" x2="36" y2="128" stroke="url(#mx-gold)" stroke-width="7.5" stroke-linecap="round"/>
+  <path d="M 16,52 L 38,50 L 31,74 Z" fill="url(#mx-gold)" stroke="#231D1B" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M 16,51 C 14,39 22,30 27,24 C 33,31 40,40 38,51 Z" fill="#FFFFFF" stroke="#231D1B" stroke-width="4.5" stroke-linejoin="round"/>
+</g></svg>

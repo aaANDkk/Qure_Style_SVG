@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.060606 0 0 1.060606 -4.363636 -4.363636)">
+  <title>Quark</title>
+  <desc>Qure-style Quark (夸克) icon with bold royal-blue ring and eccentric droplet core.</desc>
+  <defs>
+    <linearGradient id="qk-blue" gradientUnits="userSpaceOnUse" x1="72" y1="6" x2="72" y2="138">
+      <stop offset="0.0" stop-color="#3388FF"/>
+      <stop offset="0.5" stop-color="#125DF8"/>
+      <stop offset="1.0" stop-color="#083ED4"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#qk-blue)" fill-rule="evenodd" d="M 72,6 C 108.5,6 138,35.5 138,72 C 138,108.5 108.5,138 72,138 C 35.5,138 6,108.5 6,72 C 6,35.5 35.5,6 72,6 Z M 72,41 C 54.9,41 41,54.9 41,72 C 41,85.2 49.4,96.5 61.1,100.9 C 68.5,103.7 75.5,98.6 76.2,91.0 C 76.8,84.4 81.8,79.6 88.2,79.1 C 96.4,78.5 103,72.2 103,64.2 C 103,51.4 89.1,41 72,41 Z"/>
+</g></svg>

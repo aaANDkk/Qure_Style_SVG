@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.09375 0 0 1.09375 -6.75 -6.75)">
+  <title>HonkaiStarRail</title>
+  <desc>Qure-style HonkaiStarRail (崩坏：星穹铁道) icon with astral gold star and cosmic orbit ring.</desc>
+  <defs>
+    <linearGradient id="hsr-gold" gradientUnits="userSpaceOnUse" x1="72" y1="8" x2="72" y2="136">
+      <stop offset="0.0" stop-color="#FFE885"/>
+      <stop offset="0.5" stop-color="#E6AC34"/>
+      <stop offset="1.0" stop-color="#B57A14"/>
+    </linearGradient>
+    <linearGradient id="hsr-cosmos" gradientUnits="userSpaceOnUse" x1="16" y1="30" x2="128" y2="114">
+      <stop offset="0.0" stop-color="#6B78FF"/>
+      <stop offset="0.5" stop-color="#3B42C4"/>
+      <stop offset="1.0" stop-color="#222078"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="72" cy="72" rx="62" ry="26" transform="rotate(-28 72 72)" fill="none" stroke="url(#hsr-cosmos)" stroke-width="11"/>
+  <path d="M 72,8 L 86,56 L 134,72 L 86,88 L 72,136 L 58,88 L 10,72 L 58,56 Z" fill="url(#hsr-gold)"/>
+  <circle cx="72" cy="72" r="14" fill="url(#hsr-cosmos)"/>
+  <circle cx="72" cy="72" r="6.5" fill="#FFF4C2"/>
+</g></svg>

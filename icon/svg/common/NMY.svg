@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.076923 0 0 1.076923 -5.538462 -13.615385)">
+  <title>NMY 牛马云</title>
+  <defs>
+    <linearGradient id="nmy-cloud" gradientUnits="userSpaceOnUse" x1="24" y1="20" x2="111" y2="124">
+      <stop offset="0" stop-color="#72BCFA"/>
+      <stop offset="1" stop-color="#2E74D8"/>
+    </linearGradient>
+    <linearGradient id="nmy-plane" gradientUnits="userSpaceOnUse" x1="10" y1="10" x2="130" y2="130">
+      <stop offset="0" stop-color="#1E4B85"/>
+      <stop offset="1" stop-color="#12305A"/>
+    </linearGradient>
+  </defs>
+  <path d="M34 113C17 113 7 103 7 89C7 76 16 66 28 63C29 43 44 29 63 29C79 29 92 37 98 51C117 48 137 62 137 82C137 100 124 113 105 113Z" fill="url(#nmy-cloud)"/>
+  <g transform="translate(36 60) scale(0.52)">
+    <path d="M10 90L48 70L66 17Q69 8 74 17L82 57L124 37Q136 31 130 45L96 80L122 109L105 114L82 96L63 130L53 128L59 90L23 100Z" fill="url(#nmy-plane)" stroke="url(#nmy-plane)" stroke-width="7" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+  </g>
+</g></svg>

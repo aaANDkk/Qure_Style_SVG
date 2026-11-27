@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.166667 0 0 1.166667 -12 -13.166667)">
+  <title>Futu</title>
+  <desc>Qure-style Futu (富途牛牛) icon with vibrant orange horns and royal-blue bull head.</desc>
+  <defs>
+    <linearGradient id="ft-orange" gradientUnits="userSpaceOnUse" x1="72" y1="12" x2="72" y2="86">
+      <stop offset="0.0" stop-color="#FFA62B"/>
+      <stop offset="0.55" stop-color="#FF6F00"/>
+      <stop offset="1.0" stop-color="#E04E00"/>
+    </linearGradient>
+    <linearGradient id="ft-blue" gradientUnits="userSpaceOnUse" x1="72" y1="42" x2="72" y2="132">
+      <stop offset="0.0" stop-color="#48A6FF"/>
+      <stop offset="0.55" stop-color="#146EFF"/>
+      <stop offset="1.0" stop-color="#0848BD"/>
+    </linearGradient>
+  </defs>
+  <path d="M 38,54 C 16,46 10,28 18,14 C 24,28 36,34 52,36 L 92,36 C 108,34 120,28 126,14 C 134,28 128,46 106,54 Z" fill="url(#ft-orange)"/>
+  <ellipse cx="26" cy="64" rx="14" ry="8" transform="rotate(18 26 64)" fill="url(#ft-blue)"/>
+  <ellipse cx="118" cy="64" rx="14" ry="8" transform="rotate(-18 118 64)" fill="url(#ft-blue)"/>
+  <path d="M 32,52 C 32,38 48,34 72,34 C 96,34 112,38 112,52 L 106,104 C 104,122 90,132 72,132 C 54,132 40,122 38,104 Z" fill="url(#ft-blue)"/>
+  <rect x="40" y="88" width="64" height="36" rx="18" fill="url(#ft-orange)"/>
+  <circle cx="54" cy="68" r="7.5" fill="#FFFFFF"/>
+  <circle cx="90" cy="68" r="7.5" fill="#FFFFFF"/>
+  <circle cx="55.5" cy="68" r="3.8" fill="#12264A"/>
+  <circle cx="88.5" cy="68" r="3.8" fill="#12264A"/>
+  <circle cx="58" cy="106" r="4.5" fill="#FFFFFF"/>
+  <circle cx="86" cy="106" r="4.5" fill="#FFFFFF"/>
+</g></svg>

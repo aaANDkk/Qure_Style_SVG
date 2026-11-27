@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.166667 0 0 1.166667 -12 -12)">
+  <title>AudioTechnica</title>
+  <desc>Qure-style AudioTechnica icon with bold anti-adhesion ring and triangle.</desc>
+  <defs>
+    <linearGradient id="p10-audiotechnica-grad" gradientUnits="userSpaceOnUse" x1="72" y1="12" x2="72" y2="132">
+      <stop offset="0.0" stop-color="#4A4A4E"/>
+      <stop offset="0.5" stop-color="#2B2B2F"/>
+      <stop offset="1.0" stop-color="#16161A"/>
+    </linearGradient>
+  </defs>
+  <circle cx="72" cy="72" r="55.25" fill="none" stroke="url(#p10-audiotechnica-grad)" stroke-width="9.5"/>
+  <g transform="translate(72 72) scale(0.87) translate(-72 -72)">
+    <path d="M 72.435,22.315  l -2.15,6.26 l -28.37,80.315 l -1.02,3.02 l 63.27,0 l -1.15,-3.02 L 74.62,28.55 z m 0,13.985 l 10.035,28.215 l -15.12,42.765 L 47.28,107.28 z m 12.51,35.19 l 12.66,35.775 l -25.45,0 z" fill="url(#p10-audiotechnica-grad)" stroke="url(#p10-audiotechnica-grad)" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+  </g>
+</g></svg>

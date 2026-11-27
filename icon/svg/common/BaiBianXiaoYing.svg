@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.029412 0 0 1.029412 -2.117647 2)">
+  <title>BaiBianXiaoYing</title>
+  <desc>Qure-style emblematic Cardcaptor Sakura (百变小樱) icon with plump sakura blossom, magic angel wings, rich golden stars, and drifting cherry-blossom petals.</desc>
+  <defs>
+    <linearGradient id="sa-wing" gradientUnits="userSpaceOnUse" x1="72" y1="33" x2="72" y2="111">
+      <stop offset="0.0" stop-color="#FFFFFF"/>
+      <stop offset="0.7" stop-color="#EFF5FF"/>
+      <stop offset="1.0" stop-color="#D0E0F7"/>
+    </linearGradient>
+    <linearGradient id="sa-sakura" gradientUnits="userSpaceOnUse" x1="72" y1="25" x2="72" y2="119">
+      <stop offset="0.0" stop-color="#FFB4D4"/>
+      <stop offset="0.5" stop-color="#FF6CA4"/>
+      <stop offset="1.0" stop-color="#E6367A"/>
+    </linearGradient>
+    <linearGradient id="sa-petal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.0" stop-color="#FFA6CA"/>
+      <stop offset="0.55" stop-color="#FF669E"/>
+      <stop offset="1.0" stop-color="#E8387C"/>
+    </linearGradient>
+    <linearGradient id="sa-star" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.0" stop-color="#FFD83D"/>
+      <stop offset="0.52" stop-color="#FFA600"/>
+      <stop offset="1.0" stop-color="#E67400"/>
+    </linearGradient>
+  </defs>
+  <path d="M 52,64 C 34,40 12,36 6,52 C 3,60 11,69 21,70 C 11,74 8,84 16,91 C 23,97 35,94 42,89 C 36,97 42,105 52,101 Z" fill="url(#sa-wing)" stroke="#C2D8F6" stroke-width="2.4" stroke-linejoin="round"/>
+  <path d="M 92,64 C 110,40 132,36 138,52 C 141,60 133,69 123,70 C 133,74 136,84 128,91 C 121,97 109,94 102,89 C 108,97 102,105 92,101 Z" fill="url(#sa-wing)" stroke="#C2D8F6" stroke-width="2.4" stroke-linejoin="round"/>
+  <path d="M 66.4,61.4 C 52.0,45.6 59.8,25.3 64.0,26.7 Q 72.0,34.5 80.0,26.7 C 84.2,25.3 92.0,45.6 77.6,61.4 L 80.3,63.4 C 90.9,44.8 112.7,46.0 112.6,50.4 Q 107.7,60.4 117.6,65.6 C 120.2,69.1 103.3,82.9 83.8,74.1 L 82.8,77.3 C 103.7,81.6 109.3,102.7 105.1,104.0 Q 94.0,102.3 92.2,113.3 C 89.6,117.0 71.3,105.1 73.7,83.9 L 70.3,83.9 C 72.7,105.1 54.4,117.0 51.8,113.3 Q 50.0,102.3 38.9,104.0 C 34.7,102.7 40.3,81.6 61.2,77.3 L 60.2,74.1 C 40.7,82.9 23.8,69.1 26.4,65.6 Q 36.3,60.4 31.4,50.4 C 31.3,46.0 53.1,44.8 63.7,63.4 Z" fill="url(#sa-sakura)"/>
+  <circle cx="72" cy="72" r="23.5" fill="#FFF7DC" fill-opacity="0.94"/>
+  <path d="M 72.0,51.0 L 77.6,64.3 L 92.0,65.5 L 81.0,74.9 L 84.3,89.0 L 72.0,81.5 L 59.7,89.0 L 63.0,74.9 L 52.0,65.5 L 66.4,64.3 Z" fill="url(#sa-star)"/>
+  <path d="M 27.5,15.5 L 29.3,22.5 L 36.4,24.2 L 30.3,28.1 L 31.0,35.4 L 25.3,30.8 L 18.6,33.6 L 21.3,26.8 L 16.5,21.4 L 23.7,21.8 Z" fill="url(#sa-star)"/>
+  <path d="M 45.0,12.2 L 46.8,17.2 L 51.8,19.0 L 46.8,20.8 L 45.0,25.8 L 43.2,20.8 L 38.2,19.0 L 43.2,17.2 Z" fill="url(#sa-star)"/>
+  <path d="M 34.0,106.4 L 36.2,112.8 L 42.6,115.0 L 36.2,117.2 L 34.0,123.6 L 31.8,117.2 L 25.4,115.0 L 31.8,112.8 Z" fill="url(#sa-star)"/>
+  <path d="M 112.9,106.1 L 113.4,112.5 L 119.4,115.0 L 113.4,117.5 L 112.9,123.9 L 108.7,119.0 L 102.4,120.5 L 105.8,115.0 L 102.4,109.5 L 108.7,111.0 Z" fill="url(#sa-star)"/>
+</g></svg>

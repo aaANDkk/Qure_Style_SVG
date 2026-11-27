@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.029412 0 0 1.029412 -2.117647 -2.117647)">
+  <title>Amap</title>
+  <desc>Qure-style Amap (高德地图) icon faithfully redrawn from the official map-tile and 3D paper airplane logo.</desc>
+  <defs>
+    <clipPath id="amap-sq"><rect x="4" y="4" width="136" height="136" rx="31" ry="31"/></clipPath>
+    <linearGradient id="amap-park" gradientUnits="userSpaceOnUse" x1="4" y1="4" x2="56" y2="86">
+      <stop offset="0.0" stop-color="#C6F79A"/>
+      <stop offset="1.0" stop-color="#A5EB78"/>
+    </linearGradient>
+    <linearGradient id="amap-water" gradientUnits="userSpaceOnUse" x1="72" y1="100" x2="140" y2="140">
+      <stop offset="0.0" stop-color="#9BEBFF"/>
+      <stop offset="1.0" stop-color="#6DD8FF"/>
+    </linearGradient>
+    <linearGradient id="amap-block" gradientUnits="userSpaceOnUse" x1="72" y1="4" x2="72" y2="140">
+      <stop offset="0.0" stop-color="#EEF4F8"/>
+      <stop offset="1.0" stop-color="#E3ECF2"/>
+    </linearGradient>
+    <linearGradient id="amap-wing-l" gradientUnits="userSpaceOnUse" x1="16" y1="74" x2="122" y2="22">
+      <stop offset="0.0" stop-color="#22B6FF"/>
+      <stop offset="0.55" stop-color="#048EFF"/>
+      <stop offset="1.0" stop-color="#0076F5"/>
+    </linearGradient>
+    <linearGradient id="amap-wing-r" gradientUnits="userSpaceOnUse" x1="120" y1="24" x2="96" y2="126">
+      <stop offset="0.0" stop-color="#19A8FF"/>
+      <stop offset="0.55" stop-color="#0084FF"/>
+      <stop offset="1.0" stop-color="#0068E8"/>
+    </linearGradient>
+    <linearGradient id="amap-trough" gradientUnits="userSpaceOnUse" x1="120" y1="24" x2="54" y2="118">
+      <stop offset="0.0" stop-color="#0860FA"/>
+      <stop offset="0.6" stop-color="#0045DC"/>
+      <stop offset="1.0" stop-color="#0032B5"/>
+    </linearGradient>
+    <linearGradient id="amap-under" gradientUnits="userSpaceOnUse" x1="54" y1="100" x2="68" y2="118">
+      <stop offset="0.0" stop-color="#173AC4"/>
+      <stop offset="1.0" stop-color="#0C228E"/>
+    </linearGradient>
+    <linearGradient id="amap-plane-outline" gradientUnits="userSpaceOnUse" x1="16" y1="20" x2="124" y2="126">
+      <stop offset="0.0" stop-color="#149BFF"/>
+      <stop offset="1.0" stop-color="#0056D6"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#amap-sq)">
+    <rect x="4" y="4" width="136" height="136" fill="#FFFFFF"/>
+    <rect x="4" y="4" width="51" height="82" fill="url(#amap-park)"/>
+    <rect x="70" y="4" width="70" height="82" fill="url(#amap-block)"/>
+    <rect x="4" y="100" width="51" height="40" fill="url(#amap-block)"/>
+    <rect x="70" y="100" width="70" height="40" fill="url(#amap-water)"/>
+    <rect x="5.5" y="5.5" width="133" height="133" rx="29.5" ry="29.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="3"/>
+  </g>
+  <path d="M 19,80 L 122,28 L 103,125 C 102,128 98,129 95,127 L 64,108 L 57,120 C 55,122 53,121 52,118 L 46,96 L 19,83 C 16,81.5 16,80.5 19,80 Z" fill="#0045B8" fill-opacity="0.14"/>
+  <path d="M 17.5,71.2 L 117.2,21.8 C 121.6,19.6 125.6,23.5 124.4,28.2 L 103.5,121.0 C 102.4,125.7 97.1,127.8 93.1,125.2 L 64.2,106.8 L 57.6,117.6 C 56.1,120.0 53.0,119.4 52.2,116.7 L 45.8,94.6 L 17.4,79.6 C 13.6,77.6 13.7,73.1 17.5,71.2 Z" fill="url(#amap-trough)"/>
+  <path d="M 54.6,118.2 L 58.6,101.6 L 67.2,107.2 L 57.0,118.4 C 55.8,119.6 54.3,119.3 54.6,118.2 Z" fill="url(#amap-under)"/>
+  <path d="M 17.5,71.2 L 117.2,21.8 C 120.2,20.3 122.8,22.0 121.4,24.4 L 46.2,94.8 L 17.4,79.6 C 13.6,77.6 13.7,73.1 17.5,71.2 Z" fill="url(#amap-wing-l)"/>
+  <path d="M 122.6,24.8 C 123.7,23.5 125.0,25.2 124.4,28.2 L 103.5,121.0 C 102.4,125.7 97.1,127.8 93.1,125.2 L 58.4,102.6 L 122.6,24.8 Z" fill="url(#amap-wing-r)"/>
+  <path d="M 20.5,72.2 L 117.2,24.0" fill="none" stroke="#FFFFFF" stroke-opacity="0.34" stroke-width="2.0" stroke-linecap="round"/>
+  <path d="M 60.5,100.8 L 120.8,27.0" fill="none" stroke="#78D4FF" stroke-opacity="0.45" stroke-width="1.4" stroke-linecap="round"/>
+</g></svg>

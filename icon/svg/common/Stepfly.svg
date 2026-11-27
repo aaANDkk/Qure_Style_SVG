@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>Stepfly</title>
+  <desc>Qure-style origami vector redraw of Stepfly emblem; 144x144 canvas with 2px margin.</desc>
+  <defs>
+    <linearGradient id="sf-top" gradientUnits="userSpaceOnUse" x1="142" y1="20" x2="10" y2="82">
+      <stop offset="0" stop-color="#48C8FF" />
+      <stop offset="0.55" stop-color="#1E9BFF" />
+      <stop offset="1" stop-color="#0B82F2" />
+    </linearGradient>
+    <linearGradient id="sf-fold" gradientUnits="userSpaceOnUse" x1="138" y1="24" x2="46" y2="116">
+      <stop offset="0" stop-color="#1186F5" />
+      <stop offset="1" stop-color="#0066D9" />
+    </linearGradient>
+    <linearGradient id="sf-right" gradientUnits="userSpaceOnUse" x1="142" y1="20" x2="88" y2="124">
+      <stop offset="0" stop-color="#52CEFF" />
+      <stop offset="0.52" stop-color="#24A2FF" />
+      <stop offset="1" stop-color="#0A80F0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Inner crease fold -->
+  <path fill="url(#sf-fold)" d="M40.5 79 L142 20 L73.5 103 L49.2 117.5 Z" />
+  <!-- Upper-left wing -->
+  <path fill="url(#sf-top)" d="M2 77.2 L142 20 L40.5 80.5 Z" />
+  <!-- Lower-right wing -->
+  <path fill="url(#sf-right)" d="M72.5 102.5 L142 20 L97.5 124 Z" />
+</svg>

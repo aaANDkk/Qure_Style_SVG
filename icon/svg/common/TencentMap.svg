@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.372549 0 0 1.372549 -26.823529 -26.823529)">
+  <title>TencentMap</title>
+  <desc>Qure-style TencentMap (腾讯地图) icon redrawn from the official red-and-blue diagonal compass needle logo.</desc>
+  <defs>
+    <linearGradient id="tmap-red" gradientUnits="userSpaceOnUse" x1="72" y1="6" x2="128" y2="86">
+      <stop offset="0.0" stop-color="#FF6B42"/>
+      <stop offset="0.5" stop-color="#FF3D1A"/>
+      <stop offset="1.0" stop-color="#E02000"/>
+    </linearGradient>
+    <linearGradient id="tmap-blue" gradientUnits="userSpaceOnUse" x1="16" y1="62" x2="80" y2="136">
+      <stop offset="0.0" stop-color="#38C0FF"/>
+      <stop offset="0.5" stop-color="#0095FF"/>
+      <stop offset="1.0" stop-color="#0068E8"/>
+    </linearGradient>
+  </defs>
+  <g transform="rotate(45 72 72)">
+    <path d="M 41,72 C 41,54 55,22 66.5,5.5 C 69.2,1.6 74.8,1.6 77.5,5.5 C 89,22 103,54 103,72 Z" fill="url(#tmap-red)"/>
+    <path d="M 41,72 C 41,90 55,122 66.5,138.5 C 69.2,142.4 74.8,142.4 77.5,138.5 C 89,122 103,90 103,72 Z" fill="url(#tmap-blue)"/>
+    <path d="M 70.5,8 C 59,25 46,54 46,72 C 46,90 59,119 70.5,136" fill="none" stroke="#FFFFFF" stroke-opacity="0.26" stroke-width="2.6" stroke-linecap="round"/>
+  </g>
+</g></svg>

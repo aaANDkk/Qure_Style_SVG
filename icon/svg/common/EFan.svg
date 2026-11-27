@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>EFan</title>
+  <desc>Qure-style frameless vector redraw of EFan launching rocket emblem; 144x144 canvas with 2px margin.</desc>
+  <defs>
+    <linearGradient id="efan-body" gradientUnits="userSpaceOnUse" x1="126" y1="18" x2="24" y2="122">
+      <stop offset="0" stop-color="#56CBFF" />
+      <stop offset="0.48" stop-color="#27A2F7" />
+      <stop offset="1" stop-color="#0E78DF" />
+    </linearGradient>
+    <linearGradient id="efan-fin" gradientUnits="userSpaceOnUse" x1="100" y1="32" x2="18" y2="124">
+      <stop offset="0" stop-color="#3BB6FF" />
+      <stop offset="1" stop-color="#0B6ED4" />
+    </linearGradient>
+    <linearGradient id="efan-flame" gradientUnits="userSpaceOnUse" x1="84" y1="62" x2="12" y2="134">
+      <stop offset="0" stop-color="#62D4FF" />
+      <stop offset="0.55" stop-color="#249EF6" />
+      <stop offset="1" stop-color="#0C76DE" />
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(72 72) scale(1.072) translate(-70.5 -73.4) rotate(45 72 72)">
+    <!-- Sleek ogive fuselage with signature U-recessed exhaust bay -->
+    <path fill="url(#efan-body)" d="M72 -18 C95 4 104 34 103 68 C102.5 78 100 86 96.5 92.5 C95 95 92 96 89.5 94.5 L88 93.5 C86.5 92.5 85.8 90.8 86 89 L86.5 66 C86.5 54 80.5 46 72 46 C63.5 46 57.5 54 57.5 66 L58 89 C58.2 90.8 57.5 92.5 56 93.5 L54.5 94.5 C52 96 49 95 47.5 92.5 C44 86 41.5 78 41 68 C40 34 49 4 72 -18 Z" />
+
+    <!-- Left & right swept aerodynamic thruster fins -->
+    <path fill="url(#efan-fin)" d="M35.5 53 C21.5 67 16 86 19.5 112 C19.8 114.5 22.8 115.5 24.6 113.8 L41.5 97.5 C43 96 43.5 93.8 42.8 91.8 C38.5 80 36.8 68 37.2 55.5 C37.2 53.2 36.8 52 35.5 53 Z" />
+    <path fill="url(#efan-fin)" d="M108.5 53 C122.5 67 128 86 124.5 112 C124.2 114.5 121.2 115.5 119.4 113.8 L102.5 97.5 C101 96 100.5 93.8 101.2 91.8 C105.5 80 107.2 68 106.8 55.5 C106.8 53.2 107.2 52 108.5 53 Z" />
+
+    <!-- Signature EFan hollow teardrop exhaust plume -->
+    <path fill="url(#efan-flame)" fill-rule="evenodd" d="M72 56 C78.5 60 81.5 68.5 81 80.5 C80.5 95 76.5 114 72 134 C67.5 114 63.5 95 63 80.5 C62.5 68.5 65.5 60 72 56 Z M72 67 C69 70.5 68.2 76.5 68.8 85 C69.4 93.5 70.8 102 72 109 C73.2 102 74.6 93.5 75.2 85 C75.8 76.5 75 70.5 72 67 Z" />
+  </g>
+</svg>

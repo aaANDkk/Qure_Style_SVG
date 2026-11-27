@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.166667 0 0 1.166667 -12 -15.5)">
+  <title>WeRead</title>
+  <desc>Qure-style WeRead (微信读书) icon with open sky-blue book and minimalist speech bubble.</desc>
+  <defs>
+    <linearGradient id="wr-blue" gradientUnits="userSpaceOnUse" x1="72" y1="20" x2="72" y2="124">
+      <stop offset="0.0" stop-color="#52BCFF"/>
+      <stop offset="0.5" stop-color="#1D92FF"/>
+      <stop offset="1.0" stop-color="#0B6CE0"/>
+    </linearGradient>
+    <linearGradient id="wr-page" gradientUnits="userSpaceOnUse" x1="72" y1="26" x2="72" y2="112">
+      <stop offset="0.0" stop-color="#FFFFFF"/>
+      <stop offset="1.0" stop-color="#E4F0FC"/>
+    </linearGradient>
+  </defs>
+  <path d="M 12,32 C 12,25 18,20 25,21 C 46,23 62,28 72,38 C 82,28 98,23 119,21 C 126,20 132,25 132,32 V 104 C 132,110 127,115 121,116 C 100,118 84,122 72,130 C 60,122 44,118 23,116 C 17,115 12,110 12,104 Z" fill="url(#wr-blue)"/>
+  <path d="M 72,38 V 124" stroke="#FFFFFF" stroke-opacity="0.32" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M 22,106 C 41,107 57,111 72,120 C 87,111 103,107 122,106 V 96 C 103,97 87,102 72,112 C 57,102 41,97 22,96 Z" fill="url(#wr-page)"/>
+  <path d="M 99,48 C 86,48 76,56 76,66.5 C 76,72.5 79.4,77.8 84.8,81.2 L 82,89 L 91,84.4 C 93.5,85 96.2,85.3 99,85.3 C 112,85.3 122,77 122,66.5 C 122,56 112,48 99,48 Z" fill="#FFFFFF"/>
+  <circle cx="91.5" cy="65.5" r="3.4" fill="url(#wr-blue)"/>
+  <circle cx="106.5" cy="65.5" r="3.4" fill="url(#wr-blue)"/>
+</g></svg>

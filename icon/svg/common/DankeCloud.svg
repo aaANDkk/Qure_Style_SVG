@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.068702 0 0 1.068702 -4.412214 -3.877863)">
+  <title>DankeCloud</title>
+  <desc>Qure-style DankeCloud (蛋壳云) icon with bold cloud arch and crisp geometric DANKE CLOUD lettering.</desc>
+  <defs>
+    <linearGradient id="dk-dark" gradientUnits="userSpaceOnUse" x1="72" y1="14" x2="72" y2="132">
+      <stop offset="0.0" stop-color="#4A505E"/>
+      <stop offset="0.5" stop-color="#292D36"/>
+      <stop offset="1.0" stop-color="#15181E"/>
+    </linearGradient>
+  </defs>
+  <path d="M 27,54 C 27,42 35,34 46,34 C 48,34 50,34.5 52,35.3 C 55.5,23.5 66,16 79,16 C 94,16 105,27 106,41 C 113,42.5 118,47.5 118,54" fill="none" stroke="url(#dk-dark)" stroke-width="9.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 10,66 H 18.5 C 24.5,66 27.5,71 27.5,78 C 27.5,85 24.5,90 18.5,90 H 10 Z M 36,90 L 45,66 L 54,90 M 39.2,82.5 H 50.8 M 63,90 V 66 L 80,90 V 66 M 90,66 V 90 M 105.5,66 L 90.8,78.5 L 106,90 M 131,66 H 116 V 90 H 131 M 116,78 H 128" fill="none" stroke="url(#dk-dark)" stroke-width="5.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 27.5,108.5 C 25.2,105.5 22.2,104 18.8,104 C 13.2,104 9.5,109 9.5,116 C 9.5,123 13.2,128 18.8,128 C 22.4,128 25.3,126.4 27.5,123.5 M 37,104 V 128 H 51 M 70.5,104 C 76.5,104 81,109.2 81,116 C 81,122.8 76.5,128 70.5,128 C 64.5,128 60,122.8 60,116 C 60,109.2 64.5,104 70.5,104 Z M 90,104 V 119.5 C 90,124.8 93.5,128 98.5,128 C 103.5,128 107,124.8 107,119.5 V 104 M 116,104 H 124.5 C 130.5,104 133.5,109 133.5,116 C 133.5,123 130.5,128 124.5,128 H 116 Z" fill="none" stroke="url(#dk-dark)" stroke-width="5.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

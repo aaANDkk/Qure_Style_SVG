@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>NIVANetwork</title>
+  <desc>Qure-style vector redraw of NIVA Network interlocking twin globe rings; 144x144 canvas with 2px margin.</desc>
+  <defs>
+    <linearGradient id="niva-navy" gradientUnits="userSpaceOnUse" x1="8" y1="30" x2="82" y2="114">
+      <stop offset="0" stop-color="#6084B2"/>
+      <stop offset="0.45" stop-color="#375782"/>
+      <stop offset="1" stop-color="#284268"/>
+    </linearGradient>
+    <linearGradient id="niva-silver" gradientUnits="userSpaceOnUse" x1="58" y1="32" x2="140" y2="112">
+      <stop offset="0" stop-color="#8F96A1"/>
+      <stop offset="0.30" stop-color="#D7DCE3"/>
+      <stop offset="0.58" stop-color="#8B929E"/>
+      <stop offset="0.85" stop-color="#E2E6EC"/>
+      <stop offset="1" stop-color="#969DA8"/>
+    </linearGradient>
+    <linearGradient id="niva-map" gradientUnits="userSpaceOnUse" x1="20" y1="44" x2="124" y2="100">
+      <stop offset="0" stop-color="#D4D9E2"/>
+      <stop offset="1" stop-color="#B8C0CC"/>
+    </linearGradient>
+    <clipPath id="niva-globe-l" clipPathUnits="userSpaceOnUse">
+      <circle cx="45" cy="72" r="26.2"/>
+    </clipPath>
+    <clipPath id="niva-globe-r" clipPathUnits="userSpaceOnUse">
+      <circle cx="99" cy="72" r="26.2"/>
+    </clipPath>
+    <clipPath id="niva-top-half" clipPathUnits="userSpaceOnUse">
+      <rect x="52" y="24" width="44" height="48"/>
+    </clipPath>
+    <clipPath id="niva-bot-half" clipPathUnits="userSpaceOnUse">
+      <rect x="52" y="72" width="44" height="48"/>
+    </clipPath>
+  </defs>
+
+  <g transform="translate(1.0141 1.0141) scale(0.985915)"><!-- Stylized Americas hemisphere inside left ring -->
+  <g clip-path="url(#niva-globe-l)" fill="url(#niva-map)">
+    <path d="M22 51 C27 47 37 46 43 49 L47 54 L41 59 L45 64 L39 69 L37 73 L43 75 C49 76 54 81 51 89 C48 95 45 99 42 98 C39 95 40 88 38 83 L34 78 L31 71 L24 66 L21 57 Z"/>
+    <path d="M47 47 C52 46 58 48 61 52 L56 57 L49 54 Z"/>
+    <path d="M58 64 C64 62 69 65 71 71 L67 82 L61 78 L58 70 Z"/>
+  </g>
+
+  <!-- Stylized Eurasia & Africa hemisphere inside right ring -->
+  <g clip-path="url(#niva-globe-r)" fill="url(#niva-map)">
+    <path d="M76 54 C84 48 98 47 110 51 C119 54 124 60 122 67 L114 72 L107 69 L102 74 L97 68 L91 66 L85 69 L78 64 Z"/>
+    <path d="M84 68 C90 67 97 70 98 76 C99 83 94 92 89 94 C85 95 82 88 81 81 L78 73 Z"/>
+    <path d="M108 81 C113 79 119 82 120 87 C119 91 114 93 110 91 Z"/>
+  </g>
+
+  <!-- Full base navy left twin rings -->
+  <g fill="none" stroke="url(#niva-navy)" stroke-width="3.6">
+    <circle cx="45" cy="72" r="41.2" stroke-width="5.600" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="45" cy="72" r="29.2" stroke-width="5.600" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Full base silver right twin rings -->
+  <g fill="none" stroke="url(#niva-silver)" stroke-width="3.6">
+    <circle cx="99" cy="72" r="41.2" stroke-width="5.600" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="99" cy="72" r="29.2" stroke-width="5.600" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Interlock OVER-crossings: right silver passes over left navy on top half -->
+  <g clip-path="url(#niva-top-half)" fill="none">
+    <circle cx="99" cy="72" r="41.2" stroke="url(#niva-silver)" stroke-width="5.600" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="99" cy="72" r="29.2" stroke="url(#niva-silver)" stroke-width="5.600" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- Left navy passes over right silver on bottom half -->
+  <g clip-path="url(#niva-bot-half)" fill="none">
+    <circle cx="45" cy="72" r="41.2" stroke="url(#niva-navy)" stroke-width="5.600" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="45" cy="72" r="29.2" stroke="url(#niva-navy)" stroke-width="5.600" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</g></svg>

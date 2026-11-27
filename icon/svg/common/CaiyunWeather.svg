@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.052632 0 0 1.052632 -5.368421 0.421053)">
+  <title>CaiyunWeather</title>
+  <desc>Qure-style CaiyunWeather (彩云天气) icon with amber-to-emerald gradient monoline cloud.</desc>
+  <defs>
+    <linearGradient id="cyw-grad" gradientUnits="userSpaceOnUse" x1="16" y1="30" x2="128" y2="112">
+      <stop offset="0.0" stop-color="#FF9C1A"/>
+      <stop offset="0.48" stop-color="#E6B81A"/>
+      <stop offset="1.0" stop-color="#56BA36"/>
+    </linearGradient>
+  </defs>
+  <path d="M 74,40 C 66,29 52,26 40,30 C 21,36 12,56 16,75 C 20,94 37,108 58,108 H 104 C 120,108 132,96 132,81 C 132,66 120,55 105,55 C 94,55 85,61 81,70" fill="none" stroke="url(#cyw-grad)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

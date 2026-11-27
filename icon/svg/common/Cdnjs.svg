@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.111111 0 0 1.111111 -8 -8)">
+  <title>Cdnjs</title>
+  <defs>
+    <linearGradient id="p14-cdnjs-grad" gradientUnits="userSpaceOnUse" x1="72" y1="12" x2="72" y2="132">
+      <stop offset="0.0" stop-color="#FF8554"/>
+      <stop offset="0.5" stop-color="#FF6934"/>
+      <stop offset="1.0" stop-color="#D94510"/>
+    </linearGradient>
+  </defs>
+  <polyline points="55.5,33 17,72 55.5,111" fill="none" stroke="url(#p14-cdnjs-grad)" stroke-width="15.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="88.5,33 127,72 88.5,111" fill="none" stroke="url(#p14-cdnjs-grad)" stroke-width="15.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

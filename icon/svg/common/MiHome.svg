@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.732061 0 0 1.732061 -52.708378 -56.172499)">
+  <title>MiHome</title>
+  <desc>Qure-style MiHome (米家) icon with exact geometric emerald-green M and U shield emblem.</desc>
+  <defs>
+    <linearGradient id="mh-green" gradientUnits="userSpaceOnUse" x1="72" y1="30" x2="72" y2="116">
+      <stop offset="0.0" stop-color="#3FE898"/>
+      <stop offset="0.5" stop-color="#14C872"/>
+      <stop offset="1.0" stop-color="#069E54"/>
+    </linearGradient>
+  </defs>
+  <path d="M 36.28,33.75 L 49.22,33.75 L 71.86,43.03 L 94.50,33.75 L 107.44,33.75 L 107.44,52.74 L 94.50,58.08 L 94.50,47.53 L 71.86,56.81 L 49.22,47.53 L 49.22,76.78 L 36.28,82.12 Z" fill="url(#mh-green)"/>
+  <path d="M 39.63,93.68 A 35.58,35.58 0 0,0 107.44,78.61 L 107.44,65.67 L 94.50,71.02 L 94.50,78.61 A 22.64,22.64 0 0,1 51.61,88.73 Z" fill="url(#mh-green)"/>
+</g></svg>

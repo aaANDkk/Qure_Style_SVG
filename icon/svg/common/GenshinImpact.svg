@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.060606 0 0 1.060606 -4.363636 -4.363636)">
+  <title>GenshinImpact</title>
+  <desc>Qure-style GenshinImpact (原神) icon with luminous celestial 4-point primogem star.</desc>
+  <defs>
+    <linearGradient id="gs-gold" gradientUnits="userSpaceOnUse" x1="72" y1="6" x2="72" y2="138">
+      <stop offset="0.0" stop-color="#FFF2B8"/>
+      <stop offset="0.5" stop-color="#E8BE5E"/>
+      <stop offset="1.0" stop-color="#BA882C"/>
+    </linearGradient>
+    <linearGradient id="gs-inner" gradientUnits="userSpaceOnUse" x1="72" y1="26" x2="72" y2="118">
+      <stop offset="0.0" stop-color="#FFFFFF"/>
+      <stop offset="0.6" stop-color="#FFE8A3"/>
+      <stop offset="1.0" stop-color="#D9A844"/>
+    </linearGradient>
+  </defs>
+  <path d="M 72,6 C 78,46 98,66 138,72 C 98,78 78,98 72,138 C 66,98 46,78 6,72 C 46,66 66,46 72,6 Z" fill="url(#gs-gold)"/>
+  <path d="M 72,30 C 76,54 90,68 114,72 C 90,76 76,90 72,114 C 68,90 54,76 30,72 C 54,68 68,54 72,30 Z" fill="url(#gs-inner)"/>
+  <circle cx="34" cy="34" r="6.5" fill="url(#gs-gold)"/>
+  <circle cx="110" cy="34" r="6.5" fill="url(#gs-gold)"/>
+  <circle cx="34" cy="110" r="6.5" fill="url(#gs-gold)"/>
+  <circle cx="110" cy="110" r="6.5" fill="url(#gs-gold)"/>
+</g></svg>

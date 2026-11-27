@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.09375 0 0 1.09375 -6.75 -6.75)">
+  <title>HonorOfKings</title>
+  <desc>Qure-style HonorOfKings (王者荣耀) icon with royal gold crown and crimson gem crest.</desc>
+  <defs>
+    <linearGradient id="hok-gold" gradientUnits="userSpaceOnUse" x1="72" y1="14" x2="72" y2="130">
+      <stop offset="0.0" stop-color="#FFE680"/>
+      <stop offset="0.5" stop-color="#E6AF32"/>
+      <stop offset="1.0" stop-color="#B07612"/>
+    </linearGradient>
+    <linearGradient id="hok-ruby" gradientUnits="userSpaceOnUse" x1="72" y1="44" x2="72" y2="106">
+      <stop offset="0.0" stop-color="#FF5252"/>
+      <stop offset="0.55" stop-color="#D91628"/>
+      <stop offset="1.0" stop-color="#960A18"/>
+    </linearGradient>
+  </defs>
+  <path d="M 72,14 L 91,54 L 134,36 L 118,98 L 72,130 L 26,98 L 10,36 L 53,54 Z" fill="url(#hok-gold)" stroke="url(#hok-gold)" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M 72,44 L 96,68 L 72,106 L 48,68 Z" fill="url(#hok-ruby)"/>
+  <path d="M 72,58 L 82,70 L 72,88 L 62,70 Z" fill="#FFF2B2"/>
+</g></svg>

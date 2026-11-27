@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(0.991501416 0 0 0.991501416 0.8101983 0.8101983)"><defs><clipPath id="canvas-fit-clip" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="144" height="144"/></clipPath></defs><g clip-path="url(#canvas-fit-clip)">
+<title>中国台湾</title>
+<defs>
+<mask id="tw1-board" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse" x="0" y="0" width="144" height="144" mask-type="alpha"><path d="M 116.6452 21.4745 c 8.96084 0 13.44126 0 16.86385 1.7439 a 16 16 0 0 1 6.99226 6.99226 c 1.7439 3.42259 1.7439 7.90301 1.7439 16.86385 L 142.2452 96.4526 c 0 8.96084 0 13.44126 -1.7439 16.86385 a 16 16 0 0 1 -6.99226 6.99226 c -3.42259 1.7439 -7.90301 1.7439 -16.86385 1.7439 L 26.929 122.0526 c -8.96084 0 -13.44126 0 -16.86385 -1.7439 a 16 16 0 0 1 -6.99226 -6.99226 c -1.7439 -3.42259 -1.7439 -7.90301 -1.7439 -16.86385 L 1.329 47.0745 c 0 -8.96084 0 -13.44126 1.7439 -16.86385 a 16 16 0 0 1 6.99226 -6.99226 c 3.42259 -1.7439 7.90301 -1.7439 16.86385 -1.7439 Z" fill="#FFFFFF" /></mask>
+<linearGradient id="tw1-blue" x1="72" y1="21.4745" x2="72" y2="122.0526" gradientUnits="userSpaceOnUse"><stop stop-color="#1675DE" /><stop offset="1" stop-color="#08488F" /></linearGradient>
+<linearGradient id="tw1-blue-local" x1="256" y1="50" x2="256" y2="455" gradientUnits="userSpaceOnUse"><stop stop-color="#1675DE" /><stop offset="1" stop-color="#08488F" /></linearGradient>
+<linearGradient id="tw1-white" x1="256" y1="112" x2="256" y2="395" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF" /><stop offset="1" stop-color="#E6E6E6" /></linearGradient>
+</defs>
+<g mask="url(#tw1-board)">
+<path d="M 1.329 21.4745 h 140.9162 v 100.5781 h -140.9162 Z" fill="url(#tw1-blue)" stroke="url(#tw1-blue)" stroke-width=".5" stroke-linejoin="round" />
+<g transform="translate(16.7471 17.2611) scale(0.215)">
+<path fill="url(#tw1-white)" stroke="url(#tw1-white)" stroke-width="42.64" stroke-linejoin="round" d="M206.84 192.33A50.05 50.05 0 1 1 305.16 192.33A50.05 50.05 0 1 1 335.55 285.85A50.05 50.05 0 1 1 256.00 343.64A50.05 50.05 0 1 1 176.45 285.85A50.05 50.05 0 1 1 206.84 192.33Z"/>
+<path fill="url(#tw1-blue-local)" stroke="url(#tw1-blue-local)" stroke-width="21.32" stroke-linejoin="round" d="M206.84 192.33A50.05 50.05 0 1 1 305.16 192.33A50.05 50.05 0 1 1 335.55 285.85A50.05 50.05 0 1 1 256.00 343.64A50.05 50.05 0 1 1 176.45 285.85A50.05 50.05 0 1 1 206.84 192.33Z"/>
+<path fill="url(#tw1-white)" d="M206.84 192.33A50.05 50.05 0 1 1 305.16 192.33A50.05 50.05 0 1 1 335.55 285.85A50.05 50.05 0 1 1 256.00 343.64A50.05 50.05 0 1 1 176.45 285.85A50.05 50.05 0 1 1 206.84 192.33Z"/>
+<g stroke="url(#tw1-blue-local)" stroke-linecap="round">
+<line x1="256.00" y1="260.00" x2="256.00" y2="193.58" stroke-width="4.8"/>
+<line x1="256.00" y1="260.00" x2="237.97" y2="214.22" stroke-width="4.2"/>
+<line x1="256.00" y1="260.00" x2="274.03" y2="214.22" stroke-width="4.2"/>
+<line x1="256.00" y1="260.00" x2="319.17" y2="239.48" stroke-width="4.8"/>
+<line x1="256.00" y1="260.00" x2="293.96" y2="228.70" stroke-width="4.2"/>
+<line x1="256.00" y1="260.00" x2="305.11" y2="263.00" stroke-width="4.2"/>
+<line x1="256.00" y1="260.00" x2="295.04" y2="313.73" stroke-width="4.8"/>
+<line x1="256.00" y1="260.00" x2="297.49" y2="286.44" stroke-width="4.2"/>
+<line x1="256.00" y1="260.00" x2="268.32" y2="307.63" stroke-width="4.2"/>
+<line x1="256.00" y1="260.00" x2="216.96" y2="313.73" stroke-width="4.8"/>
+<line x1="256.00" y1="260.00" x2="243.68" y2="307.63" stroke-width="4.2"/>
+<line x1="256.00" y1="260.00" x2="214.51" y2="286.44" stroke-width="4.2"/>
+<line x1="256.00" y1="260.00" x2="192.83" y2="239.48" stroke-width="4.8"/>
+<line x1="256.00" y1="260.00" x2="206.89" y2="263.00" stroke-width="4.2"/>
+<line x1="256.00" y1="260.00" x2="218.04" y2="228.70" stroke-width="4.2"/>
+</g>
+<g fill="url(#tw1-blue-local)">
+<circle cx="237.97" cy="214.22" r="6.4"/>
+<circle cx="274.03" cy="214.22" r="6.4"/>
+<circle cx="293.96" cy="228.70" r="6.4"/>
+<circle cx="305.11" cy="263.00" r="6.4"/>
+<circle cx="297.49" cy="286.44" r="6.4"/>
+<circle cx="268.32" cy="307.63" r="6.4"/>
+<circle cx="243.68" cy="307.63" r="6.4"/>
+<circle cx="214.51" cy="286.44" r="6.4"/>
+<circle cx="206.89" cy="263.00" r="6.4"/>
+<circle cx="218.04" cy="228.70" r="6.4"/>
+<path d="M256.00 175.95L259.22 185.87L269.65 185.87L261.21 191.99L264.43 201.91L256.00 195.78L247.57 201.91L250.79 191.99L242.35 185.87L252.78 185.87Z"/>
+<path d="M335.94 234.03L327.50 240.16L330.72 250.07L322.29 243.94L313.85 250.07L317.08 240.16L308.64 234.03L319.07 234.03L322.29 224.11L325.51 234.03Z"/>
+<path d="M305.40 328.00L296.97 321.87L288.53 328.00L291.76 318.08L283.32 311.95L293.75 311.95L296.97 302.04L300.19 311.95L310.62 311.95L302.18 318.08Z"/>
+<path d="M206.60 328.00L209.82 318.08L201.38 311.95L211.81 311.95L215.03 302.04L218.25 311.95L228.68 311.95L220.24 318.08L223.47 328.00L215.03 321.87Z"/>
+<path d="M176.06 234.03L186.49 234.03L189.71 224.11L192.93 234.03L203.36 234.03L194.92 240.16L198.15 250.07L189.71 243.94L181.28 250.07L184.50 240.16Z"/>
+<circle cx="256.00" cy="260.00" r="16.81"/>
+</g>
+</g>
+</g>
+</g></g></svg>

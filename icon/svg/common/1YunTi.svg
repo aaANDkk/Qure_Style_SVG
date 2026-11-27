@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>1云梯</title>
+  <desc>Qure-style vector redraw of 1YunTi with bold centered house inside cloud; 144x144 canvas with 2px margin.</desc>
+  <defs>
+    <linearGradient id="yunti-g" gradientUnits="userSpaceOnUse" x1="24" y1="16" x2="114" y2="132">
+      <stop offset="0" stop-color="#A8CFDF"/>
+      <stop offset="1" stop-color="#5F96B3"/>
+    </linearGradient>
+  </defs>
+  <!-- Cloud body spanning x=[2, 142], y=[26, 118] -->
+  <path fill="url(#yunti-g)" d="M31.5 117.5 C13.0 117.5 2 106.7 2 91.5 C2 77.4 11.8 66.5 24.8 63.3 C25.9 41.6 42.2 26.5 62.8 26.5 C80.1 26.5 94.2 35.2 100.7 50.4 C121.3 47.1 142 62.3 142 84.0 C142 103.5 128.0 117.5 107.4 117.5 Z"/>
+  <!-- Bold house shifted down cleanly into cloud belly (y=[59, 105]) -->
+  <path d="M49 104 V78 L72 58 L95 78 V104 M63 104 V86 H81 V104" fill="none" stroke="#EAF7FC" stroke-width="6.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

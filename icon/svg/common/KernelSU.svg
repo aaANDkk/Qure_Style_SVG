@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.09375 0 0 1.09375 -6.75 -6.75)">
+  <title>KernelSU</title>
+  <desc>Qure-style KernelSU icon with official geometric 2x2 checkered kernel-root emblem.</desc>
+  <defs>
+    <linearGradient id="ksu-ink" gradientUnits="userSpaceOnUse" x1="16" y1="16" x2="128" y2="128">
+      <stop offset="0.0" stop-color="#5B6E8C"/>
+      <stop offset="0.5" stop-color="#2E3B52"/>
+      <stop offset="1.0" stop-color="#192233"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="112" height="112" rx="6" fill="#FFFFFF"/>
+  <rect x="14" y="14" width="58" height="58" fill="url(#ksu-ink)"/>
+  <rect x="72" y="72" width="58" height="58" fill="url(#ksu-ink)"/>
+  <rect x="14" y="14" width="116" height="116" fill="none" stroke="url(#ksu-ink)" stroke-width="11" stroke-linejoin="miter"/>
+</g></svg>

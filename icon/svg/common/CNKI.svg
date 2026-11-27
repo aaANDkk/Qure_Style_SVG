@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.060606 0 0 1.060606 -3.30303 -9.666667)">
+  <title>CNKI</title>
+  <desc>Qure-style CNKI (中国知网) icon with bold tech-blue CNKI monogram and orbital arc.</desc>
+  <defs>
+    <linearGradient id="cnki-blue" gradientUnits="userSpaceOnUse" x1="72" y1="22" x2="72" y2="122">
+      <stop offset="0.0" stop-color="#38A8FF"/>
+      <stop offset="0.5" stop-color="#0E72E8"/>
+      <stop offset="1.0" stop-color="#064BB5"/>
+    </linearGradient>
+    <linearGradient id="cnki-cyan" gradientUnits="userSpaceOnUse" x1="16" y1="20" x2="128" y2="54">
+      <stop offset="0.0" stop-color="#48E0FF"/>
+      <stop offset="1.0" stop-color="#1486FF"/>
+    </linearGradient>
+  </defs>
+  <path d="M 18,52 C 44,24 100,24 126,52" fill="none" stroke="url(#cnki-cyan)" stroke-width="10.5" stroke-linecap="round"/>
+  <path d="M 18,112 C 44,128 100,128 126,112" fill="none" stroke="url(#cnki-cyan)" stroke-width="8.5" stroke-linecap="round" stroke-opacity="0.7"/>
+  <g fill="none" stroke="url(#cnki-blue)" stroke-width="9.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 38,68 C 34,63 29,61 24,61 C 15,61 10,69 10,81 C 10,93 15,101 24,101 C 29,101 34,99 38,94"/>
+    <path d="M 52,101 V 61 L 78,101 V 61"/>
+    <path d="M 94,61 V 101 M 115,61 L 94,81 L 116,101"/>
+    <path d="M 132,61 V 101"/>
+  </g>
+</g></svg>

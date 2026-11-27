@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.129032 0 0 1.129032 -9.290323 -15.5)">
+  <title>Legado</title>
+  <desc>Qure-style Legado (阅读) icon with floating charcoal book cover, arched white open pages, and coral-peach ribbon bookmark.</desc>
+  <defs>
+    <linearGradient id="lg-cover" gradientUnits="userSpaceOnUse" x1="72" y1="18" x2="72" y2="128">
+      <stop offset="0.0" stop-color="#616978"/>
+      <stop offset="0.52" stop-color="#454B56"/>
+      <stop offset="1.0" stop-color="#2D323B"/>
+    </linearGradient>
+    <linearGradient id="lg-page-l" gradientUnits="userSpaceOnUse" x1="16" y1="32" x2="72" y2="116">
+      <stop offset="0.0" stop-color="#FFFFFF"/>
+      <stop offset="0.75" stop-color="#F1F5FA"/>
+      <stop offset="1.0" stop-color="#DCE4EE"/>
+    </linearGradient>
+    <linearGradient id="lg-page-r" gradientUnits="userSpaceOnUse" x1="128" y1="32" x2="72" y2="116">
+      <stop offset="0.0" stop-color="#FFFFFF"/>
+      <stop offset="0.75" stop-color="#F3F6FB"/>
+      <stop offset="1.0" stop-color="#DEE6F0"/>
+    </linearGradient>
+    <linearGradient id="lg-mark" gradientUnits="userSpaceOnUse" x1="100" y1="24" x2="100" y2="96">
+      <stop offset="0.0" stop-color="#FFD09E"/>
+      <stop offset="0.48" stop-color="#F58D7A"/>
+      <stop offset="1.0" stop-color="#DF5960"/>
+    </linearGradient>
+  </defs>
+  <path d="M 10,36 C 10,28 16,22 24,23 C 46,24 62,30 72,40 C 82,30 98,24 120,23 C 128,22 134,28 134,36 V 108 C 134,116 128,121 120,121 C 98,121 82,124 72,132 C 62,124 46,121 24,121 C 16,121 10,116 10,108 Z" fill="url(#lg-cover)"/>
+  <path d="M 18,40 C 18,35 22,31 27,31 C 45,32 61,38 71,48 V 120 C 61,113 45,110 26,110 C 21,110 18,107 18,102 Z" fill="url(#lg-page-l)"/>
+  <path d="M 126,40 C 126,35 122,31 117,31 C 99,32 83,38 73,48 V 120 C 83,113 99,110 118,110 C 123,110 126,107 126,102 Z" fill="url(#lg-page-r)"/>
+  <path d="M 30,54 C 41,54 51,57 59,62 M 30,71 C 41,71 51,74 59,79 M 30,88 C 41,88 51,91 59,96" fill="none" stroke="#C5D0DE" stroke-width="5.2" stroke-linecap="round"/>
+  <path d="M 91,34 H 112 V 95 L 101.5,83 L 91,95 Z" fill="#9BB0C9" fill-opacity="0.28"/>
+  <path d="M 89,29 C 89,25.5 91.5,23.5 95,23.5 H 104 C 107.5,23.5 110,25.5 110,29 V 93 C 110,94.6 108.1,95.4 106.9,94.3 L 99.5,84.5 L 92.1,94.3 C 90.9,95.4 89,94.6 89,93 Z" fill="url(#lg-mark)"/>
+  <path d="M 92,31 H 107" fill="none" stroke="#FFF2E0" stroke-width="2.2" stroke-linecap="round" opacity="0.68"/>
+</g></svg>

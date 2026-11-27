@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1 0 0 1 0 0)">
+  <title>Arknights</title>
+  <desc>Qure-style Arknights (明日方舟) icon with Rhodes Island geometric rook-A crest.</desc>
+  <defs>
+    <linearGradient id="ak-slate" gradientUnits="userSpaceOnUse" x1="72" y1="8" x2="72" y2="136">
+      <stop offset="0.0" stop-color="#586475"/>
+      <stop offset="0.5" stop-color="#2F3642"/>
+      <stop offset="1.0" stop-color="#171B22"/>
+    </linearGradient>
+    <linearGradient id="ak-cyan" gradientUnits="userSpaceOnUse" x1="72" y1="22" x2="72" y2="122">
+      <stop offset="0.0" stop-color="#5CE8FF"/>
+      <stop offset="1.0" stop-color="#0E9CE8"/>
+    </linearGradient>
+  </defs>
+  <path d="M 72,8 L 126,38 V 106 L 72,136 L 18,106 V 38 Z" fill="none" stroke="url(#ak-slate)" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M 46,36 H 60 V 48 H 66 V 36 H 78 V 48 H 84 V 36 H 98 V 60 L 88,68 L 96,106 H 48 L 56,68 L 46,60 Z" fill="url(#ak-slate)"/>
+  <path d="M 58,84 L 72,70 L 86,84 L 72,96 Z" fill="url(#ak-cyan)"/>
+</g></svg>

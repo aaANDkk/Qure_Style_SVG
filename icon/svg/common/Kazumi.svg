@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.12 0 0 1.12 -8.08 -12.56)">
+  <title>Kazumi</title>
+  <desc>Qure-style clean chibi redraw of Kazumi anime mascot with airy pastel matcha-lime hair, calm yellow eyes, flared white tunic, and zero line adhesion.</desc>
+  <defs>
+    <linearGradient id="kz-hair" gradientUnits="userSpaceOnUse" x1="72" y1="14" x2="72" y2="128">
+      <stop offset="0.0" stop-color="#CEF5A6"/>
+      <stop offset="0.55" stop-color="#B4E488"/>
+      <stop offset="1.0" stop-color="#96CE6B"/>
+    </linearGradient>
+    <linearGradient id="kz-hair-sh" gradientUnits="userSpaceOnUse" x1="72" y1="56" x2="72" y2="130">
+      <stop offset="0.0" stop-color="#A8DB7C"/>
+      <stop offset="1.0" stop-color="#86BF60"/>
+    </linearGradient>
+    <linearGradient id="kz-skin" gradientUnits="userSpaceOnUse" x1="72" y1="44" x2="72" y2="96">
+      <stop offset="0.0" stop-color="#FFF9F5"/>
+      <stop offset="1.0" stop-color="#FFECE0"/>
+    </linearGradient>
+    <linearGradient id="kz-eye" gradientUnits="userSpaceOnUse" x1="72" y1="66" x2="72" y2="85">
+      <stop offset="0.0" stop-color="#FFF47C"/>
+      <stop offset="1.0" stop-color="#EAD042"/>
+    </linearGradient>
+    <linearGradient id="kz-cloak" gradientUnits="userSpaceOnUse" x1="72" y1="88" x2="72" y2="130">
+      <stop offset="0.0" stop-color="#FFFFFF"/>
+      <stop offset="0.72" stop-color="#F3F6FA"/>
+      <stop offset="1.0" stop-color="#DCE3EC"/>
+    </linearGradient>
+  </defs>
+  <path d="M 70,15 C 102,15 118,39 123,78 C 126,97 132,113 133,124 C 127,128 121,126 116,120 C 111,127 104,129 97,124 C 90,126 52,126 45,124 C 38,129 31,127 26,120 C 21,126 15,128 10,124 C 12,112 18,95 21,76 C 24,39 39,15 70,15 Z" fill="url(#kz-hair)" stroke="#5B674E" stroke-width="2.1" stroke-linejoin="round"/>
+  <path d="M 28,84 C 34,96 42,108 46,122 H 96 C 100,108 108,96 114,84 C 117,102 118,115 114,124 C 108,127 101,126 96,122 H 46 C 41,126 34,127 28,124 C 24,115 25,102 28,84 Z" fill="url(#kz-hair-sh)"/>
+  <path d="M 55,121 L 58,134 C 60,136 64,136 65,133 L 67,122 Z" fill="#F2F4F8" stroke="#5E5751" stroke-width="1.9" stroke-linejoin="round"/>
+  <path d="M 76,122 L 78,133 C 79,136 83,136 85,134 L 87,121 Z" fill="#F2F4F8" stroke="#5E5751" stroke-width="1.9" stroke-linejoin="round"/>
+  <path d="M 58,132.5 Q 61.5,134.5 65,132.5 M 78,132.5 Q 81.5,134.5 85,132.5" fill="none" stroke="#E09B52" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M 38,108 L 32,113 L 39,115 Z" fill="#FFE6D4" stroke="#C98D63" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M 104,108 L 110,113 L 103,115 Z" fill="#FFE6D4" stroke="#C98D63" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M 58,91 H 83 L 111,105 C 109,115 103,121 94,122 C 88,127 80,130 71,130 C 61,130 52,127 47,122 C 39,121 35,115 34,106 Z" fill="url(#kz-cloak)" stroke="#5E5751" stroke-width="2.0" stroke-linejoin="round"/>
+  <path d="M 54,104 L 46,121 M 89,104 L 94,121" fill="none" stroke="#C6D0DC" stroke-width="1.9" stroke-linecap="round"/>
+  <path d="M 60,91 Q 65,96 71,94 Q 77,96 82,91" fill="none" stroke="#8C95A2" stroke-width="1.7" stroke-linecap="round"/>
+  <ellipse cx="71" cy="101.5" rx="1.8" ry="3.8" fill="#DDE4EE" stroke="#8C95A2" stroke-width="1.1"/>
+  <path d="M 59,91.5 L 71.5,115 L 82.5,91.5 M 71.5,115 L 72.5,123.5" fill="none" stroke="#4F453E" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 72.5,121 L 75.5,125.5 L 72.5,129.5 L 69.5,125.5 Z" fill="#B5C0CE" stroke="#4F453E" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M 35,64 C 35,24 104,24 104,64 C 104,86 95,93 70,93 C 45,93 35,86 35,64 Z" fill="url(#kz-skin)" stroke="#CE956E" stroke-width="2.0"/>
+  <ellipse cx="44" cy="83.5" rx="7.2" ry="4.0" fill="#FF9EB2" fill-opacity="0.56"/>
+  <ellipse cx="95" cy="83.5" rx="7.2" ry="4.0" fill="#FF9EB2" fill-opacity="0.56"/>
+  <rect x="45.5" y="68" width="14.5" height="15.5" rx="6.8" fill="url(#kz-eye)" stroke="#A6932C" stroke-width="1.6"/>
+  <rect x="78.5" y="67.5" width="14.5" height="15.5" rx="6.8" fill="url(#kz-eye)" stroke="#A6932C" stroke-width="1.6"/>
+  <circle cx="50" cy="73" r="2.0" fill="#FFFFFF" fill-opacity="0.75"/>
+  <circle cx="83" cy="72.5" r="2.0" fill="#FFFFFF" fill-opacity="0.75"/>
+  <path d="M 42,69 L 61.5,67.5" fill="none" stroke="#5A4B3F" stroke-width="4.0" stroke-linecap="round"/>
+  <path d="M 76.5,67 L 96,68" fill="none" stroke="#5A4B3F" stroke-width="4.0" stroke-linecap="round"/>
+  <path d="M 27,76 C 28,39 43,18 70,18 C 96,18 110,39 109,74 C 107,90 104,103 97,108 C 101,94 102,78 99,64 C 95,55 89,47 82,42 C 83,52 81,61 77,67 C 75,58 72,51 68,46 C 69,60 66,71 58,76 C 56,64 53,54 48,47 C 44,55 41,65 39,77 C 38,89 40,101 44,108 C 36,102 31,90 27,76 Z" fill="url(#kz-hair)"/>
+  <path d="M 44,108 C 40,101 38,89 39,77 C 41,65 44,55 48,47 C 53,54 56,64 58,76 C 66,71 69,60 68,46 C 72,51 75,58 77,67 C 81,61 83,52 82,42 C 89,47 95,55 99,64 C 102,78 101,94 97,108" fill="none" stroke="#5B674E" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 52,31 C 62,24 78,24 87,31" fill="none" stroke="#ECFFD6" stroke-width="5.2" stroke-linecap="round" opacity="0.86"/>
+  <path d="M 66,19 L 62,24 M 70,18 L 71,24" fill="none" stroke="#6B8254" stroke-width="1.7" stroke-linecap="round" opacity="0.72"/>
+</g></svg>

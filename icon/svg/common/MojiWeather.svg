@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.037037 0 0 1.037037 -2.148148 -2.666667)">
+  <title>MojiWeather</title>
+  <desc>Qure-style MojiWeather (墨迹天气) icon with bold MOJI typography and tangerine sun ring.</desc>
+  <defs>
+    <linearGradient id="mj-dark" gradientUnits="userSpaceOnUse" x1="72" y1="44" x2="72" y2="100">
+      <stop offset="0.0" stop-color="#525B6C"/>
+      <stop offset="0.5" stop-color="#2A303B"/>
+      <stop offset="1.0" stop-color="#14171E"/>
+    </linearGradient>
+    <linearGradient id="mj-sun" gradientUnits="userSpaceOnUse" x1="66" y1="44" x2="66" y2="100">
+      <stop offset="0.0" stop-color="#FFC22B"/>
+      <stop offset="0.5" stop-color="#FF8800"/>
+      <stop offset="1.0" stop-color="#E65C00"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke-width="10.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 10,94 V 50 L 26,76 L 42,50 V 94" stroke="url(#mj-dark)"/>
+    <circle cx="71" cy="72" r="20" stroke="url(#mj-sun)"/>
+    <path d="M 114,50 V 81 C 114,90 107,95 99,94" stroke="url(#mj-dark)"/>
+    <path d="M 133,50 V 94" stroke="url(#mj-dark)"/>
+  </g>
+</g></svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>LinkCube</title>
+  <desc>Qure-style geometric vector redraw of official LinkCube (linkcube.org) folded green leaf emblem; 144x144 canvas with 2px margin.</desc>
+  <defs>
+    <clipPath id="lc-leaf-clip" clipPathUnits="userSpaceOnUse">
+      <path d="M63.5 2 H128.5 V67 A48 48 0 0 1 80.5 115 H47.5 L21.8 140.7 A3.7 3.7 0 0 1 15.5 138.1 V50 A48 48 0 0 1 63.5 2 Z" />
+    </clipPath>
+    <linearGradient id="lc-base" gradientUnits="userSpaceOnUse" x1="32" y1="74" x2="118" y2="122">
+      <stop offset="0" stop-color="#0CE056" />
+      <stop offset="0.55" stop-color="#00CE46" />
+      <stop offset="1" stop-color="#00BE40" />
+    </linearGradient>
+    <linearGradient id="lc-left" gradientUnits="userSpaceOnUse" x1="16" y1="12" x2="64" y2="112">
+      <stop offset="0" stop-color="#00B542" />
+      <stop offset="0.6" stop-color="#00AA3E" />
+      <stop offset="1" stop-color="#009B38" />
+    </linearGradient>
+    <linearGradient id="lc-top-mid" gradientUnits="userSpaceOnUse" x1="64" y1="2" x2="110" y2="52">
+      <stop offset="0" stop-color="#05C64E" />
+      <stop offset="1" stop-color="#00B445" />
+    </linearGradient>
+    <linearGradient id="lc-top-right" gradientUnits="userSpaceOnUse" x1="128" y1="8" x2="72" y2="67">
+      <stop offset="0" stop-color="#53EB62" />
+      <stop offset="0.55" stop-color="#42E052" />
+      <stop offset="1" stop-color="#33D646" />
+    </linearGradient>
+    <linearGradient id="lc-fold-shadow" gradientUnits="userSpaceOnUse" x1="36" y1="115" x2="36" y2="125">
+      <stop offset="0" stop-color="#008D32" />
+      <stop offset="1" stop-color="#00A63C" />
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#lc-leaf-clip)">
+    <!-- Base bright emerald body (bottom-right belly + stem tip) -->
+    <rect x="0" y="0" width="144" height="144" fill="url(#lc-base)" />
+
+    <!-- Subtle folded shadow triangle beneath the bottom-left horizontal fold -->
+    <path d="M24.2 115 H48.2 L38.2 125 Z" fill="url(#lc-fold-shadow)" />
+
+    <!-- Left curved leaf facet (overlaps 0.4px behind top-mid to guarantee zero seam) -->
+    <path d="M14 0 H64 V67.4 L14 117.4 Z" fill="url(#lc-left)" />
+
+    <!-- Top-center-right triangular facet -->
+    <path d="M63.5 0 H130 L63.5 67.5 Z" fill="url(#lc-top-mid)" />
+
+    <!-- Upper-right bright spring-green triangular facet -->
+    <path d="M128.5 2 L130 67 H63.5 Z" fill="url(#lc-top-right)" />
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>X(1)</title>
+  <desc>Qure-style bold unified X icon (classic silver gradient); 144x144 canvas with 2px margin.</desc>
+  <defs>
+    <linearGradient id="x-silver-color" gradientUnits="userSpaceOnUse" x1="72" y1="142" x2="72" y2="2">
+      <stop offset="0" stop-color="#8B95A1"/>
+      <stop offset="0.5" stop-color="#B0B9C2"/>
+      <stop offset="1" stop-color="#D2D8DE"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#x-silver-color)" fill-rule="evenodd" d="M 4.00 2.00 L 54.00 2.00 L 81.71 47.10 L 116.50 2.00 L 135.50 2.00 L 90.13 60.81 L 140.00 142.00 L 90.00 142.00 L 62.29 96.90 L 27.50 142.00 L 8.50 142.00 L 53.87 83.19 Z M 27.17 14.00 L 45.57 14.00 L 116.83 130.00 L 98.43 130.00 Z"/>
+</svg>

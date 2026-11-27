@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.044776 0 0 1.044776 -3.223881 -3.223881)">
+  <title>BoxProxy</title>
+  <desc>Qure-style BoxProxy icon with official double concentric rounded-square emblem in steel-cobalt and electric blue.</desc>
+  <defs>
+    <linearGradient id="bp-outer" gradientUnits="userSpaceOnUse" x1="12" y1="12" x2="132" y2="132">
+      <stop offset="0.0" stop-color="#5E7399"/>
+      <stop offset="0.5" stop-color="#33425E"/>
+      <stop offset="1.0" stop-color="#1E283D"/>
+    </linearGradient>
+    <linearGradient id="bp-inner" gradientUnits="userSpaceOnUse" x1="28" y1="28" x2="116" y2="116">
+      <stop offset="0.0" stop-color="#40C4FF"/>
+      <stop offset="0.52" stop-color="#1C82FF"/>
+      <stop offset="1.0" stop-color="#0B52D6"/>
+    </linearGradient>
+  </defs>
+  <rect x="12" y="12" width="120" height="120" rx="28" fill="none" stroke="url(#bp-outer)" stroke-width="14"/>
+  <rect x="33" y="33" width="78" height="78" rx="16" fill="none" stroke="url(#bp-inner)" stroke-width="12.5"/>
+</g></svg>

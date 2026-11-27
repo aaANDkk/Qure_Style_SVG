@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.09375 0 0 1.09375 -8.9375 -6.75)">
+  <title>TongchengTravel</title>
+  <desc>Qure-style TongchengTravel (同程旅行) icon with cute purple flying whale mascot.</desc>
+  <defs>
+    <linearGradient id="tc-purple" gradientUnits="userSpaceOnUse" x1="72" y1="24" x2="72" y2="112">
+      <stop offset="0.0" stop-color="#9A5EFF"/>
+      <stop offset="0.55" stop-color="#6B34E8"/>
+      <stop offset="1.0" stop-color="#4A1DB8"/>
+    </linearGradient>
+    <linearGradient id="tc-gold" gradientUnits="userSpaceOnUse" x1="20" y1="78" x2="116" y2="118">
+      <stop offset="0.0" stop-color="#FFE047"/>
+      <stop offset="1.0" stop-color="#FF9E18"/>
+    </linearGradient>
+    <linearGradient id="tc-cyan" gradientUnits="userSpaceOnUse" x1="48" y1="84" x2="96" y2="120">
+      <stop offset="0.0" stop-color="#4CE0FF"/>
+      <stop offset="1.0" stop-color="#1698F5"/>
+    </linearGradient>
+  </defs>
+  <path d="M 102,68 L 136,52 C 140,58 136,74 122,82 L 104,84 Z" fill="url(#tc-purple)"/>
+  <path d="M 10,72 C 10,44 36,28 72,28 C 104,28 128,44 128,68 C 128,94 102,110 66,110 C 32,110 10,95 10,72 Z" fill="url(#tc-purple)"/>
+  <path d="M 16,84 C 34,96 76,98 112,86 C 102,104 82,112 58,112 C 34,112 20,100 16,84 Z" fill="url(#tc-gold)"/>
+  <path d="M 52,86 C 58,108 78,120 96,114 C 84,104 82,92 84,82 Z" fill="url(#tc-cyan)"/>
+  <circle cx="35" cy="64" r="8.5" fill="#FFFFFF"/>
+  <circle cx="34" cy="64" r="4.8" fill="#1F1638"/>
+  <circle cx="32.5" cy="62" r="1.8" fill="#FFFFFF"/>
+  <ellipse cx="44" cy="76" rx="6.5" ry="3.8" fill="#FF7CA8" fill-opacity="0.8"/>
+</g></svg>

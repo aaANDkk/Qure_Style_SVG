@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.217391 0 0 1.217391 -15.652174 -13.826087)">
+  <title>UGREEN</title>
+  <desc>Qure-style UGREEN (绿联) icon with vivid emerald-green bold U emblem and leaf spark.</desc>
+  <defs>
+    <linearGradient id="ug-green" gradientUnits="userSpaceOnUse" x1="72" y1="12" x2="72" y2="132">
+      <stop offset="0.0" stop-color="#4EE87A"/>
+      <stop offset="0.5" stop-color="#1AC44E"/>
+      <stop offset="1.0" stop-color="#0B9436"/>
+    </linearGradient>
+  </defs>
+  <path d="M 28,22 H 52 V 76 C 52,90 60,99 72,99 C 84,99 92,90 92,76 V 32 L 116,18 V 76 C 116,108 97,128 72,128 C 47,128 28,108 28,76 Z" fill="url(#ug-green)"/>
+  <path d="M 60,34 C 60,20 74,12 86,14 C 84,28 74,36 60,34 Z" fill="url(#ug-green)"/>
+</g></svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>Speedtest(1)</title>
+  <desc>Redrawn from Koolson/Qure Color Speedtest.png.</desc>
+  <defs>
+    <linearGradient id="elapsed" x1="24.129" y1="125.129" x2="119.129" y2="30.129" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00C0FF" />
+      <stop offset="0.125" stop-color="#03C9F4" />
+      <stop offset="0.25" stop-color="#06D2E9" />
+      <stop offset="0.375" stop-color="#08D8E2" />
+      <stop offset="0.5" stop-color="#0BDFDB" />
+      <stop offset="0.625" stop-color="#0DE5D3" />
+      <stop offset="0.75" stop-color="#0FEBCC" />
+      <stop offset="0.875" stop-color="#13F5C0" />
+      <stop offset="1" stop-color="#16FEB6" />
+    </linearGradient>
+    <linearGradient id="remaining" x1="65.4312" y1="44.75649" x2="81.29679" y2="131.48839" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#D8D9D9" />
+      <stop offset="0.125" stop-color="#DBDBDB" />
+      <stop offset="0.25" stop-color="#DDDEDE" />
+      <stop offset="0.375" stop-color="#DFE0E1" />
+      <stop offset="0.5" stop-color="#E1E2E4" />
+      <stop offset="0.625" stop-color="#E3E4E6" />
+      <stop offset="0.75" stop-color="#E6E7E9" />
+      <stop offset="0.875" stop-color="#E8E9EC" />
+      <stop offset="1" stop-color="#E8E9EC" />
+    </linearGradient>
+    <linearGradient id="needle" x1="97.129" y1="52.129" x2="65.629" y2="83.629" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9BA1B2" />
+      <stop offset="0.125" stop-color="#A0A5B6" />
+      <stop offset="0.25" stop-color="#A5AAB9" />
+      <stop offset="0.375" stop-color="#A9AEBD" />
+      <stop offset="0.5" stop-color="#AEB3C1" />
+      <stop offset="0.625" stop-color="#B2B7C4" />
+      <stop offset="0.75" stop-color="#BBBFCB" />
+      <stop offset="0.875" stop-color="#C9CCD6" />
+      <stop offset="1" stop-color="#D6D8E0" />
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1.01852 0 0 1.01852 -0.79686 2.42607)">
+    <path fill="url(#remaining)" d="M24.08193 127.55936A68.727 68.727 0 1 1 119.02547 127.40519L107.9384 115.83603A52.703 52.703 0 1 0 35.13136 115.95425Z" />
+    <path fill="url(#elapsed)" d="M24.08193 127.55936A68.727 68.727 0 1 1 122.22482 31.44222L110.39181 42.24724A52.703 52.703 0 1 0 35.13136 115.95425Z" />
+    <path fill="url(#needle)" d="M59.5 79.35L95.4 48.5L101.02 54.24L69.65 89.86Z" />
+  </g>
+</svg>

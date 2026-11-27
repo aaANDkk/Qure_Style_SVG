@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>NanoPort</title>
+  <desc>Qure-style metallic 3D ribbon redraw of NanoPort emblem; 144x144 canvas with 2px margin.</desc>
+  <defs>
+    <linearGradient id="np-light-1" gradientUnits="userSpaceOnUse" x1="8" y1="98" x2="72" y2="18">
+      <stop offset="0" stop-color="#E7E9ED" />
+      <stop offset="0.55" stop-color="#C8CCD2" />
+      <stop offset="1" stop-color="#A6ABB3" />
+    </linearGradient>
+    <linearGradient id="np-fold-1" gradientUnits="userSpaceOnUse" x1="60" y1="26" x2="88" y2="62">
+      <stop offset="0" stop-color="#6B7079" />
+      <stop offset="0.45" stop-color="#9A9FA8" />
+      <stop offset="1" stop-color="#676C75" />
+    </linearGradient>
+    <linearGradient id="np-light-2" gradientUnits="userSpaceOnUse" x1="136" y1="46" x2="72" y2="126">
+      <stop offset="0" stop-color="#E7E9ED" />
+      <stop offset="0.55" stop-color="#C4C8CF" />
+      <stop offset="1" stop-color="#A1A6AF" />
+    </linearGradient>
+    <linearGradient id="np-fold-2" gradientUnits="userSpaceOnUse" x1="84" y1="118" x2="56" y2="82">
+      <stop offset="0" stop-color="#676C75" />
+      <stop offset="0.45" stop-color="#969BA4" />
+      <stop offset="1" stop-color="#636871" />
+    </linearGradient>
+  </defs>
+
+  <!-- Upper-left metallic ribbon: shadowed inner tuck + bright front beam -->
+  <path fill="url(#np-fold-1)" d="M62 14 C70.5 14 77.5 18.5 82.5 27.5 L94.8 49.5 L81.8 70.5 L62.5 36.2 C59.8 31.4 55.8 29 51 29 L62 14 Z" />
+  <path fill="url(#np-light-1)" d="M2 102 L43.5 27.5 C48.2 19 54.5 14 62.5 14 C69.2 14 75 17.5 79.2 24.2 C73.5 22.8 68.5 25.5 64.8 32.2 L29.5 102 Z" />
+
+  <!-- Lower-right metallic ribbon (180-deg symmetric around 72,72) -->
+  <path fill="url(#np-fold-2)" d="M82 130 C73.5 130 66.5 125.5 61.5 116.5 L49.2 94.5 L62.2 73.5 L81.5 107.8 C84.2 112.6 88.2 115 93 115 L82 130 Z" />
+  <path fill="url(#np-light-2)" d="M142 42 L100.5 116.5 C95.8 125 89.5 130 81.5 130 C74.8 130 69 126.5 64.8 119.8 C70.5 121.2 75.5 118.5 79.2 111.8 L114.5 42 Z" />
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>NPCCloud</title>
+  <desc>Qure-style vector redraw of NPCCloud emblem; transparent background, 144x144 canvas with 2px margin.</desc>
+  <defs>
+    <clipPath id="npc-cloud-clip" clipPathUnits="userSpaceOnUse">
+      <path fill-rule="evenodd" d="M24.53 64.86C22.33 65.52 20.06 66.04 17.93 66.89C13.16 68.79 9.02 72.13 6.21 76.44C-1.12 87.69 1.61 103.52 12.91 111.09C15.23 112.64 17.86 113.76 20.55 114.43C29.66 116.71 39.22 112.72 47.58 109.41C62.29 103.6 76.51 96.41 90.37 88.8C94.45 86.55 98.52 84.3 102.55 81.96C105.78 80.09 108.96 78.31 111.79 75.88C111.4 74.01 111 72.32 111.22 70.38C111.64 66.61 113.43 63.37 113.13 59.46C112.61 52.81 107.65 47.18 101.12 45.81C98.32 45.22 95.6 45.56 92.8 45.94C90.61 43.61 88.79 40.93 86.44 38.73C82.03 34.58 76.54 31.59 70.7 30.04C53.29 25.42 33.71 34.28 26.83 51.19C25.03 55.62 24.5 60.12 24.53 64.86Z
+      M35.65 114.82C38.76 115.19 42.15 115.52 45.27 115.05C47.53 114.7 49.73 113.61 51.82 112.73C55.25 111.28 58.65 109.75 62.01 108.15C72.93 102.93 83.55 97.1 94.02 91.04C98.05 88.71 102.03 86.28 105.99 83.84C107.57 82.86 109.16 81.87 110.69 80.83C111.25 80.45 112.27 79.8 112.68 79.21C112.9 78.89 112.91 78.45 113.13 78.13C112.73 78.17 112.35 77.92 111.95 77.95C110.73 78.06 109.46 79.14 108.45 79.75C106.86 80.71 105.27 81.68 103.66 82.62C98.43 85.67 93.16 88.61 87.83 91.49C74.75 98.57 61.35 105.21 47.51 110.67C43.61 112.21 39.6 113.41 35.65 114.82Z
+      M58.54 114.57C61.5 115.38 64.49 115.15 67.58 115.14C71.78 115.14 75.98 115.18 80.17 115.17C88.1 115.17 96.03 115.15 103.95 115.17C110.55 115.19 116.99 115.5 123.28 113.19C126.28 112.09 129.59 111.16 132.29 109.44C137.92 105.85 140.37 98.68 138.53 92.33C137.1 87.38 133.09 83.37 128.06 82.12C125.76 81.55 123.45 81.74 121.11 81.75C119.78 81.76 118.32 81.51 117.02 81.87C114.91 82.45 112.88 84.2 111.04 85.35C106.7 88.07 102.34 90.76 97.92 93.37C85.05 100.97 71.92 107.92 58.54 114.57Z" />
+    </clipPath>
+    <linearGradient id="npc-cloud-grad" gradientUnits="userSpaceOnUse" x1="22" y1="28" x2="112" y2="116">
+      <stop offset="0" stop-color="#74DAFF" />
+      <stop offset="0.46" stop-color="#28AEFF" />
+      <stop offset="1" stop-color="#0E7AE8" />
+    </linearGradient>
+    <linearGradient id="npc-puff-left" gradientUnits="userSpaceOnUse" x1="50" y1="59" x2="50" y2="103">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.56" />
+      <stop offset="0.55" stop-color="#E6F8FF" stop-opacity="0.22" />
+      <stop offset="1" stop-color="#E6F8FF" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="npc-puff-right" gradientUnits="userSpaceOnUse" x1="106" y1="91" x2="106" y2="111">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.50" />
+      <stop offset="0.72" stop-color="#E6F8FF" stop-opacity="0.16" />
+      <stop offset="1" stop-color="#E6F8FF" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="npc-plane-grad" gradientUnits="userSpaceOnUse" x1="142" y1="56" x2="118" y2="80">
+      <stop offset="0" stop-color="#5ECEFF" />
+      <stop offset="0.5" stop-color="#22A4FF" />
+      <stop offset="1" stop-color="#0D74E2" />
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#npc-cloud-clip)">
+    <rect x="0" y="0" width="144" height="144" fill="url(#npc-cloud-grad)" />
+    <path d="M12 104 C10 88 18 73 30 71 C33 67 37 65 41 66 C45 59 56 58 63 63 C69 64 73 67 76 71 C82 71 86 76 85 83 C91 84 93 90 88 96 C70 105 42 110 12 104 Z" fill="url(#npc-puff-left)" />
+    <path d="M85 107 C83 102 87 98 92 98 C95 93 102 90 110 92 C115 92 119 95 120 98 C126 98 130 102 129 107 C128 110 124 111 119 111 H90 C87 111 86 109 85 107 Z" fill="url(#npc-puff-right)" />
+  </g>
+  <path fill="url(#npc-plane-grad)" d="M141.4 57.5 C142.3 58.5 141.7 60.5 138.8 63.1 L135.2 66.2 L134.9 77.6 L132.7 79.0 L130.0 69.5 L125.6 72.1 L126.2 75.7 L124.7 76.7 L122.4 73.1 L120.5 72.4 L120.5 70.1 L118.1 67.1 L119.5 66.1 L123.1 67.8 L126.4 64.9 L118.8 59.3 L120.6 57.7 L131.5 61.3 L135.2 58.6 C138.2 56.6 140.5 56.6 141.4 57.5 Z" />
+</svg>

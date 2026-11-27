@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>JiaoJuZhe</title>
+  <desc>Qure-style vector redraw of JiaoJuZhe tech shield emblem; 144x144 canvas with 2px margin.</desc>
+  <defs>
+    <linearGradient id="jjz-grad" gradientUnits="userSpaceOnUse" x1="12" y1="122" x2="128" y2="18">
+      <stop offset="0" stop-color="#D474F4"/>
+      <stop offset="0.34" stop-color="#6A5CF0"/>
+      <stop offset="0.68" stop-color="#288AF5"/>
+      <stop offset="1" stop-color="#76E9FF"/>
+    </linearGradient>
+    <linearGradient id="jjz-ring" gradientUnits="userSpaceOnUse" x1="16" y1="110" x2="136" y2="44">
+      <stop offset="0" stop-color="#C86DF2"/>
+      <stop offset="0.45" stop-color="#3E6EF2"/>
+      <stop offset="1" stop-color="#6AE4FF"/>
+    </linearGradient>
+    <linearGradient id="jjz-pale" gradientUnits="userSpaceOnUse" x1="12" y1="20" x2="132" y2="120">
+      <stop offset="0" stop-color="#DFB6FF"/>
+      <stop offset="0.5" stop-color="#87B8FF"/>
+      <stop offset="1" stop-color="#4AC5FF"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(-1 0)">
+  <!-- Subtle interior circuit grid & glowing nodes -->
+  <g stroke="url(#jjz-pale)" stroke-width="1.8" stroke-linecap="round" fill="none" opacity="0.82">
+    <path d="M18 56 L40 48 L56 32" stroke-width="3.800" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M48 34 L62 42 L74 36" stroke-width="3.800" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M40 48 L52 60 L66 56" stroke-width="3.800" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M36 90 L62 80 L88 64 L106 54" stroke-width="3.800" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M78 46 L88 64 L96 76" stroke-width="3.800" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M98 92 L114 92 L124 82" stroke-width="3.800" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g fill="url(#jjz-grad)">
+    <circle cx="52" cy="36" r="2.6"/>
+    <circle cx="88" cy="64" r="3.6"/>
+    <circle cx="62" cy="80" r="3.4"/>
+    <circle cx="114" cy="92" r="3.2"/>
+  </g>
+
+  <!-- Shield outer frame segments (upper-left lilac, upper-right cyan, lower V cobalt) -->
+  <path fill="url(#jjz-pale)" d="M9 19 L54 7 L43 16 L19 23 V50 L10 54 V21 C10 19.8 9.5 19.2 9 19 Z"/>
+  <path fill="url(#jjz-grad)" d="M84 10 L134 21 V45 L125 41 V27 L88 18 C85.5 17.4 84 15.2 84 12.8 Z"/>
+  <path fill="url(#jjz-grad)" d="M126 68 C124 98 104 123 72 141.5 C58 134 48 127 40 120 L51 116 C58 122 65 127 72 131 C96 116 113 96 117 72 Z"/>
+  <path fill="url(#jjz-grad)" d="M10 64 L18 61 C20 74 24 85 31 94 L22 97 C15 88 11 77 10 64 Z"/>
+
+  <!-- Outer rim circuit accent nodes -->
+  <circle cx="13" cy="58" r="4.2" fill="url(#jjz-grad)"/>
+  <circle cx="91" cy="11" r="3.8" fill="#6BE6FF"/>
+  <circle cx="122" cy="93" r="4.2" fill="#3299F6"/>
+  <circle cx="85" cy="127" r="4.2" fill="#3D6CF0"/>
+
+  <!-- Sweeping 3D orbital energy arcs (core emblem identity!) -->
+  <!-- Upper crescent arch curving over top -->
+  <path fill="url(#jjz-grad)" d="M82 6.5 C50 4 28 32 34 68 C36 79 41 87 46 92 C35 84 26 70 26 52 C26 24 48 4 76 2.2 C82 2 86 4 82 6.5 Z"/>
+  <!-- Main front sweeping tilted ellipse ribbon -->
+  <path fill="url(#jjz-ring)" d="M138.2 46.5 C141 56 122 76 92 92 C58 110 22 117 11 106 C5.5 100.5 6 91 12 83 C10 92 14 99 24 102 C42 107 72 98 98 83 C121 70 133 56 129 48 C124 40 104 42 82 52 C68 58 56 66 47 75 C44 68 48 59 58 51 C85 33 133 32 138.2 46.5 Z"/>
+  <!-- Secondary inner orbital streak -->
+  <path fill="url(#jjz-grad)" d="M114 29 C84 26 50 42 40 65 C35 76 38 86 48 90 C34 88 26 76 31 61 C40 36 78 21 114 29 Z"/>
+  <!-- Lower-left wrapping swoosh -->
+  <path fill="url(#jjz-grad)" d="M10 100 C18 114 48 118 82 104 C98 97 112 88 122 78 C110 95 92 108 72 115 C42 125 14 120 10 100 Z"/>
+  </g>
+</svg>

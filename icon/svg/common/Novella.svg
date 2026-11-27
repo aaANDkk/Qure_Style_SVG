@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.261261 0 0 1.261261 -16.918919 -15.027027)">
+  <title>Novella</title>
+  <desc>Qure-style Novella (轻书架) icon with bold minimalist folded book silhouette and vertical bookmark cutout.</desc>
+  <defs>
+    <linearGradient id="nv-ink" gradientUnits="userSpaceOnUse" x1="24" y1="16" x2="120" y2="128">
+      <stop offset="0.0" stop-color="#556582"/>
+      <stop offset="0.48" stop-color="#2D374B"/>
+      <stop offset="1.0" stop-color="#19202E"/>
+    </linearGradient>
+    <linearGradient id="nv-paper" gradientUnits="userSpaceOnUse" x1="72" y1="24" x2="72" y2="120">
+      <stop offset="0.0" stop-color="#FFFFFF"/>
+      <stop offset="1.0" stop-color="#E6EEF8"/>
+    </linearGradient>
+  </defs>
+  <path d="M 30,28 H 112 V 118 H 38 C 28,118 24,110 24,102 V 34 Z" fill="url(#nv-paper)"/>
+  <path fill="url(#nv-ink)" fill-rule="evenodd" d="M 38,14 H 104 V 98 H 39 C 34,98 31,101 31,105 C 31,109 34,112 39,112 H 114 V 25 H 126 V 124 H 38 C 24,124 16,115 16,102 V 36 C 16,22 25,14 38,14 Z M 45,30 V 82 H 58 V 30 Z"/>
+</g></svg>

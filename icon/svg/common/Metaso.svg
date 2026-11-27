@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.068702 0 0 1.068702 -4.343511 -2.80916)">
+  <title>Metaso</title>
+  <desc>Qure-style Metaso (秘塔AI搜索) icon with folded royal-blue Ai ribbon and dot.</desc>
+  <defs>
+    <linearGradient id="ms-bright" gradientUnits="userSpaceOnUse" x1="12" y1="26" x2="132" y2="118">
+      <stop offset="0.0" stop-color="#4892FF"/>
+      <stop offset="0.5" stop-color="#1E62F5"/>
+      <stop offset="1.0" stop-color="#0E42C4"/>
+    </linearGradient>
+    <linearGradient id="ms-fold" gradientUnits="userSpaceOnUse" x1="48" y1="30" x2="92" y2="116">
+      <stop offset="0.0" stop-color="#0E44C8"/>
+      <stop offset="1.0" stop-color="#2E74FF"/>
+    </linearGradient>
+  </defs>
+  <path d="M 52,32 L 88,108" fill="none" stroke="url(#ms-fold)" stroke-width="24" stroke-linecap="round"/>
+  <path d="M 18,108 L 54,32" fill="none" stroke="url(#ms-bright)" stroke-width="24" stroke-linecap="round"/>
+  <path d="M 102,64 L 124,108" fill="none" stroke="url(#ms-bright)" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="91" cy="34" r="13.5" fill="url(#ms-bright)"/>
+</g></svg>

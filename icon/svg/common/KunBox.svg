@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.129032 0 0 1.129032 -9.290323 -4.774194)">
+  <title>KunBox</title>
+  <desc>Qure-style KunBox icon with official isometric hexagon cube, Y-seam, and glowing diamond lid.</desc>
+  <defs>
+    <linearGradient id="kb-cube" gradientUnits="userSpaceOnUse" x1="22" y1="14" x2="122" y2="130">
+      <stop offset="0.0" stop-color="#A674FF"/>
+      <stop offset="0.5" stop-color="#7046F5"/>
+      <stop offset="1.0" stop-color="#4824C9"/>
+    </linearGradient>
+    <linearGradient id="kb-lid" gradientUnits="userSpaceOnUse" x1="56" y1="30" x2="88" y2="54">
+      <stop offset="0.0" stop-color="#60EEFF"/>
+      <stop offset="1.0" stop-color="#22A8FF"/>
+    </linearGradient>
+  </defs>
+  <path d="M 72,14 L 124,40 L 124,96 L 72,122 L 20,96 L 20,40 Z" fill="none" stroke="url(#kb-cube)" stroke-width="14.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 72,68 V 122 M 72,68 L 20,40 M 72,68 L 124,40" fill="none" stroke="url(#kb-cube)" stroke-width="14.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 72,32 L 90,41 L 72,50 L 54,41 Z" fill="url(#kb-lid)"/>
+</g></svg>

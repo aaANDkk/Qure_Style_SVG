@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>LiangXinYun</title>
+  <desc>Qure-style centered-circle vector redraw of official LiangXinYun (良心云.com) emblem; 144x144 canvas with 2px margin.</desc>
+  <defs>
+    <clipPath id="lxy-circle" clipPathUnits="userSpaceOnUse">
+      <circle cx="72" cy="72" r="52.8" />
+    </clipPath>
+    <clipPath id="lxy-wave-ext" clipPathUnits="userSpaceOnUse">
+      <path d="M72 19.2 A52.8 52.8 0 1 0 72 124.8 A52.8 52.8 0 0 0 122.1 88.2 H144 V52 H122.1 A52.8 52.8 0 0 0 72 19.2 Z" />
+    </clipPath>
+    <mask id="lxy-sun-cut" maskUnits="userSpaceOnUse" x="0" y="0" width="144" height="144">
+      <circle cx="72" cy="72" r="52.8" fill="#FFFFFF" />
+      <!-- Crisp horizontal wind/cloud speed notches centered on (72, 72) -->
+      <path fill="#000000" d="M39.1 24.6 L68.8 26.7 L37.2 28.1 Z" />
+      <path fill="#000000" d="M22.8 40.9 L55.3 45.1 L21.0 46.9 Z" />
+      <path fill="#000000" d="M17.4 61.6 L73.4 65.2 L17.4 68.6 Z" />
+      <path fill="#000000" d="M120.3 35.2 L73.4 39.3 L123.9 42.9 Z" />
+      <path fill="#000000" d="M127.5 47.2 L95.9 49.8 L127.5 52.7 Z" />
+      <path fill="#000000" d="M127.5 56.1 L86.9 59.0 L127.5 63.2 Z" />
+    </mask>
+    <linearGradient id="lxy-sun-grad" gradientUnits="userSpaceOnUse" x1="72" y1="19" x2="66" y2="124">
+      <stop offset="0" stop-color="#FFE238" />
+      <stop offset="0.52" stop-color="#FFC709" />
+      <stop offset="1" stop-color="#F59F00" />
+    </linearGradient>
+    <linearGradient id="lxy-wave-top" gradientUnits="userSpaceOnUse" x1="20" y1="78" x2="136" y2="62">
+      <stop offset="0" stop-color="#76E8F3" />
+      <stop offset="0.48" stop-color="#2EBBE5" />
+      <stop offset="1" stop-color="#198BD1" />
+    </linearGradient>
+    <linearGradient id="lxy-wave-bottom" gradientUnits="userSpaceOnUse" x1="34" y1="118" x2="120" y2="86">
+      <stop offset="0" stop-color="#75E7F2" />
+      <stop offset="0.52" stop-color="#35BCE4" />
+      <stop offset="1" stop-color="#1A88CD" />
+    </linearGradient>
+    <linearGradient id="lxy-plane-grad" gradientUnits="userSpaceOnUse" x1="120" y1="72" x2="142" y2="52">
+      <stop offset="0" stop-color="#29AFE3" />
+      <stop offset="1" stop-color="#1581C9" />
+    </linearGradient>
+  </defs>
+
+  <!-- Golden sun disc dead-centered at (72, 72) with negative-space wind notches -->
+  <rect x="0" y="0" width="144" height="144" fill="url(#lxy-sun-grad)" mask="url(#lxy-sun-cut)" />
+
+  <!-- Lower ocean wave clipped cleanly to centered sun circle -->
+  <g clip-path="url(#lxy-circle)">
+    <path d="M33.6 113.5 C32.7 98.2 48.1 90.0 69.7 91.9 C87.8 93.7 108.6 94.6 126.6 81.0 L128.4 128.9 L31.8 128.9 Z" fill="url(#lxy-wave-bottom)" />
+    <path d="M63.4 113.1 C72.5 105.2 87.8 106.1 111.3 111.0 L106.8 115.5 C88.7 111.7 75.2 109.5 63.4 113.1 Z" fill="url(#lxy-sun-grad)" />
+  </g>
+
+  <!-- Single seamless upper wave tapering smoothly out of circle into airplane contrail -->
+  <g clip-path="url(#lxy-wave-ext)">
+    <path d="M17.4 79.7 C31.8 70.6 51.7 70.4 71.5 75.8 C95.0 82.1 116.5 79.0 130.5 69.2 C119.5 84.0 96.8 90.2 70.6 83.7 C51.7 79.0 33.6 80.3 19.2 92.3 Z" fill="url(#lxy-wave-top)" />
+  </g>
+
+  <!-- Crisp soaring blue jet airplane reaching exact x = 141.8 (2px right margin) -->
+  <path d="M141.6 54.4 C142.3 55.2 141.5 57.1 139.2 59.5 L136.1 62.9 L137.8 70.1 L136.0 71.6 L132.7 66.0 L129.0 69.9 L129.4 73.0 L128.1 74.1 L126.2 71.5 L123.0 70.4 L124.2 69.2 L127.1 69.4 L130.9 64.3 L123.5 63.3 L125.3 61.5 L133.7 61.2 L136.9 57.7 C139.2 55.1 140.8 53.7 141.6 54.4 Z" fill="url(#lxy-plane-grad)" />
+</svg>

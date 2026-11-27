@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.09375 0 0 1.09375 -6.75 -5.65625)">
+  <title>YueTong</title>
+  <desc>Qure-style YueTong (悦通) icon with bold twin overlapping indigo rings and V-crest.</desc>
+  <defs>
+    <linearGradient id="yt-indigo" gradientUnits="userSpaceOnUse" x1="72" y1="16" x2="72" y2="128">
+      <stop offset="0.0" stop-color="#8684FF"/>
+      <stop offset="0.5" stop-color="#5E5BF2"/>
+      <stop offset="1.0" stop-color="#433FD6"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#yt-indigo)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 52,20 L 72,49 L 92,20" stroke-width="10"/>
+    <circle cx="51" cy="84" r="35.5" stroke-width="14"/>
+    <circle cx="93" cy="84" r="35.5" stroke-width="14"/>
+  </g>
+</g></svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.121025 0 0 1.121025 -8.217342 -13.197895)">
+  <title>Hema</title>
+  <desc>Qure-style Hema (盒马鲜生) icon with adorable sky-blue winking hippo head.</desc>
+  <defs>
+    <linearGradient id="hm-head" gradientUnits="userSpaceOnUse" x1="72" y1="20" x2="72" y2="112">
+      <stop offset="0.0" stop-color="#58C4FF"/>
+      <stop offset="0.55" stop-color="#1E96FF"/>
+      <stop offset="1.0" stop-color="#0E72E0"/>
+    </linearGradient>
+    <linearGradient id="hm-snout" gradientUnits="userSpaceOnUse" x1="72" y1="64" x2="72" y2="132">
+      <stop offset="0.0" stop-color="#B0E4FF"/>
+      <stop offset="0.6" stop-color="#78CEFF"/>
+      <stop offset="1.0" stop-color="#48B2FF"/>
+    </linearGradient>
+  </defs>
+  <circle cx="36" cy="38" r="14" fill="url(#hm-head)"/>
+  <circle cx="108" cy="38" r="14" fill="url(#hm-head)"/>
+  <circle cx="36" cy="39" r="7" fill="#A6E0FF"/>
+  <circle cx="108" cy="39" r="7" fill="#A6E0FF"/>
+  <ellipse cx="72" cy="68" rx="48" ry="42" fill="url(#hm-head)"/>
+  <rect x="10" y="68" width="124" height="60" rx="30" fill="url(#hm-snout)"/>
+  <path d="M 46,52 L 58,58 L 46,64" fill="none" stroke="#103A78" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 98,52 L 86,58 L 98,64" fill="none" stroke="#103A78" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="44" cy="96" r="8.5" fill="#FFFFFF"/>
+  <circle cx="100" cy="96" r="8.5" fill="#FFFFFF"/>
+  <circle cx="44" cy="96" r="4.2" fill="#1878E0"/>
+  <circle cx="100" cy="96" r="4.2" fill="#1878E0"/>
+</g></svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.085993 0 0 1.085993 -5.695035 -6.191489)">
+  <title>Foxmail</title>
+  <desc>Qure-style Foxmail icon with floating sky-blue gradient envelope and crisp white fold.</desc>
+  <defs>
+    <linearGradient id="fm-blue" gradientUnits="userSpaceOnUse" x1="72" y1="22" x2="72" y2="122">
+      <stop offset="0.0" stop-color="#4AB8FF"/>
+      <stop offset="0.5" stop-color="#1884FF"/>
+      <stop offset="1.0" stop-color="#0856D6"/>
+    </linearGradient>
+    <linearGradient id="fm-flap" gradientUnits="userSpaceOnUse" x1="72" y1="22" x2="72" y2="86">
+      <stop offset="0.0" stop-color="#FFFFFF"/>
+      <stop offset="1.0" stop-color="#D2EBFF"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="24" width="128" height="96" rx="22" fill="url(#fm-blue)"/>
+  <path d="M 16,32 L 72,77 L 128,32 C 124,26 118,24 112,24 H 32 C 26,24 20,26 16,32 Z" fill="url(#fm-flap)"/>
+  <path d="M 20,112 L 54,78 M 124,112 L 90,78" stroke="#FFFFFF" stroke-opacity="0.38" stroke-width="5.5" stroke-linecap="round"/>
+</g></svg>

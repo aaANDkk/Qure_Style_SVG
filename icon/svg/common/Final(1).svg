@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>Final(1)</title>
+  <desc>Redrawn from Koolson/Qure Color Final_1.png.</desc>
+  <defs>
+    <radialGradient id="steel" cx="0" cy="0" r="72.81196" gradientUnits="userSpaceOnUse"
+        gradientTransform="matrix(1 0 -0.00045 0.60588 71.82272 71.82166)">
+      <stop stop-color="#E1E4E7" />
+      <stop offset="0.00853" stop-color="#E1E4E7" />
+      <stop offset="0.0536" stop-color="#DFE2E5" />
+      <stop offset="0.09867" stop-color="#DCDFE3" />
+      <stop offset="0.14373" stop-color="#D9DCE1" />
+      <stop offset="0.1888" stop-color="#D7DADF" />
+      <stop offset="0.23387" stop-color="#D4D7DD" />
+      <stop offset="0.27893" stop-color="#D1D4DC" />
+      <stop offset="0.324" stop-color="#CFD2DA" />
+      <stop offset="0.36907" stop-color="#CCCFD8" />
+      <stop offset="0.41413" stop-color="#C9CDD6" />
+      <stop offset="0.4592" stop-color="#C6CAD4" />
+      <stop offset="0.50427" stop-color="#C4C7D3" />
+      <stop offset="0.54933" stop-color="#BBBECA" />
+      <stop offset="0.5944" stop-color="#B1B5C1" />
+      <stop offset="0.63947" stop-color="#A7ABB8" />
+      <stop offset="0.68453" stop-color="#9EA2AF" />
+      <stop offset="0.7296" stop-color="#9498A5" />
+      <stop offset="0.77467" stop-color="#8B8F9C" />
+      <stop offset="0.81973" stop-color="#818593" />
+      <stop offset="0.8648" stop-color="#777B8A" />
+      <stop offset="0.90987" stop-color="#6E7281" />
+      <stop offset="0.95493" stop-color="#646878" />
+      <stop offset="1" stop-color="#5B5F6F" />
+    </radialGradient>
+  </defs>
+  <g transform="matrix(0.9743 0 0 0.9743 2.01804 2.02519)">
+    <path fill="url(#steel)" d="M63.71651 48.96349A35.96618 35.96618 0 1 0 62.07335 96.53952
+      L95.96957 60.71394A16.1607 16.1607 0 1 1 94.09253 80.52539
+      L79.93979 94.67813A35.96618 35.96618 0 1 0 81.58295 47.1021
+      L47.68673 82.92768A16.1607 16.1607 0 1 1 49.56378 63.11622Z" />
+  </g>
+</svg>

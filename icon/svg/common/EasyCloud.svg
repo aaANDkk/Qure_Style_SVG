@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.060606 0 0 1.060606 -4.363636 -4.363636)">
+  <title>EasyCloud</title>
+  <defs>
+    <linearGradient id="ec-g" gradientUnits="userSpaceOnUse" x1="24" y1="12" x2="111" y2="136">
+      <stop offset="0" stop-color="#7DC2F0"/>
+      <stop offset="0.5" stop-color="#4A8FE0"/>
+      <stop offset="1" stop-color="#2A5B9A"/>
+    </linearGradient>
+  </defs>
+  <path d="M23 14L121 130M121 14L23 130" fill="none" stroke="url(#ec-g)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

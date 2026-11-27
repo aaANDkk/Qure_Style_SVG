@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.147541 0 0 1.147541 -18.655738 -10.622951)">
+  <title>Keep</title>
+  <desc>Qure-style Keep icon with bold deep-purple geometric K and sparkle star.</desc>
+  <defs>
+    <linearGradient id="kp-purple" gradientUnits="userSpaceOnUse" x1="24" y1="16" x2="112" y2="128">
+      <stop offset="0.0" stop-color="#8B6BFF"/>
+      <stop offset="0.5" stop-color="#5B38C8"/>
+      <stop offset="1.0" stop-color="#3C1E94"/>
+    </linearGradient>
+    <linearGradient id="kp-star" gradientUnits="userSpaceOnUse" x1="100" y1="12" x2="132" y2="44">
+      <stop offset="0.0" stop-color="#C8B6FF"/>
+      <stop offset="1.0" stop-color="#8C68FF"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#kp-purple)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 32,20 V 124"/>
+    <path d="M 106,36 L 56,74 L 108,122"/>
+  </g>
+  <path d="M 118,12 L 122.5,24.5 L 135,29 L 122.5,33.5 L 118,46 L 113.5,33.5 L 101,29 L 113.5,24.5 Z" fill="url(#kp-star)"/>
+</g></svg>

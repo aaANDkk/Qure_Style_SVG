@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.166667 0 0 1.166667 -12 -12)">
+  <title>Sunlogin</title>
+  <desc>Qure-style Sunlogin (向日葵) icon with vibrant magenta folded geometric ribbon.</desc>
+  <defs>
+    <linearGradient id="sl-dark" gradientUnits="userSpaceOnUse" x1="16" y1="12" x2="128" y2="132">
+      <stop offset="0.0" stop-color="#FF3878"/>
+      <stop offset="0.5" stop-color="#E61058"/>
+      <stop offset="1.0" stop-color="#B80846"/>
+    </linearGradient>
+    <linearGradient id="sl-light" gradientUnits="userSpaceOnUse" x1="20" y1="54" x2="124" y2="90">
+      <stop offset="0.0" stop-color="#FFA6C4"/>
+      <stop offset="1.0" stop-color="#FF6698"/>
+    </linearGradient>
+  </defs>
+  <path d="M 18,12 L 88,52 L 18,92 Z" fill="url(#sl-dark)"/>
+  <path d="M 18,92 L 88,52 L 126,72 L 56,112 Z" fill="url(#sl-light)"/>
+  <path d="M 126,52 L 56,92 L 126,132 Z" fill="url(#sl-dark)"/>
+</g></svg>

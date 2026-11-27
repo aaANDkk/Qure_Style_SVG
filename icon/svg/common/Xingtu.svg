@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.029412 0 0 1.029412 -2.117647 -2.117647)">
+  <title>Xingtu</title>
+  <desc>Qure-style Xingtu (醒图) icon with luminous neon lime-chartreuse glowing sphere.</desc>
+  <defs>
+    <radialGradient id="xt-glow" cx="62%" cy="42%" r="65%">
+      <stop offset="0.0" stop-color="#ECFF5C"/>
+      <stop offset="0.45" stop-color="#B8F522"/>
+      <stop offset="0.82" stop-color="#6DD610"/>
+      <stop offset="1.0" stop-color="#2E8C08"/>
+    </radialGradient>
+  </defs>
+  <circle cx="72" cy="72" r="68" fill="url(#xt-glow)"/>
+</g></svg>

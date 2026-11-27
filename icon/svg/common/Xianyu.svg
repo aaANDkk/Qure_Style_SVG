@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.129032 0 0 1.129032 -7.032258 -16.064516)">
+  <title>Xianyu</title>
+  <desc>Qure-style Xianyu (闲鱼) icon with playful golden-yellow smiling fish mascot.</desc>
+  <defs>
+    <linearGradient id="xy-gold" gradientUnits="userSpaceOnUse" x1="72" y1="16" x2="72" y2="132">
+      <stop offset="0.0" stop-color="#FFE83B"/>
+      <stop offset="0.55" stop-color="#FFC700"/>
+      <stop offset="1.0" stop-color="#F59B00"/>
+    </linearGradient>
+    <linearGradient id="xy-fin" gradientUnits="userSpaceOnUse" x1="90" y1="24" x2="132" y2="112">
+      <stop offset="0.0" stop-color="#FFB800"/>
+      <stop offset="1.0" stop-color="#EB7A00"/>
+    </linearGradient>
+  </defs>
+  <path d="M 92,38 C 104,24 122,30 120,46 C 132,50 136,66 126,76 C 136,86 130,104 116,104 L 94,96 Z" fill="url(#xy-fin)"/>
+  <path d="M 68,26 C 102,26 124,52 124,84 C 124,112 100,130 68,130 C 36,130 14,112 14,84 C 14,52 36,26 68,26 Z" fill="url(#xy-gold)"/>
+  <ellipse cx="22" cy="96" rx="14" ry="10" transform="rotate(-24 22 96)" fill="url(#xy-fin)"/>
+  <ellipse cx="52" cy="70" rx="15" ry="18" fill="#FFFFFF"/>
+  <ellipse cx="86" cy="70" rx="15" ry="18" fill="#FFFFFF"/>
+  <circle cx="56" cy="72" r="7.5" fill="#2A1D12"/>
+  <circle cx="82" cy="72" r="7.5" fill="#2A1D12"/>
+  <circle cx="58.5" cy="69" r="2.6" fill="#FFFFFF"/>
+  <circle cx="84.5" cy="69" r="2.6" fill="#FFFFFF"/>
+  <path d="M 54,97 C 58,113 80,113 84,97 Z" fill="#8C2812"/>
+  <path d="M 60,105 C 65,110 73,110 78,105 C 74,102 64,102 60,105 Z" fill="#FF6B6B"/>
+</g></svg>

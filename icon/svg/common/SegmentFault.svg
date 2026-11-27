@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.029412 0 0 1.029412 2 -2.632353)">
+  <title>SegmentFault</title>
+  <desc>Qure-style SegmentFault (思否) icon with bold emerald-green sf monogram.</desc>
+  <defs>
+    <linearGradient id="sf-green" gradientUnits="userSpaceOnUse" x1="72" y1="14" x2="72" y2="130">
+      <stop offset="0.0" stop-color="#36DF94"/>
+      <stop offset="0.5" stop-color="#00A86B"/>
+      <stop offset="1.0" stop-color="#007A4E"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#sf-green)" stroke-width="18.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 64,54 C 57,46 47,42 36,42 C 21,42 12,50 12,61 C 12,73 23,77 39,81 C 55,85 66,91 66,104 C 66,116 55,124 38,124 C 25,124 16,119 10,111"/>
+    <path d="M 126,22 C 110,18 96,26 96,46 V 124 M 78,64 H 122"/>
+  </g>
+</g></svg>

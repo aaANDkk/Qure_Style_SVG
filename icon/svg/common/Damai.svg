@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(0.934401 0 0 0.934401 4.723112 0.985507)">
+  <title>Damai</title>
+  <desc>Qure-style Damai (大麦) icon with iconic rainbow peacock fan emblem.</desc>
+  <defs>
+    <linearGradient id="dm-p0" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#FF8A2B"/><stop offset="100%" stop-color="#FF5418"/></linearGradient>
+    <linearGradient id="dm-p1" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#FF5286"/><stop offset="100%" stop-color="#EB1E62"/></linearGradient>
+    <linearGradient id="dm-p2" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#EB38A6"/><stop offset="100%" stop-color="#C41888"/></linearGradient>
+    <linearGradient id="dm-p3" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#A648FF"/><stop offset="100%" stop-color="#7B24E6"/></linearGradient>
+    <linearGradient id="dm-p4" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#6B5BFF"/><stop offset="100%" stop-color="#4736E6"/></linearGradient>
+    <linearGradient id="dm-p5" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#3B8EFF"/><stop offset="100%" stop-color="#1A62F0"/></linearGradient>
+    <linearGradient id="dm-p6" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#22C4FF"/><stop offset="100%" stop-color="#0896E6"/></linearGradient>
+    <linearGradient id="dm-p7" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1CE0C4"/><stop offset="100%" stop-color="#06B59C"/></linearGradient>
+    <linearGradient id="dm-p8" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#32E68C"/><stop offset="100%" stop-color="#12BD68"/></linearGradient>
+    <linearGradient id="dm-base" gradientUnits="userSpaceOnUse" x1="72" y1="90" x2="72" y2="132"><stop offset="0%" stop-color="#4AE87A"/><stop offset="100%" stop-color="#18A84C"/></linearGradient>
+  </defs>
+  <path transform="rotate(-108.0 72.0 94.0)" d="M 72.0,84.0 C 61.0,58.0 59.0,26.0 72.0,18.0 C 85.0,26.0 83.0,58.0 72.0,84.0 Z" fill="url(#dm-p0)"/>
+  <path transform="rotate(-81.0 72.0 94.0)" d="M 72.0,84.0 C 61.0,58.0 59.0,26.0 72.0,18.0 C 85.0,26.0 83.0,58.0 72.0,84.0 Z" fill="url(#dm-p1)"/>
+  <path transform="rotate(-54.0 72.0 94.0)" d="M 72.0,84.0 C 61.0,58.0 59.0,26.0 72.0,18.0 C 85.0,26.0 83.0,58.0 72.0,84.0 Z" fill="url(#dm-p2)"/>
+  <path transform="rotate(-27.0 72.0 94.0)" d="M 72.0,84.0 C 61.0,58.0 59.0,26.0 72.0,18.0 C 85.0,26.0 83.0,58.0 72.0,84.0 Z" fill="url(#dm-p3)"/>
+  <path transform="rotate(0.0 72.0 94.0)" d="M 72.0,84.0 C 61.0,58.0 59.0,26.0 72.0,18.0 C 85.0,26.0 83.0,58.0 72.0,84.0 Z" fill="url(#dm-p4)"/>
+  <path transform="rotate(27.0 72.0 94.0)" d="M 72.0,84.0 C 61.0,58.0 59.0,26.0 72.0,18.0 C 85.0,26.0 83.0,58.0 72.0,84.0 Z" fill="url(#dm-p5)"/>
+  <path transform="rotate(54.0 72.0 94.0)" d="M 72.0,84.0 C 61.0,58.0 59.0,26.0 72.0,18.0 C 85.0,26.0 83.0,58.0 72.0,84.0 Z" fill="url(#dm-p6)"/>
+  <path transform="rotate(81.0 72.0 94.0)" d="M 72.0,84.0 C 61.0,58.0 59.0,26.0 72.0,18.0 C 85.0,26.0 83.0,58.0 72.0,84.0 Z" fill="url(#dm-p7)"/>
+  <path transform="rotate(108.0 72.0 94.0)" d="M 72.0,84.0 C 61.0,58.0 59.0,26.0 72.0,18.0 C 85.0,26.0 83.0,58.0 72.0,84.0 Z" fill="url(#dm-p8)"/>
+  <path d="M 72,92 L 96,128 C 98,131 96,134 92,134 H 52 C 48,134 46,131 48,128 Z" fill="url(#dm-base)"/>
+</g></svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>CTC</title>
+  <desc>Qure-style geometric vector redraw of CTC monogram; 144x144 canvas with 2px margin.</desc>
+  <defs>
+    <linearGradient id="ctc-grad" gradientUnits="userSpaceOnUse" x1="20" y1="4" x2="124" y2="140">
+      <stop offset="0" stop-color="#686F80" />
+      <stop offset="0.5" stop-color="#3B414F" />
+      <stop offset="1" stop-color="#222631" />
+    </linearGradient>
+  </defs>
+  <g fill="url(#ctc-grad)">
+    <!-- Top bar with softly curved left start -->
+    <path d="M21 4 H142 V17.5 H4.2 C6.2 9.2 12.6 4 21 4 Z" />
+    <!-- Middle T bar + central vertical stem -->
+    <path d="M2 29 H142 V42.5 H90.5 V90 H77 V42.5 H2 Z" />
+    <!-- Inner C (L-shape with rounded inner bend) -->
+    <path d="M28 54 H41.5 V96 C41.5 99.3 44.2 102 47.5 102 H142 V115.5 H45.5 C35.8 115.5 28 107.7 28 98 Z" />
+    <!-- Outer C (L-shape with wide concentric rounded bottom-left bend) -->
+    <path d="M2 54 H15.5 V107 C15.5 117.8 24.2 126.5 35 126.5 H142 V140 H33 C15.9 140 2 126.1 2 109 Z" />
+  </g>
+</svg>

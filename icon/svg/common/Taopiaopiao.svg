@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.029412 0 0 1.029412 -2.117647 -1.088235)">
+  <title>Taopiaopiao</title>
+  <desc>Qure-style Taopiaopiao (淘票票) icon with cute mascot silhouette and red-blue 3D movie glasses.</desc>
+  <defs>
+    <linearGradient id="tpp-coral" gradientUnits="userSpaceOnUse" x1="72" y1="8" x2="72" y2="136">
+      <stop offset="0.0" stop-color="#FF5E6B"/>
+      <stop offset="0.55" stop-color="#F63549"/>
+      <stop offset="1.0" stop-color="#D91832"/>
+    </linearGradient>
+    <linearGradient id="tpp-blue" gradientUnits="userSpaceOnUse" x1="78" y1="60" x2="112" y2="92">
+      <stop offset="0.0" stop-color="#4CC6FF"/>
+      <stop offset="1.0" stop-color="#0C82E8"/>
+    </linearGradient>
+  </defs>
+  <path d="M 72,134 C 36,134 12,110 12,78 C 12,48 33,26 60,23 C 62,15 67,10 73,8 C 71,16 76,22 83,23 C 110,27 132,49 132,78 C 132,110 108,134 72,134 Z" fill="#FFFFFF" stroke="url(#tpp-coral)" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M 27,63 H 117 C 119,63 120,65 119.5,68 L 116,84 C 114,93 106,99 96,99 C 86,99 79,93 76,84 L 74.5,79 C 73.5,76.5 70.5,76.5 69.5,79 L 68,84 C 65,93 58,99 48,99 C 38,99 30,93 28,84 L 24.5,68 C 24,65 25,63 27,63 Z" fill="#232730"/>
+  <path d="M 35,70 H 63 L 61,81 C 59.5,87 54.5,91 48,91 C 41.5,91 37,87 36,81 Z" fill="url(#tpp-coral)"/>
+  <path d="M 81,70 H 109 L 108,81 C 107,87 102.5,91 96,91 C 89.5,91 84.5,87 83,81 Z" fill="url(#tpp-blue)"/>
+</g></svg>

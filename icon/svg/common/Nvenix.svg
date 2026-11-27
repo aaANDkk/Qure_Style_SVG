@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>Nvenix</title>
+  <desc>Qure-style 3D folded ribbon vector redraw of Nvenix emblem; 144x144 canvas with 2px margin.</desc>
+  <defs>
+    <!-- Single seamless outer silhouette clip so outer walls x=2 and x=142 are 100% smooth -->
+    <clipPath id="nv-outer-clip" clipPathUnits="userSpaceOnUse">
+      <path d="M2 39.16 A26.163 26.163 0 0 1 46.66 20.66 L107 81 V38 C107 23 116.5 13 129 13 C136.5 13 142 18.5 142 26.5 V104.84 A26.163 26.163 0 0 1 97.34 123.34 L37 63 V106 C37 121 27.5 131 15 131 C7.5 131 2 125.5 2 117.5 Z" />
+    </clipPath>
+    <!-- Left vertical pillar emerging cleanly from behind top-left fold -->
+    <linearGradient id="nv-left" gradientUnits="userSpaceOnUse" x1="19.5" y1="40" x2="19.5" y2="131">
+      <stop offset="0" stop-color="#001488" />
+      <stop offset="0.24" stop-color="#0026B8" />
+      <stop offset="0.65" stop-color="#0044EA" />
+      <stop offset="1" stop-color="#0056FA" />
+    </linearGradient>
+    <!-- Continuous front diagonal ribbon from top-left arch to bottom-right deep-blue fold -->
+    <linearGradient id="nv-diag" gradientUnits="userSpaceOnUse" x1="18" y1="16" x2="126" y2="128">
+      <stop offset="0" stop-color="#1E9FFF" />
+      <stop offset="0.34" stop-color="#0A7BFF" />
+      <stop offset="0.68" stop-color="#0048E0" />
+      <stop offset="1" stop-color="#00168E" />
+    </linearGradient>
+    <!-- Right bright-cyan vertical pillar curving seamlessly into bottom-right fold -->
+    <linearGradient id="nv-right" gradientUnits="userSpaceOnUse" x1="124.5" y1="13" x2="124.5" y2="104">
+      <stop offset="0" stop-color="#00F2FF" />
+      <stop offset="0.46" stop-color="#00CBFF" />
+      <stop offset="0.80" stop-color="#0096FF" />
+      <stop offset="1" stop-color="#027EF2" />
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#nv-outer-clip)">
+    <!-- 1. Left vertical pillar (base layer behind top-left fold) -->
+    <rect x="2" y="36" width="35" height="96" fill="url(#nv-left)" />
+
+    <!-- 2. Sweeping 3D diagonal ribbon (fills cleanly through bottom-right U-turn inside clipPath with zero hole) -->
+    <path fill="url(#nv-diag)" d="M2 49.73 V13 H142 V131 H94 L17.36 43.36 A9 9 0 0 0 2 49.73 Z" />
+
+    <!-- 3. Right cyan pillar (exact C1 tangent along y=x-26 from (107,81) to (126.64,100.64), then r=9 arc to (142,94.27)) -->
+    <path fill="url(#nv-right)" d="M107 13 H142 V94.27 A9 9 0 0 1 126.64 100.64 L107 81 Z" />
+  </g>
+</svg>

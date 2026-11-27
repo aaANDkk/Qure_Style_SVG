@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.147541 0 0 1.147541 -10.622951 -10.622951)">
+  <title>Mishka</title>
+  <desc>Qure-style Mishka icon with official 5-node network M emblem in sleek obsidian-black gradient.</desc>
+  <defs>
+    <linearGradient id="mk-black" gradientUnits="userSpaceOnUse" x1="22" y1="22" x2="122" y2="122">
+      <stop offset="0.0" stop-color="#4A5260"/>
+      <stop offset="0.48" stop-color="#22262E"/>
+      <stop offset="1.0" stop-color="#0D0F14"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#mk-black)" stroke="url(#mk-black)" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 26,114 V 30 L 72,74 L 118,30 V 114" fill="none"/>
+    <circle cx="26" cy="30" r="14.5" stroke="none"/>
+    <circle cx="26" cy="114" r="14.5" stroke="none"/>
+    <circle cx="72" cy="74" r="14.5" stroke="none"/>
+    <circle cx="118" cy="30" r="14.5" stroke="none"/>
+    <circle cx="118" cy="114" r="14.5" stroke="none"/>
+  </g>
+</g></svg>

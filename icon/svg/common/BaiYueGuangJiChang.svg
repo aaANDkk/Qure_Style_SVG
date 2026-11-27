@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.139518 0 0 1.139518 -8.40217 -10.045285)">
+  <title>BaiYueGuangJiChang</title>
+  <desc>Qure-style BaiYueGuangJiChang (白月光) icon with charcoal cloud, coral-pink crescent, and sky-cyan orb.</desc>
+  <defs>
+    <linearGradient id="byg-dark" gradientUnits="userSpaceOnUse" x1="56" y1="22" x2="72" y2="120">
+      <stop offset="0.0" stop-color="#3E444F"/>
+      <stop offset="0.5" stop-color="#22262E"/>
+      <stop offset="1.0" stop-color="#14171D"/>
+    </linearGradient>
+    <linearGradient id="byg-pink" gradientUnits="userSpaceOnUse" x1="50" y1="42" x2="90" y2="74">
+      <stop offset="0.0" stop-color="#FF9CC2"/>
+      <stop offset="1.0" stop-color="#FF5E9A"/>
+    </linearGradient>
+    <linearGradient id="byg-cyan" gradientUnits="userSpaceOnUse" x1="92" y1="62" x2="124" y2="118">
+      <stop offset="0.0" stop-color="#58D4FF"/>
+      <stop offset="0.55" stop-color="#22ACFA"/>
+      <stop offset="1.0" stop-color="#0E84E0"/>
+    </linearGradient>
+  </defs>
+  <circle cx="101" cy="87" r="31" fill="url(#byg-cyan)"/>
+  <path d="M 38,118 C 20,118 10,106 10,91 C 10,77 19,66 32,64 C 34,42 52,26 73,26 C 95,26 111,42 112,63 C 96,65 81,77 73,96 C 67,110 55,118 38,118 Z" fill="url(#byg-dark)"/>
+  <path d="M 52,72 C 50,55 62,42 79,41 C 85,41 90,42.5 94,45" fill="none" stroke="url(#byg-pink)" stroke-width="10.5" stroke-linecap="round"/>
+</g></svg>

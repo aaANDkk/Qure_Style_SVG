@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.014493 0 0 1.014493 -1.043478 -1.043478)">
+  <title>YueZhiAnMian</title>
+  <desc>Qure-style YueZhiAnMian (月之暗面) icon with crisp red/white circular badge and bold crossed hammers.</desc>
+  <defs>
+    <linearGradient id="yzam-white" gradientUnits="userSpaceOnUse" x1="72" y1="6" x2="72" y2="74">
+      <stop offset="0.0" stop-color="#FFFFFF"/>
+      <stop offset="1.0" stop-color="#EAEFF5"/>
+    </linearGradient>
+    <linearGradient id="yzam-red" gradientUnits="userSpaceOnUse" x1="72" y1="70" x2="72" y2="138">
+      <stop offset="0.0" stop-color="#F53838"/>
+      <stop offset="0.55" stop-color="#DC1414"/>
+      <stop offset="1.0" stop-color="#B00B0B"/>
+    </linearGradient>
+    <linearGradient id="yzam-steel" gradientUnits="userSpaceOnUse" x1="48" y1="28" x2="94" y2="52">
+      <stop offset="0.0" stop-color="#FFFFFF"/>
+      <stop offset="0.6" stop-color="#DDE4EE"/>
+      <stop offset="1.0" stop-color="#B7C4D6"/>
+    </linearGradient>
+    <linearGradient id="yzam-ring" gradientUnits="userSpaceOnUse" x1="72" y1="6" x2="72" y2="138">
+      <stop offset="0.0" stop-color="#353A44"/>
+      <stop offset="1.0" stop-color="#14171D"/>
+    </linearGradient>
+    <clipPath id="yzam-clip"><circle cx="72" cy="72" r="65"/></clipPath>
+  </defs>
+  <g clip-path="url(#yzam-clip)">
+    <rect x="0" y="0" width="144" height="72" fill="url(#yzam-white)"/>
+    <rect x="0" y="72" width="144" height="72" fill="url(#yzam-red)"/>
+  </g>
+  <circle cx="72" cy="72" r="65" fill="none" stroke="url(#yzam-ring)" stroke-width="7.2"/>
+  <g transform="translate(72 74) rotate(-36) scale(1 1) translate(-72 -74)">
+    <rect x="66.5" y="34" width="11" height="86" rx="2.6" fill="#181B21"/>
+    <rect x="69.5" y="38" width="5" height="78" rx="1.4" fill="url(#yzam-red)"/>
+    <path d="M 55,20 L 74,20 C 83,20 91,23 96,30 C 90,29 85,31 80,35 L 80,38 L 64,38 L 64,33 L 55,33 Z" fill="url(#yzam-steel)" stroke="#181B21" stroke-width="3.8" stroke-linejoin="round"/>
+    <rect x="48" y="18.5" width="8.5" height="16" rx="2.2" fill="url(#yzam-steel)" stroke="#181B21" stroke-width="3.8" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(72 74) rotate(36) scale(-1 1) translate(-72 -74)">
+    <rect x="66.5" y="34" width="11" height="86" rx="2.6" fill="#181B21"/>
+    <rect x="69.5" y="38" width="5" height="78" rx="1.4" fill="url(#yzam-red)"/>
+    <path d="M 55,20 L 74,20 C 83,20 91,23 96,30 C 90,29 85,31 80,35 L 80,38 L 64,38 L 64,33 L 55,33 Z" fill="url(#yzam-steel)" stroke="#181B21" stroke-width="3.8" stroke-linejoin="round"/>
+    <rect x="48" y="18.5" width="8.5" height="16" rx="2.2" fill="url(#yzam-steel)" stroke="#181B21" stroke-width="3.8" stroke-linejoin="round"/>
+  </g>
+</g></svg>

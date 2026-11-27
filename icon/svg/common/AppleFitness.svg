@@ -1,0 +1,214 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>AppleFitness</title>
+  <desc>Activity rings redrawn after Koolson/Qure Color Apple_Fitness.png.</desc>
+  <defs>
+    <clipPath id="move-ring" clipPathUnits="userSpaceOnUse">
+      <path clip-rule="evenodd" d="M2 72a70 70 0 1 0 140 0a70 70 0 1 0 -140 0ZM17.1852 72a54.8148 54.8148 0 1 0 109.6296 0a54.8148 54.8148 0 1 0 -109.6296 0Z" />
+    </clipPath>
+    <linearGradient id="move-1" x1="72" y1="9.5926" x2="103.2037" y2="17.9536" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9422E" />
+      <stop offset="1" stop-color="#FA4235" />
+    </linearGradient>
+    <linearGradient id="move-2" x1="103.2037" y1="17.9536" x2="126.0464" y2="40.7963" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FA4235" />
+      <stop offset="1" stop-color="#FC433B" />
+    </linearGradient>
+    <linearGradient id="move-3" x1="126.0464" y1="40.7963" x2="134.4074" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FC433B" />
+      <stop offset="1" stop-color="#FF4442" />
+    </linearGradient>
+    <linearGradient id="move-4" x1="134.4074" y1="72" x2="126.0464" y2="103.2037" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4442" />
+      <stop offset="1" stop-color="#FF4655" />
+    </linearGradient>
+    <linearGradient id="move-5" x1="126.0464" y1="103.2037" x2="103.2037" y2="126.0464" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4655" />
+      <stop offset="1" stop-color="#FF4969" />
+    </linearGradient>
+    <linearGradient id="move-6" x1="103.2037" y1="126.0464" x2="72" y2="134.4074" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4969" />
+      <stop offset="1" stop-color="#FF4B7C" />
+    </linearGradient>
+    <linearGradient id="move-7" x1="72" y1="134.4074" x2="40.7963" y2="126.0464" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4B7C" />
+      <stop offset="1" stop-color="#FF4C87" />
+    </linearGradient>
+    <linearGradient id="move-8" x1="40.7963" y1="126.0464" x2="17.9536" y2="103.2037" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4C87" />
+      <stop offset="1" stop-color="#FF4D93" />
+    </linearGradient>
+    <linearGradient id="move-9" x1="17.9536" y1="103.2037" x2="9.5926" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4D93" />
+      <stop offset="1" stop-color="#FF4E9E" />
+    </linearGradient>
+    <linearGradient id="move-10" x1="9.5926" y1="72" x2="17.9536" y2="40.7963" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4E9E" />
+      <stop offset="1" stop-color="#FE4F9F" />
+    </linearGradient>
+    <radialGradient id="move-overlap-shade">
+      <stop offset=".52" stop-color="#10151D" stop-opacity=".14" />
+      <stop offset="1" stop-color="#10151D" stop-opacity="0" />
+    </radialGradient>
+    <clipPath id="exercise-ring" clipPathUnits="userSpaceOnUse">
+      <path clip-rule="evenodd" d="M22.0147 72a49.9853 49.9853 0 1 0 99.9705 0a49.9853 49.9853 0 1 0 -99.9705 0ZM37.2036 72a34.7964 34.7964 0 1 0 69.5928 0a34.7964 34.7964 0 1 0 -69.5928 0Z" />
+    </clipPath>
+    <linearGradient id="exercise-1" x1="72" y1="29.6092" x2="93.1954" y2="35.2885" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8BD02F" />
+      <stop offset="1" stop-color="#93DE34" />
+    </linearGradient>
+    <linearGradient id="exercise-2" x1="93.1954" y1="35.2885" x2="108.7115" y2="50.8046" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#93DE34" />
+      <stop offset="1" stop-color="#9DEC39" />
+    </linearGradient>
+    <linearGradient id="exercise-3" x1="108.7115" y1="50.8046" x2="114.3908" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9DEC39" />
+      <stop offset="1" stop-color="#A7F93F" />
+    </linearGradient>
+    <linearGradient id="exercise-4" x1="114.3908" y1="72" x2="108.7115" y2="93.1954" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A7F93F" />
+      <stop offset="1" stop-color="#AEF93F" />
+    </linearGradient>
+    <linearGradient id="exercise-5" x1="108.7115" y1="93.1954" x2="93.1954" y2="108.7115" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#AEF93F" />
+      <stop offset="1" stop-color="#B6F940" />
+    </linearGradient>
+    <linearGradient id="exercise-6" x1="93.1954" y1="108.7115" x2="72" y2="114.3908" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B6F940" />
+      <stop offset="1" stop-color="#BDF940" />
+    </linearGradient>
+    <linearGradient id="exercise-7" x1="72" y1="114.3908" x2="50.8046" y2="108.7115" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BDF940" />
+      <stop offset="1" stop-color="#C4F941" />
+    </linearGradient>
+    <linearGradient id="exercise-8" x1="50.8046" y1="108.7115" x2="35.2885" y2="93.1954" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C4F941" />
+      <stop offset="1" stop-color="#CBF941" />
+    </linearGradient>
+    <linearGradient id="exercise-9" x1="35.2885" y1="93.1954" x2="29.6092" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#CBF941" />
+      <stop offset="1" stop-color="#D3F941" />
+    </linearGradient>
+    <linearGradient id="exercise-10" x1="29.6092" y1="72" x2="35.2885" y2="50.8046" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D3F941" />
+      <stop offset="1" stop-color="#D7F942" />
+    </linearGradient>
+    <linearGradient id="exercise-11" x1="35.2885" y1="50.8046" x2="50.8046" y2="35.2885" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D7F942" />
+      <stop offset="1" stop-color="#DBF942" />
+    </linearGradient>
+    <linearGradient id="exercise-12" x1="50.8046" y1="35.2885" x2="72" y2="29.6092" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DBF942" />
+      <stop offset="1" stop-color="#DFF943" />
+    </linearGradient>
+    <radialGradient id="exercise-overlap-shade">
+      <stop offset=".52" stop-color="#10151D" stop-opacity=".14" />
+      <stop offset="1" stop-color="#10151D" stop-opacity="0" />
+    </radialGradient>
+    <clipPath id="stand-ring" clipPathUnits="userSpaceOnUse">
+      <path clip-rule="evenodd" d="M42.0422 72a29.9578 29.9578 0 1 0 59.9156 0a29.9578 29.9578 0 1 0 -59.9156 0ZM57.2602 72a14.7398 14.7398 0 1 0 29.4795 0a14.7398 14.7398 0 1 0 -29.4795 0Z" />
+    </clipPath>
+    <linearGradient id="stand-1" x1="72" y1="49.6512" x2="83.1744" y2="52.6454" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#19DAE3" />
+      <stop offset="1" stop-color="#1DDFEA" />
+    </linearGradient>
+    <linearGradient id="stand-2" x1="83.1744" y1="52.6454" x2="91.3546" y2="60.8256" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1DDFEA" />
+      <stop offset="1" stop-color="#1FE4F1" />
+    </linearGradient>
+    <linearGradient id="stand-3" x1="91.3546" y1="60.8256" x2="94.3488" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1FE4F1" />
+      <stop offset="1" stop-color="#21EAF7" />
+    </linearGradient>
+    <linearGradient id="stand-4" x1="94.3488" y1="72" x2="91.3546" y2="83.1744" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#21EAF7" />
+      <stop offset="1" stop-color="#22EFF1" />
+    </linearGradient>
+    <linearGradient id="stand-5" x1="91.3546" y1="83.1744" x2="83.1744" y2="91.3546" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22EFF1" />
+      <stop offset="1" stop-color="#22F5EB" />
+    </linearGradient>
+    <linearGradient id="stand-6" x1="83.1744" y1="91.3546" x2="72" y2="94.3488" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22F5EB" />
+      <stop offset="1" stop-color="#23FAE5" />
+    </linearGradient>
+    <linearGradient id="stand-7" x1="72" y1="94.3488" x2="60.8256" y2="91.3546" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#23FAE5" />
+      <stop offset="1" stop-color="#23FADA" />
+    </linearGradient>
+    <linearGradient id="stand-8" x1="60.8256" y1="91.3546" x2="52.6454" y2="83.1744" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#23FADA" />
+      <stop offset="1" stop-color="#22FACF" />
+    </linearGradient>
+    <linearGradient id="stand-9" x1="52.6454" y1="83.1744" x2="49.6512" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22FACF" />
+      <stop offset="1" stop-color="#22FAC4" />
+    </linearGradient>
+    <linearGradient id="stand-10" x1="49.6512" y1="72" x2="52.6454" y2="60.8256" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22FAC4" />
+      <stop offset="1" stop-color="#20F9C0" />
+    </linearGradient>
+    <linearGradient id="stand-11" x1="52.6454" y1="60.8256" x2="60.8256" y2="52.6454" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#20F9C0" />
+      <stop offset="1" stop-color="#20F9BC" />
+    </linearGradient>
+    <linearGradient id="stand-12" x1="60.8256" y1="52.6454" x2="72" y2="49.6512" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#20F9BC" />
+      <stop offset="1" stop-color="#20F9B9" />
+    </linearGradient>
+    <radialGradient id="stand-overlap-shade">
+      <stop offset=".52" stop-color="#10151D" stop-opacity=".14" />
+      <stop offset="1" stop-color="#10151D" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <g clip-path="url(#move-ring)">
+    <circle cx="72" cy="72" r="72" fill="#FE4F9F" />
+    <path fill="url(#move-1)" d="M72 72L71.6433 -0.9991A73 73 0 0 1 108.8085 8.9593Z" />
+    <path fill="url(#move-2)" d="M72 72L108.1906 8.6025A73 73 0 0 1 135.3975 35.8094Z" />
+    <path fill="url(#move-3)" d="M72 72L135.0407 35.1915A73 73 0 0 1 144.9991 72.3567Z" />
+    <path fill="url(#move-4)" d="M72 72L144.9991 71.6433A73 73 0 0 1 135.0407 108.8085Z" />
+    <path fill="url(#move-5)" d="M72 72L135.3975 108.1906A73 73 0 0 1 108.1906 135.3975Z" />
+    <path fill="url(#move-6)" d="M72 72L108.8085 135.0407A73 73 0 0 1 71.6433 144.9991Z" />
+    <path fill="url(#move-7)" d="M72 72L72.3567 144.9991A73 73 0 0 1 35.1915 135.0407Z" />
+    <path fill="url(#move-8)" d="M72 72L35.8094 135.3975A73 73 0 0 1 8.6025 108.1906Z" />
+    <path fill="url(#move-9)" d="M72 72L8.9593 108.8085A73 73 0 0 1 -0.9991 71.6433Z" />
+    <path fill="url(#move-10)" d="M72 72L-0.9991 72.3567A73 73 0 0 1 8.9593 35.1915Z" />
+    <path fill="#FE4F9F" d="M72 72L8.6025 35.8094A73 73 0 0 1 35.8094 8.6025Z" />
+    <path fill="#FE4F9F" d="M72 72L35.1915 8.9593A73 73 0 0 1 72.3567 -0.9991Z" />
+    <circle cx="73.2" cy="9.7426" r="9.3926" fill="url(#move-overlap-shade)" />
+    <circle cx="72" cy="9.5926" r="7.5926" fill="#FE4F9F" />
+  </g>
+  <g clip-path="url(#exercise-ring)">
+    <circle cx="72" cy="72" r="51.9853" fill="#DFF943" />
+    <path fill="url(#exercise-1)" d="M72 72L71.7411 19.0154A52.9853 52.9853 0 0 1 98.7166 26.2434Z" />
+    <path fill="url(#exercise-2)" d="M72 72L98.2681 25.9845A52.9853 52.9853 0 0 1 118.0155 45.7319Z" />
+    <path fill="url(#exercise-3)" d="M72 72L117.7566 45.2834A52.9853 52.9853 0 0 1 124.9846 72.2589Z" />
+    <path fill="url(#exercise-4)" d="M72 72L124.9846 71.7411A52.9853 52.9853 0 0 1 117.7566 98.7166Z" />
+    <path fill="url(#exercise-5)" d="M72 72L118.0155 98.2681A52.9853 52.9853 0 0 1 98.2681 118.0155Z" />
+    <path fill="url(#exercise-6)" d="M72 72L98.7166 117.7566A52.9853 52.9853 0 0 1 71.7411 124.9846Z" />
+    <path fill="url(#exercise-7)" d="M72 72L72.2589 124.9846A52.9853 52.9853 0 0 1 45.2834 117.7566Z" />
+    <path fill="url(#exercise-8)" d="M72 72L45.7319 118.0155A52.9853 52.9853 0 0 1 25.9845 98.2681Z" />
+    <path fill="url(#exercise-9)" d="M72 72L26.2434 98.7166A52.9853 52.9853 0 0 1 19.0154 71.7411Z" />
+    <path fill="url(#exercise-10)" d="M72 72L19.0154 72.2589A52.9853 52.9853 0 0 1 26.2434 45.2834Z" />
+    <path fill="url(#exercise-11)" d="M72 72L25.9845 45.7319A52.9853 52.9853 0 0 1 45.7319 25.9845Z" />
+    <path fill="url(#exercise-12)" d="M72 72L45.2834 26.2434A52.9853 52.9853 0 0 1 72.2589 19.0154Z" />
+    <circle cx="73.2" cy="29.7592" r="9.3944" fill="url(#exercise-overlap-shade)" />
+    <circle cx="72" cy="29.6092" r="7.5944" fill="#DFF943" />
+  </g>
+  <g clip-path="url(#stand-ring)">
+    <circle cx="72" cy="72" r="31.9578" fill="#20F9B9" />
+    <path fill="url(#stand-1)" d="M72 72L71.8389 39.0426A32.9578 32.9578 0 0 1 88.6182 43.5386Z" />
+    <path fill="url(#stand-2)" d="M72 72L88.3392 43.3775A32.9578 32.9578 0 0 1 100.6225 55.6608Z" />
+    <path fill="url(#stand-3)" d="M72 72L100.4614 55.3818A32.9578 32.9578 0 0 1 104.9574 72.1611Z" />
+    <path fill="url(#stand-4)" d="M72 72L104.9574 71.8389A32.9578 32.9578 0 0 1 100.4614 88.6182Z" />
+    <path fill="url(#stand-5)" d="M72 72L100.6225 88.3392A32.9578 32.9578 0 0 1 88.3392 100.6225Z" />
+    <path fill="url(#stand-6)" d="M72 72L88.6182 100.4614A32.9578 32.9578 0 0 1 71.8389 104.9574Z" />
+    <path fill="url(#stand-7)" d="M72 72L72.1611 104.9574A32.9578 32.9578 0 0 1 55.3818 100.4614Z" />
+    <path fill="url(#stand-8)" d="M72 72L55.6608 100.6225A32.9578 32.9578 0 0 1 43.3775 88.3392Z" />
+    <path fill="url(#stand-9)" d="M72 72L43.5386 88.6182A32.9578 32.9578 0 0 1 39.0426 71.8389Z" />
+    <path fill="url(#stand-10)" d="M72 72L39.0426 72.1611A32.9578 32.9578 0 0 1 43.5386 55.3818Z" />
+    <path fill="url(#stand-11)" d="M72 72L43.3775 55.6608A32.9578 32.9578 0 0 1 55.6608 43.3775Z" />
+    <path fill="url(#stand-12)" d="M72 72L55.3818 43.5386A32.9578 32.9578 0 0 1 72.1611 39.0426Z" />
+    <circle cx="73.2" cy="49.8012" r="9.409" fill="url(#stand-overlap-shade)" />
+    <circle cx="72" cy="49.6512" r="7.609" fill="#20F9B9" />
+  </g>
+</svg>

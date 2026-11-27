@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.060606 0 0 1.060606 -4.363636 -4.363636)">
+  <title>FanqieNovel</title>
+  <desc>Qure-style FanqieNovel (番茄小说) icon with vibrant coral-orange tomato slice and bookmark ribbon.</desc>
+  <defs>
+    <linearGradient id="fq-red" gradientUnits="userSpaceOnUse" x1="72" y1="26" x2="72" y2="136">
+      <stop offset="0.0" stop-color="#FF7828"/>
+      <stop offset="0.5" stop-color="#FA4616"/>
+      <stop offset="1.0" stop-color="#D62208"/>
+    </linearGradient>
+    <linearGradient id="fq-ribbon" gradientUnits="userSpaceOnUse" x1="94" y1="6" x2="94" y2="48">
+      <stop offset="0.0" stop-color="#FF6833"/>
+      <stop offset="1.0" stop-color="#E62B0C"/>
+    </linearGradient>
+  </defs>
+  <path d="M 88,6 H 114 V 38 L 101,28 L 88,38 Z" fill="url(#fq-ribbon)"/>
+  <ellipse cx="72" cy="92" rx="62" ry="46" fill="url(#fq-red)"/>
+  <ellipse cx="72" cy="75" rx="6.5" ry="11.5" fill="#FFFFFF"/>
+  <ellipse cx="47" cy="86" rx="6.2" ry="11" transform="rotate(-42 47 86)" fill="#FFFFFF"/>
+  <ellipse cx="97" cy="86" rx="6.2" ry="11" transform="rotate(42 97 86)" fill="#FFFFFF"/>
+  <ellipse cx="38" cy="108" rx="6" ry="10.5" transform="rotate(-78 38 108)" fill="#FFFFFF"/>
+  <ellipse cx="106" cy="108" rx="6" ry="10.5" transform="rotate(78 106 108)" fill="#FFFFFF"/>
+</g></svg>

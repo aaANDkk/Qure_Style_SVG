@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.076923 0 0 1.076923 -5.538462 -6.076923)">
+  <title>TencentMeeting</title>
+  <desc>Qure-style TencentMeeting (腾讯会议) icon with exact 45-degree folded origami twin-peak ribbon.</desc>
+  <defs>
+    <linearGradient id="tm-left" gradientUnits="userSpaceOnUse" x1="8" y1="38" x2="54" y2="108">
+      <stop offset="0.0" stop-color="#60C2FF"/>
+      <stop offset="1.0" stop-color="#2692FF"/>
+    </linearGradient>
+    <linearGradient id="tm-fold" gradientUnits="userSpaceOnUse" x1="49" y1="38" x2="72" y2="84">
+      <stop offset="0.0" stop-color="#0B58E0"/>
+      <stop offset="1.0" stop-color="#063BB0"/>
+    </linearGradient>
+    <linearGradient id="tm-right" gradientUnits="userSpaceOnUse" x1="56" y1="38" x2="134" y2="108">
+      <stop offset="0.0" stop-color="#3CA4FF"/>
+      <stop offset="0.55" stop-color="#1476FF"/>
+      <stop offset="1.0" stop-color="#0754DF"/>
+    </linearGradient>
+  </defs>
+  <path d="M 49.00,38.00 L 10.92,76.08 A 11.20,11.20 0 0,0 10.92,91.92 L 26.00,107.00 L 49.00,84.00 Z" fill="url(#tm-left)"/>
+  <path d="M 49.00,38.00 L 72.00,61.00 L 49.00,84.00 Z" fill="url(#tm-fold)"/>
+  <path d="M 49.00,84.00 L 95.00,38.00 L 133.08,76.08 A 11.20,11.20 0 0,1 133.08,91.92 L 118.00,107.00 L 95.00,84.00 L 72.00,107.00 Z" fill="url(#tm-right)"/>
+</g></svg>

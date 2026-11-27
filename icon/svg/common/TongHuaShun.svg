@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.186441 0 0 1.186441 -13.423729 -12.237288)">
+  <title>TongHuaShun</title>
+  <desc>Qure-style TongHuaShun (同花顺) icon with bold ascending crimson K-line candlesticks.</desc>
+  <defs>
+    <linearGradient id="ths-red" gradientUnits="userSpaceOnUse" x1="72" y1="16" x2="72" y2="128">
+      <stop offset="0.0" stop-color="#FF5454"/>
+      <stop offset="0.5" stop-color="#E61C24"/>
+      <stop offset="1.0" stop-color="#B50D16"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#ths-red)" stroke="url(#ths-red)" stroke-linecap="round">
+    <line x1="24" y1="74" x2="24" y2="124" stroke-width="8"/>
+    <rect x="13" y="88" width="22" height="24" rx="4" stroke="none"/>
+    <line x1="56" y1="54" x2="56" y2="112" stroke-width="8"/>
+    <rect x="45" y="68" width="22" height="30" rx="4" stroke="none"/>
+    <line x1="88" y1="42" x2="88" y2="96" stroke-width="8"/>
+    <rect x="77" y="54" width="22" height="28" rx="4" stroke="none"/>
+    <line x1="120" y1="18" x2="120" y2="82" stroke-width="8"/>
+    <rect x="109" y="30" width="22" height="36" rx="4" stroke="none"/>
+  </g>
+</g></svg>

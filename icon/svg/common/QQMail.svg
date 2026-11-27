@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1 0 0 1 0 0)">
+  <title>QQMail</title>
+  <desc>Qure-style QQMail (QQ邮箱) icon with bold golden-amber envelope.</desc>
+  <defs>
+    <linearGradient id="qm-gold" gradientUnits="userSpaceOnUse" x1="16" y1="24" x2="128" y2="120">
+      <stop offset="0.0" stop-color="#FFE033"/>
+      <stop offset="0.5" stop-color="#FFA600"/>
+      <stop offset="1.0" stop-color="#F06A00"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="26" width="124" height="92" rx="18" fill="none" stroke="url(#qm-gold)" stroke-width="14.5" stroke-linejoin="round"/>
+  <path d="M 18,36 L 72,78 L 126,36" fill="none" stroke="url(#qm-gold)" stroke-width="14.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

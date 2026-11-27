@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>Mitce</title>
+  <desc>Qure-style geometric vector redraw of Mitce emblem; 144x144 canvas with 2px margin.</desc>
+  <defs>
+    <linearGradient id="mitce-grad" gradientUnits="userSpaceOnUse" x1="28" y1="12" x2="128" y2="134">
+      <stop offset="0" stop-color="#697080" />
+      <stop offset="0.5" stop-color="#3B414F" />
+      <stop offset="1" stop-color="#222631" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#mitce-grad)" d="M2 133.5 L99 10.5 V54 L37 133.5 Z
+    M78 91.5 L142 10.5 V52 L78 133.5 Z
+    M116.5 94.5 L142 62 V133.5 H116.5 Z" />
+</svg>

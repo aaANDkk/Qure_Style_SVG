@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>Ikuuu</title>
+  <desc>Qure-style vector redraw of iKuuu official favicon tuxedo cat; 144x144 canvas with 2px margin.</desc>
+  <defs>
+    <linearGradient id="cat-body" gradientUnits="userSpaceOnUse" x1="72" y1="15" x2="72" y2="116">
+      <stop offset="0" stop-color="#70737D" />
+      <stop offset="0.40" stop-color="#41434D" />
+      <stop offset="0.76" stop-color="#21232A" />
+      <stop offset="1" stop-color="#171920" />
+    </linearGradient>
+    <radialGradient id="cat-crown" gradientUnits="userSpaceOnUse" cx="72" cy="34" r="48">
+      <stop offset="0" stop-color="#9699A4" stop-opacity="0.50" />
+      <stop offset="0.65" stop-color="#555864" stop-opacity="0.14" />
+      <stop offset="1" stop-color="#24262E" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="cat-ear-outer" gradientUnits="userSpaceOnUse" x1="72" y1="13" x2="72" y2="50">
+      <stop offset="0" stop-color="#848792" />
+      <stop offset="0.28" stop-color="#484A54" />
+      <stop offset="1" stop-color="#1B1D24" />
+    </linearGradient>
+    <linearGradient id="cat-ear-inner" gradientUnits="userSpaceOnUse" x1="72" y1="20" x2="72" y2="44">
+      <stop offset="0" stop-color="#C9DDFF" />
+      <stop offset="0.26" stop-color="#F2E7FF" />
+      <stop offset="1" stop-color="#DFC7F6" />
+    </linearGradient>
+    <linearGradient id="cat-arm-l" gradientUnits="userSpaceOnUse" x1="18" y1="58" x2="26" y2="87">
+      <stop offset="0" stop-color="#545762" />
+      <stop offset="0.55" stop-color="#262830" />
+      <stop offset="1" stop-color="#171920" />
+    </linearGradient>
+    <linearGradient id="cat-arm-r" gradientUnits="userSpaceOnUse" x1="126" y1="58" x2="118" y2="87">
+      <stop offset="0" stop-color="#545762" />
+      <stop offset="0.55" stop-color="#262830" />
+      <stop offset="1" stop-color="#171920" />
+    </linearGradient>
+    <linearGradient id="cat-white" gradientUnits="userSpaceOnUse" x1="72" y1="59" x2="72" y2="113">
+      <stop offset="0" stop-color="#FFFFFF" />
+      <stop offset="0.72" stop-color="#F2F4FA" />
+      <stop offset="1" stop-color="#D5DBEB" />
+    </linearGradient>
+    <radialGradient id="cat-paw-l" gradientUnits="userSpaceOnUse" cx="12.5" cy="68.5" r="14.5">
+      <stop offset="0" stop-color="#FFFFFF" />
+      <stop offset="0.58" stop-color="#F1F4FB" />
+      <stop offset="0.88" stop-color="#D4DCEC" />
+      <stop offset="1" stop-color="#BDC7DC" />
+    </radialGradient>
+    <radialGradient id="cat-paw-r" gradientUnits="userSpaceOnUse" cx="131.5" cy="68.5" r="14.5">
+      <stop offset="0" stop-color="#FFFFFF" />
+      <stop offset="0.58" stop-color="#F1F4FB" />
+      <stop offset="0.88" stop-color="#D4DCEC" />
+      <stop offset="1" stop-color="#BDC7DC" />
+    </radialGradient>
+    <linearGradient id="cat-eye" gradientUnits="userSpaceOnUse" x1="0" y1="62.5" x2="0" y2="75.5">
+      <stop offset="0" stop-color="#D4E9FF" />
+      <stop offset="0.34" stop-color="#68ADFF" />
+      <stop offset="1" stop-color="#2066DA" />
+    </linearGradient>
+    <linearGradient id="cat-nose" gradientUnits="userSpaceOnUse" x1="72" y1="71" x2="72" y2="79">
+      <stop offset="0" stop-color="#B066EE" />
+      <stop offset="0.52" stop-color="#7028B9" />
+      <stop offset="1" stop-color="#45107C" />
+    </linearGradient>
+    <linearGradient id="cat-tail" gradientUnits="userSpaceOnUse" x1="88" y1="86" x2="72" y2="131">
+      <stop offset="0" stop-color="#848793" />
+      <stop offset="0.42" stop-color="#525560" />
+      <stop offset="0.80" stop-color="#2A2D36" />
+      <stop offset="1" stop-color="#1F222A" />
+    </linearGradient>
+    <radialGradient id="cat-tail-tip" gradientUnits="userSpaceOnUse" cx="38" cy="115" r="16.5">
+      <stop offset="0" stop-color="#FFFFFF" />
+      <stop offset="0.56" stop-color="#EFF2FA" />
+      <stop offset="0.88" stop-color="#D2DAEA" />
+      <stop offset="1" stop-color="#B9C3D8" />
+    </radialGradient>
+  </defs>
+
+  <!-- Outstretched dark sleeves (terminate cleanly behind the white paw cuffs, no black outline around paw tips) -->
+  <path d="M32 67.5 C26 65 22 63.5 18.8 62.5 L13.8 81.2 C21 84.5 29 87.5 38 90 Z" fill="url(#cat-arm-l)" />
+  <path d="M112 67.5 C118 65 122 63.5 125.2 62.5 L130.2 81.2 C123 84.5 115 87.5 106 90 Z" fill="url(#cat-arm-r)" />
+
+  <!-- Plump white mitten paws cleanly capping the sleeves (soft plush shading, exact 2px margin) -->
+  <path d="M21.4 61.4 C13.8 57.5 4.8 59.8 3.0 67.7 C1.6 74.1 6.0 80.8 13.8 83.2 L21.4 85.2 C17.6 80.0 19.8 72.4 24.4 67.4 C25.6 65.0 24.0 62.8 21.4 61.4 Z" fill="url(#cat-paw-l)" stroke="#BAC4D8" stroke-width="0.7" stroke-opacity="0.55" />
+  <path d="M122.6 61.4 C130.2 57.5 139.2 59.8 141.0 67.7 C142.4 74.1 138.0 80.8 130.2 83.2 L122.6 85.2 C126.4 80.0 124.2 72.4 119.6 67.4 C118.4 65.0 120.0 62.8 122.6 61.4 Z" fill="url(#cat-paw-r)" stroke="#BAC4D8" stroke-width="0.7" stroke-opacity="0.55" />
+
+  <!-- Chubby rounded head & torso -->
+  <path d="M72 15.5 C99 15.5 121 31.5 121 54.5 C121 73 113 88.5 107 105.5 C104 113.5 92.5 117 72 117 C51.5 117 40 113.5 37 105.5 C31 88.5 23 73 23 54.5 C23 31.5 45 15.5 72 15.5 Z" fill="url(#cat-body)" />
+  <ellipse cx="72" cy="39" rx="43" ry="22.5" fill="url(#cat-crown)" />
+
+  <!-- Pointed rounded-triangle ears (left & right symmetric) -->
+  <path d="M17.5 13.8 C27 13.2 41.5 16 50.2 20.5 C43.5 29.5 36.2 40 27 49.2 C19.2 39.8 14 26 12.8 19.2 C12.2 15.6 14.2 14 17.5 13.8 Z" fill="url(#cat-ear-outer)" />
+  <path d="M20.2 21 C27.2 20.5 37 22 42.8 24.5 C37.8 31.2 32.8 38.2 27 43.4 C22 36.8 19 28.6 18.4 23.8 C18.1 22 19 21.1 20.2 21 Z" fill="url(#cat-ear-inner)" />
+
+  <path d="M126.5 13.8 C117 13.2 102.5 16 93.8 20.5 C100.5 29.5 107.8 40 117 49.2 C124.8 39.8 130 26 131.2 19.2 C131.8 15.6 129.8 14 126.5 13.8 Z" fill="url(#cat-ear-outer)" />
+  <path d="M123.8 21 C116.8 20.5 107 22 101.2 24.5 C106.2 31.2 111.2 38.2 117 43.4 C122 36.8 125 28.6 125.6 23.8 C125.9 22 125 21.1 123.8 21 Z" fill="url(#cat-ear-inner)" />
+
+  <!-- Keyhole white muzzle & chest bib -->
+  <path d="M72 59.2 C87.5 59.2 95.2 68 94.4 79 C93.6 87.2 86.2 92 82 94.8 C79.8 96.3 81.4 97.4 84.5 97.5 C92.2 97.8 98.2 102 99.8 111.5 C91.5 115 82.2 116.5 72 116.5 C61.8 116.5 52.5 115 44.2 111.5 C45.8 102 51.8 97.8 59.5 97.5 C62.6 97.4 64.2 96.3 62 94.8 C57.8 92 50.4 87.2 49.6 79 C48.8 68 56.5 59.2 72 59.2 Z" fill="url(#cat-white)" />
+
+  <!-- Glossy sky-blue eyes -->
+  <ellipse cx="44.2" cy="69.2" rx="4.2" ry="5.9" fill="url(#cat-eye)" />
+  <ellipse cx="43.8" cy="66.2" rx="1.8" ry="2.0" fill="#FFFFFF" opacity="0.90" />
+  <ellipse cx="99.8" cy="69.2" rx="4.2" ry="5.9" fill="url(#cat-eye)" />
+  <ellipse cx="99.4" cy="66.2" rx="1.8" ry="2.0" fill="#FFFFFF" opacity="0.90" />
+
+  <!-- Smile & philtrum -->
+  <path d="M72 77.8 V90" fill="none" stroke="#4D4258" stroke-width="2.1" stroke-linecap="round" />
+  <path d="M58 77 C58 86 64.2 91.2 72 91.2 C79.8 91.2 86 86 86 77" fill="none" stroke="#2D1D38" stroke-width="2.6" stroke-linecap="round" />
+
+  <!-- Purple rounded-triangle nose -->
+  <path d="M67 71.2 H77 C78.4 71.2 78.9 72.6 77.8 74 L73.6 78.6 C72.7 79.5 71.3 79.5 70.4 78.6 L66.2 74 C65.1 72.6 65.6 71.2 67 71.2 Z" fill="url(#cat-nose)" />
+  <ellipse cx="71.2" cy="72.8" rx="2.7" ry="1.0" fill="#DFB8FF" opacity="0.65" />
+
+  <!-- Plush curled charcoal tail wrapping bottom from right to left -->
+  <path d="M111.5 82.5 C116.8 90.5 118.5 100.5 115.8 110 C112 123 97.5 130.5 70.5 130.8 C56.5 131 44.5 130.2 38 128.6 C33 127 32 108.8 40.5 106 C50 109 61.8 110.8 72.8 110.8 C92.5 110.8 106 102.8 111.5 82.5 Z" fill="url(#cat-tail)" />
+
+  <!-- Plump rounded white tail tip on bottom-left -->
+  <path d="M44.8 105.8 C35.5 103.8 26.2 109.2 25.2 117.2 C24.2 124.6 31.8 130.4 42.2 130.6 C47.8 130.7 51.8 128.2 51.2 123.6 C48.8 118.4 45.6 112.5 44.8 105.8 Z" fill="url(#cat-tail-tip)" />
+</svg>

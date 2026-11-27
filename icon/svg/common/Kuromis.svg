@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>Kuromis</title>
+  <desc>Qure-style symmetric vector redraw of Kuromis emblem; 144x144 canvas with 2px margin.</desc>
+  <defs>
+    <linearGradient id="kuromi-grad" gradientUnits="userSpaceOnUse" x1="36" y1="12" x2="108" y2="132">
+      <stop offset="0" stop-color="#B954FF" />
+      <stop offset="0.52" stop-color="#9A36F5" />
+      <stop offset="1" stop-color="#7B1FE0" />
+    </linearGradient>
+    <mask id="kuromi-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="144" height="144">
+      <rect x="0" y="0" width="144" height="144" fill="#000000" />
+      <!-- Outer Kuromi jester hood silhouette (strictly symmetric about x=72) -->
+      <path fill="#FFFFFF" d="M72 47.5 C79 47.5 85.5 48.8 90.5 50.8 L89.5 42.5 L131 23 L129.5 64.5 L121.5 68.5 C124.5 76.5 126 84.5 125 93 C123 114 106 128 87.5 131.5 C95.5 125 101 118 102.5 109.5 C103.8 102 100.5 94 94.5 90.5 L87 88.5 L81 91.5 L72 86 L63 91.5 L57 88.5 L49.5 90.5 C43.5 94 40.2 102 41.5 109.5 C43 118 48.5 125 56.5 131.5 C38 128 21 114 19 93 C18 84.5 19.5 76.5 22.5 68.5 L14.5 64.5 L13 23 L54.5 42.5 L53.5 50.8 C58.5 48.8 65 47.5 72 47.5 Z" />
+      <!-- Left & right jester ear pom-pom balls -->
+      <circle cx="9.2" cy="19.7" r="7.2" fill="#FFFFFF" />
+      <circle cx="134.8" cy="19.7" r="7.2" fill="#FFFFFF" />
+
+      <!-- Skull forehead cutout (transparent hole) -->
+      <ellipse cx="72" cy="72.5" rx="12.5" ry="9.8" fill="#000000" />
+      <rect x="65" y="79" width="14" height="6.2" rx="2.5" fill="#000000" />
+      <!-- Skull eyes + teeth dots back in white -->
+      <ellipse cx="66.8" cy="74.8" rx="2.0" ry="2.6" fill="#FFFFFF" />
+      <ellipse cx="77.2" cy="74.8" rx="2.0" ry="2.6" fill="#FFFFFF" />
+      <rect x="68.8" y="81.6" width="1.8" height="3.6" fill="#FFFFFF" />
+      <rect x="73.4" y="81.6" width="1.8" height="3.6" fill="#FFFFFF" />
+
+      <!-- Heart cheeks (left & right symmetric) -->
+      <path fill="#FFFFFF" d="M53.5 108.5 C53.5 108.5 46.2 103.6 46.2 99.0 C46.2 96.4 48.2 94.8 50.4 94.8 C51.9 94.8 53.0 95.6 53.5 96.7 C54.0 95.6 55.1 94.8 56.6 94.8 C58.8 94.8 60.8 96.4 60.8 99.0 C60.8 103.6 53.5 108.5 53.5 108.5 Z" />
+      <path fill="#FFFFFF" d="M90.5 108.5 C90.5 108.5 83.2 103.6 83.2 99.0 C83.2 96.4 85.2 94.8 87.4 94.8 C88.9 94.8 90.0 95.6 90.5 96.7 C91.0 95.6 92.1 94.8 93.6 94.8 C95.8 94.8 97.8 96.4 97.8 99.0 C97.8 103.6 90.5 108.5 90.5 108.5 Z" />
+      <!-- Cute tiny nose dot -->
+      <circle cx="72" cy="121.2" r="2.2" fill="#FFFFFF" />
+    </mask>
+  </defs>
+  <rect x="0" y="0" width="144" height="144" fill="url(#kuromi-grad)" mask="url(#kuromi-mask)" />
+</svg>

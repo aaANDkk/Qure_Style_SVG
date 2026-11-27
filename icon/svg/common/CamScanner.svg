@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.029412 0 0 1.029412 -1.088235 -1.602941)">
+  <title>CamScanner</title>
+  <desc>Qure-style CamScanner (扫描全能王) icon with bold CS monogram and emerald-teal scan bar.</desc>
+  <defs>
+    <linearGradient id="cs-navy" gradientUnits="userSpaceOnUse" x1="72" y1="18" x2="72" y2="104">
+      <stop offset="0.0" stop-color="#3E506B"/>
+      <stop offset="0.5" stop-color="#1E2B3E"/>
+      <stop offset="1.0" stop-color="#0E1724"/>
+    </linearGradient>
+    <linearGradient id="cs-teal" gradientUnits="userSpaceOnUse" x1="10" y1="112" x2="134" y2="128">
+      <stop offset="0.0" stop-color="#36F0C8"/>
+      <stop offset="0.5" stop-color="#00C49F"/>
+      <stop offset="1.0" stop-color="#009E82"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#cs-navy)" stroke-width="15.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 65,35 C 58,27 49,23 39,23 C 22,23 11,38 11,59 C 11,80 22,95 39,95 C 49,95 58,91 65,83"/>
+    <path d="M 129,34 C 122,26 112,23 102,23 C 89,23 81,31 81,41 C 81,52 90,56 105,60 C 121,64 131,70 131,81 C 131,91 121,95 106,95 C 94,95 85,91 79,84"/>
+  </g>
+  <rect x="8" y="112" width="128" height="16" rx="8" fill="url(#cs-teal)"/>
+</g></svg>

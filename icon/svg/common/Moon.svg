@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.111111 0 0 1.111111 -10.222222 -9.111111)">
+  <title>Moon</title>
+  <desc>Qure-style Moon icon with bold Gothic royal-amethyst crescent moon and masquerade star crest.</desc>
+  <defs>
+    <linearGradient id="mjk-purple" gradientUnits="userSpaceOnUse" x1="72" y1="6" x2="72" y2="138">
+      <stop offset="0.0" stop-color="#A678FF"/>
+      <stop offset="0.5" stop-color="#6F3EE8"/>
+      <stop offset="1.0" stop-color="#401AA6"/>
+    </linearGradient>
+    <linearGradient id="mjk-silver" gradientUnits="userSpaceOnUse" x1="72" y1="20" x2="72" y2="124">
+      <stop offset="0.0" stop-color="#FFFFFF"/>
+      <stop offset="0.6" stop-color="#E2D9FF"/>
+      <stop offset="1.0" stop-color="#BBA8F8"/>
+    </linearGradient>
+  </defs>
+  <path d="M 88,10 C 48,10 16,40 16,76 C 16,110 44,136 79,136 C 102,136 122,124 132,106 C 119,113 105,115 90,112 C 63,106 45,82 48,55 C 51,33 67,16 88,10 Z" fill="url(#mjk-purple)"/>
+  <path d="M 96,24 L 103,48 L 127,55 L 103,62 L 96,86 L 89,62 L 65,55 L 89,48 Z" fill="url(#mjk-silver)" stroke="url(#mjk-purple)" stroke-width="4" stroke-linejoin="round" paint-order="stroke fill"/>
+  <circle cx="96" cy="55" r="6" fill="url(#mjk-purple)"/>
+</g></svg>

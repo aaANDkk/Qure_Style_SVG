@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>Clashx.app</title>
+  <desc>Qure-style bold vector redraw of Clashx.app with crisp chevron spacing; 144x144 canvas with 2px margin.</desc>
+  <defs>
+    <linearGradient id="cx-grad" gradientUnits="userSpaceOnUse" x1="24" y1="8" x2="116" y2="138">
+      <stop offset="0" stop-color="#F88C92"/>
+      <stop offset="1" stop-color="#CF354C"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#cx-grad)" stroke-width="8.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Left outer chevron -->
+    <path d="M51 9 L10 64 Q4 72 10 80 L51 135 L102 84"/>
+    <!-- Right inner chevron (shifted +26px right for clean generous separation) -->
+    <path d="M77 9 L36 64 Q30 72 36 80 L77 135 L136 76"/>
+    <!-- Horizontal wing bar -->
+    <path d="M36 64 H134"/>
+  </g>
+</svg>

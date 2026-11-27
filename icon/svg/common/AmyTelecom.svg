@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>AmyTelecom</title>
+  <desc>Qure-style clean vector redraw of AmyTelecom hula piggy mascot; 144x144 canvas with 2px margin.</desc>
+  <defs>
+    <linearGradient id="amy-pink" gradientUnits="userSpaceOnUse" x1="72" y1="14" x2="72" y2="124">
+      <stop offset="0" stop-color="#FFF0F2" />
+      <stop offset="0.58" stop-color="#FFE0E6" />
+      <stop offset="1" stop-color="#FFC9D5" />
+    </linearGradient>
+    <linearGradient id="amy-flower" gradientUnits="userSpaceOnUse" x1="88" y1="18" x2="118" y2="48">
+      <stop offset="0" stop-color="#FFBAC7" />
+      <stop offset="1" stop-color="#FF8DA5" />
+    </linearGradient>
+    <linearGradient id="amy-skirt" gradientUnits="userSpaceOnUse" x1="72" y1="115" x2="72" y2="140">
+      <stop offset="0" stop-color="#9BF5A8" />
+      <stop offset="1" stop-color="#5BD678" />
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(0 1)">
+  <!-- Main pig body, arms & head silhouette with crisp dark charcoal outline -->
+  <path fill="url(#amy-pink)" stroke="#232026" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round"
+    d="M36 27 C34 15 35 6 40 4 C46 2 54 11 58 20 C67 17.5 78 17.5 87 20 C91 11 98 3 105 5 C110 7 110 17 108 28 C118 39 124 53 123 68 C122 82 116 92 108 98 C120 105 129 117 132 130 L124 132 L120 123 L122 138 H22 L24 123 L20 132 L12 130 C15 117 24 105 36 98 C28 92 22 82 21 68 C20 53 26 39 36 27 Z" />
+
+  <!-- Cute arm crease lines -->
+  <path d="M37 109 L34 122 M107 109 L110 122" fill="none" stroke="#232026" stroke-width="3.4" stroke-linecap="round" />
+
+  <!-- Mint-green zigzag grass hula skirt -->
+  <path fill="url(#amy-skirt)" stroke="#232026" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"
+    d="M34 118 C54 121 90 121 110 118 L120 138 L113 130 L106 139 L99 130 L92 139 L85 130 L78 139 L72 130 L66 139 L59 130 L52 139 L45 130 L38 139 L31 130 L24 138 Z" />
+
+  <!-- Rosy blush cheeks -->
+  <ellipse cx="43.5" cy="73" rx="9" ry="7.2" fill="#FFB9C6" opacity="0.82" />
+  <ellipse cx="100.5" cy="73" rx="9" ry="7.2" fill="#FFB9C6" opacity="0.82" />
+
+  <!-- Expressive dark round eyes -->
+  <circle cx="51" cy="57.5" r="4.2" fill="#232026" />
+  <circle cx="93" cy="57.5" r="4.2" fill="#232026" />
+
+  <!-- Classic cute oval pig snout -->
+  <rect x="57.5" y="59" width="29" height="19.5" rx="9.5" fill="#FFF3F5" stroke="#232026" stroke-width="3.6" />
+  <rect x="65.5" y="64.5" width="4.4" height="8.5" rx="2.2" fill="#232026" />
+  <rect x="74.1" y="64.5" width="4.4" height="8.5" rx="2.2" fill="#232026" />
+
+  <!-- 5-petal pink blossom tucked on right ear -->
+  <g transform="translate(103 33)">
+    <g fill="url(#amy-flower)" stroke="#232026" stroke-width="3.2" stroke-linejoin="round">
+      <circle cx="0" cy="-10.5" r="7.2" />
+      <circle cx="10" cy="-3.2" r="7.2" />
+      <circle cx="6.2" cy="8.5" r="7.2" />
+      <circle cx="-6.2" cy="8.5" r="7.2" />
+      <circle cx="-10" cy="-3.2" r="7.2" />
+    </g>
+    <!-- Fill center petals seamlessly then add cream flower center -->
+    <circle cx="0" cy="0" r="8.5" fill="url(#amy-flower)" />
+    <circle cx="0" cy="0" r="5.2" fill="#FFF2E0" stroke="#232026" stroke-width="3.0" />
+  </g>
+  </g>
+</svg>

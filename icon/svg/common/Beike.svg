@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.166667 0 0 1.166667 -12 -15.5)">
+  <title>Beike</title>
+  <desc>Qure-style Beike (贝壳找房) icon with roof chevron and seashell arc in gradient blue-violet-coral.</desc>
+  <defs>
+    <linearGradient id="bk-grad" gradientUnits="userSpaceOnUse" x1="16" y1="20" x2="128" y2="124">
+      <stop offset="0.0" stop-color="#1EA8FF"/>
+      <stop offset="0.45" stop-color="#587CFF"/>
+      <stop offset="0.78" stop-color="#C87CFF"/>
+      <stop offset="1.0" stop-color="#FF9070"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#bk-grad)" stroke-width="19" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 22,68 L 67,30 C 70,27.5 74,27.5 77,30 L 122,68"/>
+    <path d="M 38,94 C 46,114 60,122 72,122 C 84,122 98,114 106,94"/>
+  </g>
+</g></svg>

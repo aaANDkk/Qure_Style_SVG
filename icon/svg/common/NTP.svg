@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.09375 0 0 1.09375 -6.75 -6.75)">
+  <title>NTP</title>
+  <desc>Qure-style NTP Network Time Protocol icon with bold clock and sync arrow.</desc>
+  <defs>
+    <linearGradient id="p6-ntp-grad" gradientUnits="userSpaceOnUse" x1="72" y1="15" x2="72" y2="129">
+      <stop offset="0.0" stop-color="#06B6D4"/>
+      <stop offset="0.5" stop-color="#0284C7"/>
+      <stop offset="1.0" stop-color="#0369A1"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#p6-ntp-grad)" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 72,46 V 72.5 L 87,87.5"/>
+    <path d="M 15.2,66.2 A 57,57 0 1,1 18.4,91.6"/>
+    <path d="M 16.5,121 V 91.6 H 46"/>
+  </g>
+</g></svg>

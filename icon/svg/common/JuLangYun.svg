@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144"><g data-canvas-fit="2px" transform="matrix(1.044776 0 0 1.044776 -3.223881 -3.223881)">
+  <title>巨浪云</title>
+  <defs>
+    <linearGradient id="jly-g" gradientUnits="userSpaceOnUse" x1="24" y1="16" x2="111" y2="132">
+      <stop offset="0" stop-color="#72D4EA"/>
+      <stop offset="1" stop-color="#2274A2"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#jly-g)" stroke-width="13.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 40 Q27 26 42 40 T72 40 T102 40 T132 40"/>
+    <path d="M12 72 Q27 58 42 72 T72 72 T102 72 T132 72"/>
+    <path d="M12 104 Q27 90 42 104 T72 104 T102 104 T132 104"/>
+  </g>
+</g></svg>
